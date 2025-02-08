@@ -2,13 +2,12 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
-# Load your dataset (update with your file path)
-file_path = "OCR Interview Employee and Applicant Dataset.xlsx"
-xls = pd.ExcelFile(file_path)
+# Load the cleaned CSV files
+employee_csv_path = "Redacted_Employee_Data.csv"
+applicant_csv_path = "Redacted_Applicant_Data.csv"
 
-# Read the Excel sheets
-employee_df = pd.read_excel(xls, sheet_name="Employee Data")
-applicant_df = pd.read_excel(xls, sheet_name="Applicant Data")
+employee_df = pd.read_csv(employee_csv_path)
+applicant_df = pd.read_csv(applicant_csv_path)
 
 # Define demographic columns and job families
 demographic_columns = ["Sex", "Disabled", "Disab Vet", "Race/Ethnicity", "Mil Status"]
@@ -16,10 +15,12 @@ job_families = employee_df["Job Fmaily"].dropna().unique()
 
 # Streamlit app layout
 st.title("Interactive Demographic Comparison Dashboard")
+
+# Dropdowns for job family and demographic column selection
 selected_job_family = st.selectbox("Select Job Family", job_families)
 selected_demographic = st.selectbox("Select Demographic", demographic_columns)
 
-# Filter data for the selected job family
+# Filter employee data for the selected job family
 employee_subset = employee_df[employee_df["Job Fmaily"] == selected_job_family]
 
 # Calculate percentage distributions
