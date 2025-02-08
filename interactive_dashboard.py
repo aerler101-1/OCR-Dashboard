@@ -1,50 +1,49 @@
-import os
 import pandas as pd
-import matplotlib.pyplot as plt
+import plotly.express as px
 import streamlit as st
 
-# Load the dataset
+# Load your dataset (update with your file path)
 file_path = "OCR Interview Employee and Applicant Dataset.xlsx"
 xls = pd.ExcelFile(file_path)
 
+# Read the Excel sheets
 employee_df = pd.read_excel(xls, sheet_name="Employee Data")
 applicant_df = pd.read_excel(xls, sheet_name="Applicant Data")
 
-# Identifying the correct demographic columns
+# Define demographic columns and job families
 demographic_columns = ["Sex", "Disabled", "Disab Vet", "Race/Ethnicity", "Mil Status"]
-
-# Get unique job families
 job_families = employee_df["Job Fmaily"].dropna().unique()
 
-# Streamlit UI
-st.title("Demographic Breakdown: Employee vs. Applicant Comparison")
-
-# Dropdowns for job family and demographic selection
+# Streamlit app layout
+st.title("Interactive Demographic Comparison Dashboard")
 selected_job_family = st.selectbox("Select Job Family", job_families)
 selected_demographic = st.selectbox("Select Demographic", demographic_columns)
 
-# Filter employee data for the selected job family
+# Filter data for the selected job family
 employee_subset = employee_df[employee_df["Job Fmaily"] == selected_job_family]
 
-# Compute percentage distributions
+# Calculate percentage distributions
 employee_counts = employee_subset[selected_demographic].value_counts(normalize=True) * 100
 applicant_counts = applicant_df[selected_demographic].value_counts(normalize=True) * 100
 
-# Combine for plotting
-demographic_data = pd.DataFrame({
-    "Employee %": employee_counts,
-    "Applicant %": applicant_counts
-}).fillna(0)
+# Combine data for Plotly
+data = pd.DataFrame({
+    "Category": employee_counts.index.tolist() + applicant_counts.index.tolist(),
+    "Percentage": employee_counts.tolist() + applicant_counts.tolist(),
+    "Group": ["Employee"] * len(employee_counts) + ["Applicant"] * len(applicant_counts)
+})
 
-# Plot the bar chart
-fig, ax = plt.subplots(figsize=(10, 6))
-demographic_data.plot(kind="bar", ax=ax)
-plt.title(f"Comparison of {selected_demographic} Distribution - {selected_job_family}")
-plt.ylabel("Percentage")
-plt.xlabel(selected_demographic)
-plt.xticks(rotation=45)
-plt.legend(["Employee %", "Applicant %"])
-plt.grid(axis="y", linestyle="--", alpha=0.7)
+# Create an interactive bar chart with Plotly
+fig = px.bar(
+    data,
+    x="Category",
+    y="Percentage",
+    color="Group",
+    barmode="group",
+    title=f"{selected_demographic} Distribution for {selected_job_family}",
+    labels={"Percentage": "Percentage (%)", "Category": selected_demographic},
+    hover_data={"Percentage": ":.2f"}  # Display percentage with two decimal points
+)
 
-# Show the chart in Streamlit
-st.pyplot(fig)
+# Show the Plotly chart in Streamlit
+st.plotly_chart(fig, use_container_width=True)
