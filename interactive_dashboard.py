@@ -9,11 +9,12 @@ applicant_csv_path = "Redacted_Applicant_Data.csv"
 employee_df = pd.read_csv(employee_csv_path)
 applicant_df = pd.read_csv(applicant_csv_path)
 
-# Define demographic columns and job families
+# Define demographic columns
 demographic_columns = ["Sex", "Disabled", "Disab Vet", "Race/Ethnicity", "Mil Status"]
 
 # Fix the column name for "Job Family" (correct spelling)
-job_families = list(employee_df["Job Family"].dropna().unique()) + ["Overall"]
+job_families = sorted(employee_df["Job Family"].dropna().unique())  # Sort alphabetically
+job_families = ["Overall"] + job_families  # Add "Overall" as the first option
 
 # Streamlit app layout
 st.title("Interactive Demographic Comparison Dashboard")
@@ -22,7 +23,7 @@ st.title("Interactive Demographic Comparison Dashboard")
 selected_job_family = st.selectbox("Select Job Family", job_families)
 selected_demographic = st.selectbox("Select Demographic", demographic_columns)
 
-# Filter employee and applicant data for the selected job family
+# Filter data based on selection
 if selected_job_family == "Overall":
     # Use the entire dataset for overall comparisons
     employee_subset = employee_df
@@ -50,6 +51,7 @@ data = pd.DataFrame({
     "Group": ["Employee"] * len(all_categories) + ["Applicant"] * len(all_categories)
 })
 
+# Create an interactive bar chart with Plotly
 fig = px.bar(
     data,
     x="Category",
@@ -61,5 +63,5 @@ fig = px.bar(
     hover_data={"Percentage": ":.2f"}  # Display percentage with two decimal points
 )
 
-
+# Show the Plotly chart in Streamlit
 st.plotly_chart(fig, use_container_width=True)
