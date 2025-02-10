@@ -44,7 +44,6 @@ data = pd.DataFrame({
     "Group": ["Employee"] * len(all_categories) + ["Applicant"] * len(all_categories)
 })
 
-# Create an interactive bar chart with Plotly
 fig = px.bar(
     data,
     x="Category",
@@ -52,4 +51,6 @@ fig = px.bar(
     color="Group",
     barmode="group",
     title=f"{selected_demographic} Distribution for {selected_job_family}",
-    labels={"Percentage": "Percentage 
+    labels={"Percentage": "Percentage (%)", "Category": selected_demographic},
+    hover_data={"Percentage": ":.2f"}  # Display percentage with two decimal points
+)
