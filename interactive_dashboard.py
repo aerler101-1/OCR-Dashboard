@@ -54,3 +54,6 @@ fig = px.bar(
     labels={"Percentage": "Percentage (%)", "Category": selected_demographic},
     hover_data={"Percentage": ":.2f"}  # Display percentage with two decimal points
 )
+
+
+st.plotly_chart(fig, use_container_width=True)
