@@ -13,7 +13,7 @@ applicant_df = pd.read_csv(applicant_csv_path)
 demographic_columns = ["Sex", "Disabled", "Disab Vet", "Race/Ethnicity", "Mil Status"]
 
 # Fix the column name for "Job Family" (correct spelling)
-job_families = employee_df["Job Family"].dropna().unique()
+job_families = employee_df["Job Family"].dropna().unique() + ["Overall"]
 
 # Streamlit app layout
 st.title("Interactive Demographic Comparison Dashboard")
