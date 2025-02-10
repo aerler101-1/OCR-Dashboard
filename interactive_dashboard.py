@@ -23,8 +23,14 @@ selected_job_family = st.selectbox("Select Job Family", job_families)
 selected_demographic = st.selectbox("Select Demographic", demographic_columns)
 
 # Filter employee and applicant data for the selected job family
-employee_subset = employee_df[employee_df["Job Family"] == selected_job_family]
-applicant_subset = applicant_df[applicant_df["Job Family"] == selected_job_family]
+if selected_job_family == "Overall":
+    # Use the entire dataset for overall comparisons
+    employee_subset = employee_df
+    applicant_subset = applicant_df
+else:
+    # Filter based on the selected job family
+    employee_subset = employee_df[employee_df["Job Family"] == selected_job_family]
+    applicant_subset = applicant_df[applicant_df["Job Family"] == selected_job_family]
 
 # Calculate percentage distributions
 employee_counts = employee_subset[selected_demographic].value_counts(normalize=True) * 100
