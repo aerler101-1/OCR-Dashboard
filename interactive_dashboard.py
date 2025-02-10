@@ -22,12 +22,13 @@ st.title("Interactive Demographic Comparison Dashboard")
 selected_job_family = st.selectbox("Select Job Family", job_families)
 selected_demographic = st.selectbox("Select Demographic", demographic_columns)
 
-# Filter employee data for the selected job family
+# Filter employee and applicant data for the selected job family
 employee_subset = employee_df[employee_df["Job Family"] == selected_job_family]
+applicant_subset = applicant_df[applicant_df["Job Family"] == selected_job_family]
 
 # Calculate percentage distributions
 employee_counts = employee_subset[selected_demographic].value_counts(normalize=True) * 100
-applicant_counts = applicant_df[selected_demographic].value_counts(normalize=True) * 100
+applicant_counts = applicant_subset[selected_demographic].value_counts(normalize=True) * 100
 
 # Combine both datasets to align categories
 all_categories = set(employee_counts.index).union(set(applicant_counts.index))
@@ -51,9 +52,4 @@ fig = px.bar(
     color="Group",
     barmode="group",
     title=f"{selected_demographic} Distribution for {selected_job_family}",
-    labels={"Percentage": "Percentage (%)", "Category": selected_demographic},
-    hover_data={"Percentage": ":.2f"}  # Display percentage with two decimal points
-)
-
-# Show the Plotly chart in Streamlit
-st.plotly_chart(fig, use_container_width=True)
+    labels={"Percentage": "Percentage 
