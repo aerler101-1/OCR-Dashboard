@@ -1,6 +1,1001 @@
 Employee ID,Name,Position Number,Position Type,Position Category,Translate,Annual Salary,Job Family,EEO-6 Cat,Ctzn Ctry,Res Cntry,Sex,Birthdate,Disabled,Disab Vet,Race/Ethnicity,Mil Status,Start Date
+44238257,REDACTED,14610,Staff,Exempt,Academic Dept 2,60797.08,Research,No EEO-6 Reporting,USA,USA,Female,1991-09-24,N,N,White,I don't wish to answer,2022-06-27
+12860151,REDACTED,18529,Faculty,Regular,Admin Dept 3,62173.03,Faculty,Faculty,USA,USA,Male,1982-06-28,,,Hispanic/Latino,No Military Service,2010-12-05
+14537344,REDACTED,16138,Staff,Exempt,Academic Dept 4,49607.57,Research,No EEO-6 Reporting,USA,USA,Female,1994-03-07,,,White,No Military Service,2014-06-30
+14724429,REDACTED,13332,Staff,Non-exempt,Academic Dept 1,63762.53,Research,No EEO-6 Reporting,USA,USA,Female,1979-01-21,N,N,Hispanic/Latino,No Military Service,2005-05-16
+15168511,REDACTED,19913,Staff,Non-exempt Union,Admin Dept 2,50576.75,Information Technology,No EEO-6 Reporting,USA,USA,Male,1999-10-28,,,White,No Military Service,2015-07-27
+16287580,REDACTED,19777,Faculty,Regular,Admin Dept 1,52340.78,Faculty,Faculty,USA,USA,Male,1982-05-01,,,White,No Military Service,2013-05-31
+18039623,REDACTED,13676,Staff,Exempt,Admin Dept 3,94534.52,Research,No EEO-6 Reporting,USA,USA,Female,2004-08-14,,,White,No Military Service,2015-03-16
+63759890,REDACTED,10265,Staff,Non-Exempt,Academic Dept 2,35924.46,Research,Professional Nonfaculty,USA,USA,Female,1988-01-01,Y,,Asian,No Military Service,2005-11-28
+14646691,REDACTED,22277,Staff,Non-Exempt,Academic Dept 2,36471.5,Research,Postdoctoral,USA,USA,Male,1983-08-25,,,White,No Military Service,2003-05-21
+19915766,REDACTED,20162,Staff,Non-exempt Union,Admin Dept 3,48896.14,Research,Professional Nonfaculty,ESP,USA,Male,1987-07-27,,,White,No Military Service,2013-07-23
+25842499,REDACTED,20567,Staff,Exempt,Academic Dept 4,44531.15,Office & Administrative,Professional Nonfaculty,USA,USA,Female,1975-10-25,,,White,No Military Service,2015-05-26
+28324131,REDACTED,15272,Staff,Research,Academic Dept 2,81161.98,Research,Postdoctoral,USA,USA,Male,1995-01-24,,,American Indian/Alaska Native,No Military Service,2005-06-23
+43827052,REDACTED,22482,Faculty,Regular,Admin Dept 1,30176.62,Faculty,Faculty,PHL,USA,Male,1975-03-30,,,White,No Military Service,2010-09-01
+53840366,REDACTED,19872,Staff,Exempt,Admin Dept 5,50310.18,Faculty,No EEO-6 Reporting,MKD,USA,Female,1964-01-07,,,Black/African American,No Military Service,2016-07-05
+56352134,REDACTED,13023,Staff,Non-exempt,Admin Dept 5,36148.73,Research,Postdoctoral,USA,USA,Female,1977-07-24,,,Hispanic/Latino,No Military Service,2014-09-23
+58470423,REDACTED,15837,Staff,Research,Academic Dept 6,55983.6,Professional Management,Executive/Admin/Managerial,USA,USA,Male,1993-04-21,,,Hispanic/Latino,No Military Service,2013-07-17
+66105470,REDACTED,20222,Staff,Non-exempt Union,Admin Dept 5,38450.48,Professional Management,Professional Nonfaculty,USA,USA,Male,1979-09-04,,,White,No Military Service,2014-07-03
+42864604,REDACTED,17193,Staff,Exempt,Academic Dept 2,74969.28,Research,Faculty,MEX,USA,Female,1969-11-20,,,White,No Military Service,2015-04-27
+81332197,REDACTED,19429,Staff,Exempt,Academic Dept 2,80640.16,Research,No EEO-6 Reporting,CHN,USA,Male,1997-09-02,,,White,No Military Service,2008-01-01
+92633622,REDACTED,16933,Faculty,Regular,Academic Dept 2,46007.87,Faculty,Faculty,USA,USA,Male,1989-04-09,,,White,No Military Service,1998-07-13
+66796103,REDACTED,11276,Staff,Exempt,Academic Dept 5,105216.04,Research,Postdoctoral,GBR,USA,Male,1982-10-25,,,White,No Military Service,1994-09-01
+12736054,REDACTED,15498,Staff,Exempt,Academic Dept 6,42274.05,Research,Postdoctoral,USA,USA,Undeclared,1961-10-10,Y,N,White,Not a Protected Veteran,2023-10-16
+14943645,REDACTED,14133,Staff,Exempt,Academic Dept 4,80239.16,Research,Postdoctoral,IND,USA,Male,1961-12-27,N,N,White,Not a Protected Veteran,2019-12-23
+15573141,REDACTED,13166,Staff,Non-exempt,Admin Dept 3,103798.96,Accounting & Finance,Professional Nonfaculty,CHN,USA,Male,1972-05-30,,,White,Not a Protected Veteran,1998-06-10
+18666963,REDACTED,13195,Staff,Exempt,Admin Dept 1,102491.57,Research,Technical/Paraprofessional,KOR,KOR,Male,1969-07-09,N,N,White,Not a Protected Veteran,2023-04-01
+26031298,REDACTED,20599,Staff,Exempt,Admin Dept 5,54276.73,Accounting & Finance,No EEO-6 Reporting,USA,USA,Female,1995-09-25,,,White,Not a Protected Veteran,2016-06-06
+26288085,REDACTED,10947,Faculty,Regular,Academic Dept 5,117061.05,Faculty,Faculty,USA,USA,Male,1984-10-29,,,White,Not a Protected Veteran,2017-01-01
+93256950,REDACTED,18210,Staff,Non-Exempt,Academic Dept 4,47017.56,Office & Administrative,Professional Nonfaculty,USA,USA,Female,1976-03-26,N,N,White,Not a Protected Veteran,2008-02-11
+36707645,REDACTED,15446,Staff,Exempt,Academic Dept 5,61544.91,Research,Secretarial/Clerical,USA,USA,Female,1958-07-15,N,N,Asian,Not a Protected Veteran,2024-01-16
+57791353,REDACTED,17240,Faculty,Regular,Academic Dept 4,84370.9,Faculty,Faculty,USA,USA,Male,1975-01-02,N,N,Hispanic/Latino,Not a Protected Veteran,2024-03-01
+68069829,REDACTED,19461,Faculty,Regular,Academic Dept 5,43587.74,Faculty,Faculty,USA,USA,Male,1985-11-18,,,White,Not a Protected Veteran,2024-05-21
+69994519,REDACTED,18116,Faculty,Regular,Academic Dept 2,51084.6,Faculty,Faculty,USA,USA,Male,1971-01-23,N,N,Black/African American,Not a Protected Veteran,2008-09-01
+73992079,REDACTED,14751,Staff,Research,Academic Dept 2,102203.1,Professional Management,Professional Nonfaculty,USA,USA,Male,1973-08-19,Y,,Asian,Not a Protected Veteran,2015-10-19
+81273997,REDACTED,17953,Faculty,Regular,Academic Dept 2,57400.11,Faculty,Faculty,USA,USA,Female,1990-07-24,N,N,Black/African American,Not a Protected Veteran,2016-08-15
+83379545,REDACTED,17564,Faculty,Regular,Academic Dept 2,72006.54,Faculty,Faculty,USA,USA,Male,1986-10-15,,,American Indian/Alaska Native,Not a Protected Veteran,2015-04-01
+84860389,REDACTED,19434,Staff,Exempt,Academic Dept 2,87238.75,Research,Postdoctoral,USA,USA,Female,1982-06-03,N,N,Asian,Not a Protected Veteran,2019-07-01
+88647056,REDACTED,13806,Staff,Non-exempt,Academic Dept 2,64485.9,Facilities,Service Maintenance Workers,USA,USA,Female,1986-09-09,Y,N,White,Not a Protected Veteran,2024-02-26
+89917656,REDACTED,21024,Staff,Exempt,Admin Dept 1,71032.58,Accounting & Finance,No EEO-6 Reporting,IRN,IRN,Female,1989-04-21,,,White,Not a Protected Veteran,2015-11-01
+10141329,REDACTED,22524,Faculty,Regular,Academic Dept 2,24660.65,Faculty,Faculty,IND,IND,Male,1992-04-11,N,N,White,Not a Veteran,2022-10-24
+10195280,REDACTED,22606,Faculty,Regular,Academic Dept 2,104259.35,Faculty,Faculty,USA,USA,Male,1964-02-22,N,N,White,Not a Veteran,2017-07-01
+10285251,REDACTED,13384,Staff,Exempt,Admin Dept 1,92755.66,Research,No EEO-6 Reporting,USA,USA,Male,1994-06-16,N,N,White,Not a Veteran,2022-12-19
+10604832,REDACTED,15668,Staff,Exempt,Academic Dept 2,33183.02,Professional Management,Professional Nonfaculty,USA,USA,Female,1998-10-24,N,N,White,Not a Veteran,2014-01-21
+10696160,REDACTED,13657,Faculty,Regular,Academic Dept 2,61481.47,Faculty,Faculty,USA,USA,Female,1975-01-24,Y,N,Hispanic/Latino,Not a Veteran,2011-01-11
+10759552,REDACTED,13696,Faculty,Regular,Academic Dept 2,49382.85,Faculty,Faculty,USA,USA,Male,1983-12-16,Y,N,Hispanic/Latino,Not a Veteran,2023-11-20
+10926164,REDACTED,21841,Faculty,Regular,Admin Dept 6,25760.83,Faculty,Faculty,USA,USA,Female,1980-05-06,N,N,White,Not a Veteran,2003-09-08
+10935881,REDACTED,15905,Faculty,Regular,Academic Dept 2,76900.85,Faculty,Faculty,CAN,USA,Female,1989-09-02,N,N,Asian,Not a Veteran,2012-02-06
+56245600,REDACTED,12323,Staff,Non-Exempt,Academic Dept 6,15693.07,Office & Administrative,Secretarial/Clerical,USA,USA,Female,1991-04-28,,,Asian,Not a Veteran,2008-10-13
+11126956,REDACTED,14993,Staff,Exempt,Academic Dept 2,44259.12,Research,No EEO-6 Reporting,USA,USA,Female,1992-06-14,N,N,American Indian/Alaska Native,Not a Veteran,2019-04-07
+11210703,REDACTED,15931,Staff,Exempt,Academic Dept 2,81680.51,Research,Technical/Paraprofessional,USA,USA,Female,1987-08-27,N,N,White,Not a Veteran,2022-07-11
+11322470,REDACTED,19107,Staff,Exempt,Academic Dept 2,62431.32,Research,No EEO-6 Reporting,USA,USA,Male,1988-08-25,N,N,White,Not a Veteran,2019-10-21
+11513233,REDACTED,18808,Faculty,Regular,Admin Dept 3,63112.75,Faculty,Faculty,USA,USA,Female,1982-06-01,N,N,White,Not a Veteran,2020-12-21
+11651964,REDACTED,19838,Faculty,Regular,Academic Dept 5,76075.07,Faculty,Faculty,USA,USA,Female,1982-06-13,,,Hispanic/Latino,Not a Veteran,2002-04-21
+11658604,REDACTED,13222,Staff,Exempt,Academic Dept 2,26156.29,Research,No EEO-6 Reporting,USA,USA,Female,1989-06-07,N,N,Hispanic/Latino,Not a Veteran,2022-04-04
+11821419,REDACTED,17486,Staff,Exempt,Academic Dept 5,79959.59,Professional Management,No EEO-6 Reporting,USA,USA,Female,1971-02-28,Y,N,Asian,Not a Veteran,2006-08-21
+11871336,REDACTED,12789,Staff,Research,Academic Dept 1,38206.51,Research,No EEO-6 Reporting,USA,USA,Female,1984-09-16,N,N,White,Not a Veteran,2023-12-01
+12249238,REDACTED,13470,Faculty,Regular,Admin Dept 6,35194.38,Faculty,Faculty,USA,USA,Male,1980-12-09,Y,N,Hispanic/Latino,Not a Veteran,2023-06-12
+12388750,REDACTED,18229,Staff,Exempt,Admin Dept 3,63717.78,"Develop, Alumni & Public Rel",Professional Nonfaculty,USA,USA,Female,2004-06-09,,,Asian,Not a Veteran,2015-09-28
+12439541,REDACTED,14025,Staff,Exempt,Admin Dept 3,76167.34,Office & Administrative,Professional Nonfaculty,USA,USA,Female,1961-04-02,Y,N,Black/African American,Not a Veteran,2021-01-11
+12918775,REDACTED,14875,Staff,Exempt,Academic Dept 1,54639.38,Research,Professional Nonfaculty,USA,USA,Female,1990-06-27,N,N,Hispanic/Latino,Not a Veteran,2018-09-01
+13015578,REDACTED,17344,Staff,Exempt,Admin Dept 5,12577.99,Office & Administrative,No EEO-6 Reporting,USA,USA,Male,1988-04-27,N,N,White,Not a Veteran,2020-09-08
+13500448,REDACTED,13097,Faculty,Regular,Admin Dept 6,46691.34,Faculty,Faculty,USA,USA,Female,1991-02-14,N,N,Hispanic/Latino,Not a Veteran,2019-02-25
+13576592,REDACTED,13016,Staff,Non-exempt,Academic Dept 1,35321.07,Facilities,Service Maintenance Workers,USA,USA,Female,1968-06-03,N,N,Asian,Not a Veteran,2024-05-28
+45198787,REDACTED,22058,Staff,Non-Exempt,Admin Dept 5,25591.05,Research,Faculty,USA,USA,Female,1972-04-07,Y,N,Black/African American,Not a Veteran,2023-10-16
+13696756,REDACTED,17025,Faculty,Regular,Academic Dept 1,76785.87,Faculty,Faculty,USA,USA,Male,1968-06-02,N,N,White,Not a Veteran,2022-10-17
+13776356,REDACTED,13234,Staff,Non-exempt,Academic Dept 6,81410.88,Student Affairs & Services,Executive/Admin/Managerial,CHN,CHN,Female,1975-09-16,N,N,White,Not a Veteran,2022-11-01
+98661910,REDACTED,13603,Staff,Non-Exempt,Academic Dept 2,25894.44,Research,Technical/Paraprofessional,USA,USA,Female,1983-04-22,N,N,White,Not a Veteran,2018-01-02
+13857274,REDACTED,19540,Faculty,Regular,Academic Dept 2,48328.73,Faculty,Faculty,KEN,USA,Female,1992-02-21,N,N,Black/African American,Not a Veteran,2018-12-11
+13978208,REDACTED,21410,Staff,Exempt,Admin Dept 3,71092.64,Professional Management,No EEO-6 Reporting,USA,USA,Male,1976-12-01,N,N,White,Not a Veteran,2011-11-28
+14028909,REDACTED,14930,Faculty,Regular,Academic Dept 2,90895.25,Faculty,Faculty,USA,USA,Female,1995-02-18,N,N,White,Not a Veteran,2023-03-01
+14117231,REDACTED,22200,Staff,Exempt,Academic Dept 4,31747.23,Office & Administrative,Professional Nonfaculty,USA,USA,Female,1979-05-16,N,N,American Indian/Alaska Native,Not a Veteran,1998-10-26
+14376923,REDACTED,17192,Faculty,Regular,Academic Dept 2,92485.16,Faculty,Faculty,USA,USA,Female,1984-02-12,Y,N,White,Not a Veteran,2019-09-26
+14401591,REDACTED,18434,Staff,Exempt,Academic Dept 2,53279.34,Professional Management,No EEO-6 Reporting,BOL,DEU,Female,1951-08-30,N,N,Black/African American,Not a Veteran,1981-07-20
+14668882,REDACTED,18409,Faculty,Regular,Admin Dept 2,58802.07,Faculty,Faculty,USA,USA,Male,1985-08-15,N,N,White,Not a Veteran,2023-04-17
+14696511,REDACTED,18073,Staff,Exempt,Academic Dept 1,68604.96,Research,Postdoctoral,USA,USA,Female,1992-01-11,N,N,Asian,Not a Veteran,2016-03-21
+14852504,REDACTED,19544,Faculty,Research,Academic Dept 2,57907.71,Faculty,Faculty,RUS,USA,Male,1959-05-12,N,N,White,Not a Veteran,2024-03-15
+66626394,REDACTED,17420,Staff,Non-Exempt,Academic Dept 2,28810.49,Information Technology,No EEO-6 Reporting,USA,USA,Female,1987-05-04,N,N,Asian,Not a Veteran,2021-05-03
+15076501,REDACTED,12926,Staff,Non-exempt,Admin Dept 4,79276.39,Office & Administrative,Executive/Admin/Managerial,USA,USA,Female,1977-07-28,N,N,White,Not a Veteran,2022-08-22
+15299364,REDACTED,14590,Staff,Non-exempt,Academic Dept 2,37103.38,Faculty,Professional Nonfaculty,IND,USA,Female,1990-07-22,N,N,American Indian/Alaska Native,Not a Veteran,2022-06-13
+15410090,REDACTED,17151,Faculty,Regular,Admin Dept 5,36114.89,Faculty,Faculty,USA,USA,Female,1990-06-07,N,N,White,Not a Veteran,2020-03-16
+19946114,REDACTED,20958,Staff,Non-Exempt,Academic Dept 1,29714.94,Research,Postdoctoral,USA,USA,Female,1969-02-14,,,White,Not a Veteran,2015-06-01
+15442556,REDACTED,13105,Staff,Exempt,Academic Dept 2,48556.39,Professional Management,Executive/Admin/Managerial,TUR,USA,Undeclared,1994-03-17,Y,N,American Indian/Alaska Native,Not a Veteran,2024-01-15
+15463346,REDACTED,15504,Staff,Exempt,Academic Dept 2,79370.62,Professional Management,No EEO-6 Reporting,USA,USA,Female,1988-05-03,N,N,White,Not a Veteran,2015-08-03
+15483151,REDACTED,19641,Staff,Exempt,Academic Dept 6,50077.76,Office & Administrative,Professional Nonfaculty,USA,USA,Male,1958-10-16,Y,N,Asian,Not a Veteran,1999-08-16
+15620977,REDACTED,18930,Faculty,Regular,Academic Dept 2,45559.59,Faculty,Faculty,USA,USA,Female,1976-05-19,Y,N,Black/African American,Not a Veteran,2011-09-06
+10985160,REDACTED,21692,Staff,Non-Exempt,Academic Dept 2,30157.07,Research,Technical/Paraprofessional,USA,USA,Female,1989-03-05,N,N,White,Not a Veteran,2023-09-01
+15707135,REDACTED,13394,Faculty,Regular,Admin Dept 2,105752.69,Faculty,Faculty,USA,USA,Female,1994-01-13,N,N,White,Not a Veteran,2022-08-01
+15791150,REDACTED,16719,Staff,Exempt,Academic Dept 2,34147.36,Professional Management,No EEO-6 Reporting,USA,USA,Female,1999-01-26,N,N,White,Not a Veteran,2012-08-16
+15803424,REDACTED,12982,Staff,Non-exempt,Academic Dept 2,62712.52,Information Technology,Professional Nonfaculty,USA,USA,Female,1985-09-09,N,N,White,Not a Veteran,2022-11-01
+15975352,REDACTED,12966,Faculty,Regular,Academic Dept 5,71250.98,Faculty,Faculty,USA,USA,Male,1981-08-12,N,N,White,Not a Veteran,2022-08-08
+16066324,REDACTED,17768,Faculty,Regular,Academic Dept 2,46671.9,Faculty,Faculty,USA,USA,Female,1991-07-02,N,N,White,Not a Veteran,2021-03-01
+16175286,REDACTED,19609,Staff,Exempt,Academic Dept 2,61110.24,Research,Postdoctoral,POL,USA,Female,1988-11-01,,,Black/African American,Not a Veteran,2002-03-11
+16335652,REDACTED,14103,Staff,Exempt,Academic Dept 1,51453.39,Student Affairs & Services,Professional Nonfaculty,USA,USA,Female,1973-09-27,N,N,Black/African American,Not a Veteran,2023-08-21
+16401208,REDACTED,19108,Staff,Exempt,Academic Dept 4,98375.13,Office & Administrative,Professional Nonfaculty,CHN,USA,Female,1996-12-16,Y,N,White,Not a Veteran,2016-12-12
+95857562,REDACTED,18206,Staff,Non-Exempt,Admin Dept 5,31575.95,Research,Faculty,USA,USA,Male,1983-06-12,N,N,Hispanic/Latino,Not a Veteran,2018-11-19
+16655316,REDACTED,15798,Staff,Exempt,Admin Dept 5,43327.49,"Develop, Alumni & Public Rel",Professional Nonfaculty,USA,USA,Female,1981-10-20,N,N,Not Applicable,Not a Veteran,2018-12-10
+16760655,REDACTED,15942,Faculty,Regular,Academic Dept 2,99334.34,Faculty,Faculty,USA,USA,Male,1990-09-18,N,N,White,Not a Veteran,2022-06-01
+69032926,REDACTED,21469,Staff,Non-Exempt,Academic Dept 4,32187.14,Research,Postdoctoral,USA,USA,Male,1967-10-30,N,N,White,Not a Veteran,2011-06-30
+16965966,REDACTED,14216,Staff,Exempt,Academic Dept 2,59060.67,Professional Management,No EEO-6 Reporting,USA,USA,Female,1984-07-28,N,N,Asian,Not a Veteran,2021-12-13
+17008691,REDACTED,21695,Staff,Exempt,Admin Dept 5,39625.21,"Develop, Alumni & Public Rel",Executive/Admin/Managerial,USA,USA,Female,1995-11-12,N,N,Hispanic/Latino,Not a Veteran,2003-11-24
+17027299,REDACTED,18503,Staff,Exempt,Academic Dept 2,82641.66,Research,Technical/Paraprofessional,USA,USA,Female,1967-11-03,Y,N,Asian,Not a Veteran,2016-10-04
+17045519,REDACTED,17795,Faculty,Regular,Admin Dept 5,75343.49,Faculty,Faculty,PRT,USA,Male,1982-07-20,N,N,White,Not a Veteran,2021-08-01
+17137151,REDACTED,22543,Staff,Exempt,Admin Dept 3,21438.52,Research,Postdoctoral,USA,USA,Female,1982-12-25,Y,,White,Not a Veteran,2015-07-20
+17157310,REDACTED,22522,Staff,Exempt,Admin Dept 3,49662.1,Research,Postdoctoral,USA,USA,Male,1955-10-06,N,N,Asian,Not a Veteran,2006-07-31
+17535280,REDACTED,16034,Staff,Exempt,Academic Dept 5,31576.15,Student Affairs & Services,Executive/Admin/Managerial,USA,USA,Female,1994-04-20,N,N,White,Not a Veteran,2019-06-03
+17587011,REDACTED,13845,Staff,Research,Academic Dept 2,72143.39,Office & Administrative,Secretarial/Clerical,USA,USA,Male,1992-04-30,N,N,White,Not a Veteran,2024-02-01
+77682208,REDACTED,19902,Staff,Non-Exempt,Academic Dept 2,34143.83,Research,Technical/Paraprofessional,IND,USA,Female,1987-11-17,N,N,Asian,Not a Veteran,2023-10-01
+17723769,REDACTED,14487,Faculty,Regular,Academic Dept 2,64568.21,Faculty,Faculty,BGD,BGD,Female,1986-08-31,N,N,White,Not a Veteran,2023-01-19
+17837618,REDACTED,22506,Faculty,Regular,Admin Dept 2,56463.71,Faculty,Faculty,USA,USA,Male,1990-02-18,N,N,Black/African American,Not a Veteran,2018-02-19
+17969568,REDACTED,14745,Staff,Non-exempt,Academic Dept 2,45089.09,Office & Administrative,Professional Nonfaculty,USA,USA,Female,1994-05-09,N,N,American Indian/Alaska Native,Not a Veteran,2007-10-07
+18102980,REDACTED,14151,Faculty,Regular,Academic Dept 2,72540.22,Faculty,Faculty,USA,USA,Female,1968-11-09,N,N,Black/African American,Not a Veteran,2022-09-26
+18223000,REDACTED,16222,Staff,Non-exempt,Academic Dept 4,58555.77,Research,Professional Nonfaculty,USA,USA,Female,1992-08-10,N,N,White,Not a Veteran,2023-05-01
+18636312,REDACTED,12852,Staff,Exempt,Academic Dept 4,48231.57,Facilities,Technical/Paraprofessional,USA,USA,Male,1958-07-29,N,N,White,Not a Veteran,2023-07-24
+18653209,REDACTED,21490,Staff,Exempt,Academic Dept 1,37718.38,Research,Technical/Paraprofessional,IND,IND,Female,1985-11-12,N,N,American Indian/Alaska Native,Not a Veteran,2023-03-20
+18749201,REDACTED,15422,Faculty,Regular,Academic Dept 4,58935.54,Faculty,Faculty,USA,USA,Female,1985-03-28,N,N,White,Not a Veteran,2020-03-30
+18929459,REDACTED,14541,Staff,Research,Academic Dept 1,93155.55,"Develop, Alumni & Public Rel",Professional Nonfaculty,CHN,CHN,Male,1988-02-06,N,N,Asian,Not a Veteran,2024-04-15
+18958866,REDACTED,16015,Staff,Exempt,Admin Dept 2,78974.59,Student Affairs & Services,Executive/Admin/Managerial,USA,USA,Female,1988-12-01,Y,N,Black/African American,Not a Veteran,2004-08-30
+19352520,REDACTED,12940,Staff,Non-exempt,Academic Dept 2,52112.94,Office & Administrative,Professional Nonfaculty,CHN,USA,Female,1993-11-19,N,N,Black/African American,Not a Veteran,2002-07-01
+19422412,REDACTED,18587,Staff,Exempt,Academic Dept 2,63164.44,Professional Management,No EEO-6 Reporting,USA,USA,Male,1996-09-20,N,N,Asian,Not a Veteran,2018-01-08
+19660328,REDACTED,22115,Faculty,Regular,Academic Dept 2,70302.78,Faculty,Faculty,USA,USA,Male,1998-04-10,N,N,Asian,Not a Veteran,2000-09-01
+19835629,REDACTED,16456,Staff,Research,Academic Dept 1,90843.76,Office & Administrative,Secretarial/Clerical,USA,USA,Male,1965-12-18,N,N,Asian,Not a Veteran,2023-10-01
+19877089,REDACTED,20026,Staff,Exempt,Academic Dept 2,41805.99,Athletics,Professional Nonfaculty,USA,USA,Female,1990-01-07,,,White,Not a Veteran,1992-02-24
+20184285,REDACTED,19960,Faculty,Regular,Academic Dept 2,82772.52,Faculty,Faculty,USA,USA,Female,1979-09-07,N,N,White,Not a Veteran,2021-10-01
+20262393,REDACTED,13104,Staff,Exempt,Admin Dept 1,81342.19,Information Technology,No EEO-6 Reporting,USA,USA,Male,1966-12-30,N,N,White,Not a Veteran,2023-03-20
+21078121,REDACTED,17947,Staff,Exempt,Academic Dept 5,57261.38,Professional Management,No EEO-6 Reporting,USA,USA,Female,1996-11-12,,,White,Not a Veteran,2015-04-01
+21324670,REDACTED,18849,Faculty,Regular,Academic Dept 2,52397.78,Faculty,Faculty,USA,USA,Male,1975-09-27,N,N,White,Not a Veteran,2011-11-27
+89209772,REDACTED,18571,Staff,Non-Exempt,Academic Dept 1,39301.0,Office & Administrative,No EEO-6 Reporting,USA,USA,Female,1970-03-15,N,N,White,Not a Veteran,2005-08-07
+21876238,REDACTED,13549,Staff,Exempt,Admin Dept 1,51597.84,Office & Administrative,Professional Nonfaculty,USA,USA,Male,1995-12-01,N,N,White,Not a Veteran,2023-06-19
+21937982,REDACTED,22016,Faculty,Regular,Admin Dept 5,33549.18,Faculty,Faculty,USA,USA,Male,1989-10-07,N,N,White,Not a Veteran,2007-08-20
+21988728,REDACTED,20438,Staff,Research,Academic Dept 2,48842.88,"Develop, Alumni & Public Rel",Professional Nonfaculty,IND,IND,Female,1975-09-20,N,N,White,Not a Veteran,2011-08-30
+54834120,REDACTED,10359,Staff,Non-Exempt,Academic Dept 2,39885.52,Student Affairs & Services,No EEO-6 Reporting,USA,USA,Female,1997-12-28,,,Black/African American,Not a Veteran,2022-07-27
+22172782,REDACTED,19085,Faculty,Regular,Admin Dept 3,28098.76,Faculty,Faculty,USA,USA,Female,1967-01-17,N,N,Black/African American,Not a Veteran,2011-06-22
+22249172,REDACTED,12873,Staff,Exempt,Academic Dept 2,74283.91,Research,Postdoctoral,USA,USA,Female,1977-03-18,N,N,Asian,Not a Veteran,2024-07-01
+22483329,REDACTED,16154,Staff,Exempt,Admin Dept 5,75289.52,Research,Postdoctoral,USA,USA,Male,1997-09-07,N,N,White,Not a Veteran,2021-09-20
+22850637,REDACTED,16224,Staff,Non-exempt,Admin Dept 3,101747.16,"Develop, Alumni & Public Rel",Technical/Paraprofessional,USA,USA,Female,1987-02-19,N,N,White,Not a Veteran,2016-04-04
+23032778,REDACTED,20224,Staff,Exempt,Academic Dept 1,51949.47,Facilities,Service Maintenance Workers,USA,USA,Male,1988-04-17,N,N,White,Not a Veteran,2010-06-22
+23035606,REDACTED,15707,Staff,Exempt,Academic Dept 2,69155.9,Student Affairs & Services,Executive/Admin/Managerial,USA,USA,Male,1989-11-14,N,N,White,Not a Veteran,2022-01-31
+23354804,REDACTED,19059,Staff,Exempt,Academic Dept 1,98463.4,Office & Administrative,Professional Nonfaculty,USA,USA,Female,1981-09-12,,,Asian,Not a Veteran,2016-02-29
+12541995,REDACTED,21555,Staff,Non-Exempt,Academic Dept 2,40928.98,Research,Faculty,RUS,USA,Female,1981-03-27,,,Black/African American,Not a Veteran,2018-07-01
+24094113,REDACTED,19917,Staff,Non-exempt Union,Admin Dept 3,46767.82,Library,Secretarial/Clerical,USA,USA,Female,1974-11-05,N,N,White,Not a Veteran,2017-07-10
+51644429,REDACTED,21902,Staff,Non-Exempt,Academic Dept 2,41233.68,Athletics,Executive/Admin/Managerial,USA,USA,Male,1980-05-21,Y,N,White,Not a Veteran,2019-11-01
+24671455,REDACTED,14317,Staff,Non-exempt,Admin Dept 4,75251.74,Professional Management,No EEO-6 Reporting,USA,USA,Male,1993-05-20,N,N,Hispanic/Latino,Not a Veteran,2022-01-19
+25040547,REDACTED,13275,Faculty,Regular,Admin Dept 3,80743.73,Faculty,Faculty,USA,USA,Female,1987-04-26,N,N,Hispanic/Latino,Not a Veteran,2023-04-17
+19205545,REDACTED,20774,Staff,Non-Exempt,Academic Dept 2,41618.59,Professional Management,No EEO-6 Reporting,USA,USA,Male,1990-10-01,N,N,White,Not a Veteran,2023-06-01
+25228576,REDACTED,15228,Staff,Research,Academic Dept 2,45473.54,Research,Professional Nonfaculty,USA,USA,Male,1981-07-31,,,Asian,Not a Veteran,2022-01-10
+25299872,REDACTED,14351,Staff,Exempt,Academic Dept 3,53111.62,Research,Postdoctoral,USA,USA,Male,1986-09-03,N,N,White,Not a Veteran,2023-05-01
+25328839,REDACTED,15706,Faculty,Regular,Academic Dept 2,59458.24,Faculty,Faculty,IRN,USA,Female,1994-03-15,N,N,White,Not a Veteran,2017-10-02
+25447516,REDACTED,19306,Staff,Exempt,Admin Dept 6,40874.41,Research,Technical/Paraprofessional,KOR,USA,Female,1990-07-17,N,N,White,Not a Veteran,2022-09-30
+25487380,REDACTED,18967,Staff,Exempt,Academic Dept 2,15855.68,"Develop, Alumni & Public Rel",Professional Nonfaculty,USA,USA,Female,1994-02-13,N,N,White,Not a Veteran,2019-10-07
+25788906,REDACTED,19094,Staff,Exempt,Admin Dept 5,66411.83,Professional Management,Executive/Admin/Managerial,USA,USA,Female,1959-12-13,N,N,White,Not a Veteran,2014-07-23
+26513727,REDACTED,18109,Faculty,Regular,Academic Dept 5,87771.99,Faculty,Faculty,IND,IND,Female,1984-06-13,Y,N,White,Not a Veteran,2012-04-11
+26571116,REDACTED,13368,Staff,Non-exempt,Academic Dept 2,46609.36,Accounting & Finance,Executive/Admin/Managerial,USA,USA,Female,1949-05-30,N,N,Hispanic/Latino,Not a Veteran,2021-07-19
+29694457,REDACTED,19694,Staff,Non-Exempt,Academic Dept 1,42313.96,Research,Faculty,USA,USA,Female,1982-12-20,N,N,Hispanic/Latino,Not a Veteran,2018-11-05
+26709997,REDACTED,17020,Faculty,Regular,Academic Dept 2,96837.04,Faculty,Faculty,USA,USA,Female,1970-10-19,Y,N,Hispanic/Latino,Not a Veteran,2014-09-03
+26954100,REDACTED,13695,Staff,Non-exempt,Academic Dept 2,46802.71,Research,Postdoctoral,BRA,USA,Female,1963-01-15,N,N,White,Not a Veteran,2024-01-08
+27458300,REDACTED,14707,Faculty,Regular,Academic Dept 2,42095.03,Faculty,Faculty,MEX,USA,Male,1988-04-05,N,N,Asian,Not a Veteran,2021-05-01
+82984783,REDACTED,20653,Staff,Non-Exempt,Academic Dept 2,43054.07,Student Affairs & Services,Executive/Admin/Managerial,USA,USA,Male,1985-11-10,,,Hispanic/Latino,Not a Veteran,2000-09-01
+27612338,REDACTED,17423,Staff,Exempt,Academic Dept 3,57959.33,Office & Administrative,Secretarial/Clerical,USA,USA,Female,1986-08-29,Y,N,White,Not a Veteran,2022-06-27
+27624729,REDACTED,18898,Faculty,Regular,Academic Dept 2,70003.01,Faculty,Faculty,USA,USA,Male,1996-06-07,Y,N,American Indian/Alaska Native,Not a Veteran,2004-06-28
+27704545,REDACTED,21633,Staff,Exempt,Academic Dept 2,34304.8,Information Technology,Professional Nonfaculty,USA,USA,Female,1987-02-11,N,N,White,Not a Veteran,1990-06-25
+27771002,REDACTED,13273,Staff,Non-exempt,Admin Dept 5,49077.48,Research,Professional Nonfaculty,USA,USA,Male,1992-05-19,N,N,Black/African American,Not a Veteran,2019-01-14
+27777041,REDACTED,17671,Faculty,Regular,Admin Dept 1,49880.25,Faculty,Faculty,USA,USA,Male,1983-07-29,N,N,American Indian/Alaska Native,Not a Veteran,2022-07-11
+28033987,REDACTED,15168,Staff,Exempt,Academic Dept 2,93478.47,Information Technology,No EEO-6 Reporting,IND,USA,Female,1968-08-03,N,N,Hispanic/Latino,Not a Veteran,2020-10-26
+28171621,REDACTED,19784,Staff,Research,Academic Dept 1,55487.51,Student Affairs & Services,Professional Nonfaculty,ITA,ITA,Female,1993-07-11,,,White,Not a Veteran,2015-02-16
+28418446,REDACTED,15496,Staff,Exempt,Academic Dept 2,32259.93,Research,No EEO-6 Reporting,USA,USA,Female,1985-02-02,N,N,Asian,Not a Veteran,2023-04-17
+28498444,REDACTED,14240,Faculty,Regular,Academic Dept 2,84110.6,Faculty,Faculty,USA,USA,Female,1961-10-16,N,N,Asian,Not a Veteran,2023-10-23
+28585282,REDACTED,13629,Staff,Non-exempt,Academic Dept 6,54459.0,Professional Management,Professional Nonfaculty,USA,USA,Female,1990-04-28,N,N,White,Not a Veteran,2021-08-16
+28588096,REDACTED,15956,Staff,Exempt,Admin Dept 3,67753.49,Research,Postdoctoral,USA,USA,Female,1964-10-25,N,N,White,Not a Veteran,2021-09-01
+28796316,REDACTED,18736,Staff,Exempt,Admin Dept 2,45061.65,Research,No EEO-6 Reporting,USA,USA,Male,1994-07-31,N,N,Native Hawaiian/Oth Pac Island,Not a Veteran,2006-09-19
+28822604,REDACTED,16746,Staff,Exempt,Admin Dept 2,32668.5,Facilities,Skilled Crafts,USA,USA,Male,1990-07-07,N,N,Hispanic/Latino,Not a Veteran,2019-08-19
+28854315,REDACTED,16609,Staff,Exempt,Admin Dept 4,96522.63,Research,Postdoctoral,USA,USA,Male,1987-05-07,N,N,White,Not a Veteran,2023-08-14
+28875810,REDACTED,20836,Staff,Exempt,Admin Dept 5,57837.19,Professional Management,Executive/Admin/Managerial,USA,USA,Female,1970-09-15,N,N,Asian,Not a Veteran,2022-05-09
+28926131,REDACTED,14889,Staff,Exempt,Academic Dept 1,57719.2,Research,No EEO-6 Reporting,IND,IND,Male,1964-09-27,N,N,Asian,Not a Veteran,2021-12-06
+29006526,REDACTED,20236,Staff,Exempt,Academic Dept 2,40974.58,Research,Postdoctoral,USA,USA,Female,1978-06-27,N,N,Black/African American,Not a Veteran,2008-09-01
+29254149,REDACTED,17742,Staff,Exempt,Academic Dept 2,76228.84,Research,Postdoctoral,USA,USA,Male,1966-03-16,N,N,Asian,Not a Veteran,2022-06-20
+29271517,REDACTED,14554,Staff,Exempt,Academic Dept 2,99910.8,Professional Management,No EEO-6 Reporting,USA,USA,Female,1992-04-25,N,N,White,Not a Veteran,2020-11-02
+29347626,REDACTED,13115,Staff,Non-exempt,Admin Dept 2,28951.58,Office & Administrative,Executive/Admin/Managerial,USA,USA,Female,1983-11-22,N,N,Black/African American,Not a Veteran,2019-03-04
+29581971,REDACTED,17540,Faculty,Regular,Academic Dept 1,70513.17,Faculty,Faculty,USA,USA,Female,1992-03-09,,,White,Not a Veteran,2015-02-01
+29590212,REDACTED,14120,Staff,Exempt,Academic Dept 2,22430.63,Professional Management,Professional Nonfaculty,USA,USA,Female,1999-07-29,N,N,Black/African American,Not a Veteran,2022-12-01
+29691285,REDACTED,19151,Faculty,Regular,Academic Dept 2,53073.97,Faculty,Faculty,USA,USA,Male,1988-06-22,,,White,Not a Veteran,2015-04-20
+29738439,REDACTED,16076,Staff,Research,Academic Dept 1,98229.97,Information Technology,Professional Nonfaculty,USA,USA,Female,1961-09-21,N,N,Asian,Not a Veteran,2018-08-01
+29816700,REDACTED,13439,Faculty,Regular,Academic Dept 2,47201.78,Faculty,Faculty,USA,USA,Female,1973-06-29,Y,N,Not Applicable,Not a Veteran,2021-11-01
+30191313,REDACTED,13138,Faculty,Regular,Academic Dept 6,106144.14,Faculty,Faculty,MNG,USA,Female,1994-09-12,N,N,White,Not a Veteran,2022-01-03
+55462994,REDACTED,13132,Staff,Non-Exempt,Academic Dept 5,44520.74,Information Technology,Professional Nonfaculty,IND,USA,Male,1964-05-20,N,N,Black/African American,Not a Veteran,2024-01-01
+30908307,REDACTED,13903,Staff,Research,Academic Dept 6,77103.91,Office & Administrative,Professional Nonfaculty,USA,USA,Male,1988-11-11,N,N,Asian,Not a Veteran,2022-04-01
+31630650,REDACTED,18720,Faculty,Regular,Admin Dept 3,21601.81,Faculty,Faculty,DEU,DEU,Female,1983-02-04,N,N,Hispanic/Latino,Not a Veteran,2023-06-12
+31836243,REDACTED,13415,Staff,Exempt,Admin Dept 4,95937.23,Accounting & Finance,No EEO-6 Reporting,AFG,USA,Female,1979-09-11,N,N,White,Not a Veteran,2022-10-31
+31900048,REDACTED,16554,Staff,Exempt,Admin Dept 4,37524.14,Research,Postdoctoral,USA,USA,Female,1962-08-09,N,N,Hispanic/Latino,Not a Veteran,2022-05-16
+92943358,REDACTED,21014,Staff,Non-Exempt,Academic Dept 2,45165.44,Athletics,Professional Nonfaculty,USA,USA,Female,1997-08-29,Y,N,Asian,Not a Veteran,2014-09-01
+32484858,REDACTED,18262,Faculty,Regular,Academic Dept 2,15532.71,Faculty,Faculty,USA,USA,Female,1980-11-15,N,N,Hispanic/Latino,Not a Veteran,2022-07-25
+32590067,REDACTED,20088,Staff,Exempt,Academic Dept 2,76246.33,Research,Postdoctoral,USA,USA,Female,1956-04-30,N,N,White,Not a Veteran,2007-06-25
+32591103,REDACTED,12980,Staff,Non-exempt,Academic Dept 2,58561.75,Research,Postdoctoral,USA,USA,Female,1973-11-24,N,N,Asian,Not a Veteran,2023-01-23
+32753850,REDACTED,21632,Faculty,Regular,Admin Dept 5,87289.23,Faculty,Faculty,USA,USA,Female,1987-03-04,N,N,Black/African American,Not a Veteran,2006-10-09
+32850180,REDACTED,14221,Staff,Non-exempt,Academic Dept 4,66839.46,Information Technology,Professional Nonfaculty,POL,USA,Female,1987-02-06,N,N,Asian,Not a Veteran,2024-07-15
+33411061,REDACTED,17847,Staff,Exempt,Academic Dept 2,87731.68,Information Technology,Professional Nonfaculty,CHN,CHN,Male,1965-12-23,N,N,Hispanic/Latino,Not a Veteran,2021-07-19
+33663405,REDACTED,13192,Faculty,Regular,Admin Dept 2,92341.91,Faculty,Faculty,USA,USA,Female,1983-12-19,N,N,Black/African American,Not a Veteran,2012-06-01
+33945251,REDACTED,17489,Staff,Exempt,Academic Dept 2,63075.53,Office & Administrative,Professional Nonfaculty,USA,USA,Female,1996-08-27,,,White,Not a Veteran,2015-07-27
+34055853,REDACTED,16499,Staff,Non-exempt,Academic Dept 2,98075.83,Healthcare,Technical/Paraprofessional,USA,USA,Male,1996-03-30,N,N,White,Not a Veteran,1990-01-23
+34067832,REDACTED,13682,Staff,Non-exempt,Academic Dept 2,93224.55,Office & Administrative,Professional Nonfaculty,BRA,BRA,Female,1998-10-02,Y,N,Hispanic/Latino,Not a Veteran,2024-02-19
+80150359,REDACTED,18913,Staff,Non-Exempt,Academic Dept 2,46426.54,"Develop, Alumni & Public Rel",Executive/Admin/Managerial,USA,USA,Female,1994-05-29,Y,N,Asian,Not a Veteran,2012-03-01
+34804092,REDACTED,19756,Staff,Exempt,Academic Dept 6,54544.36,Research,No EEO-6 Reporting,USA,USA,Female,1990-09-09,,,White,Not a Veteran,2015-04-13
+35116001,REDACTED,16850,Faculty,Regular,Admin Dept 5,71435.29,Faculty,Faculty,USA,USA,Female,1974-04-30,N,N,Asian,Not a Veteran,2022-02-07
+35224379,REDACTED,21182,Staff,Exempt,Admin Dept 3,50419.49,Research,Technical/Paraprofessional,USA,USA,Male,1990-05-14,Y,N,White,Not a Veteran,2012-02-13
+26724080,REDACTED,17840,Staff,Non-Exempt,Academic Dept 4,47439.97,Research,Faculty,USA,USA,Female,1977-05-29,N,N,White,Not a Veteran,2017-08-01
+35738220,REDACTED,16257,Faculty,Regular,Academic Dept 2,44808.92,Faculty,Faculty,USA,USA,Female,1995-01-16,N,N,Black/African American,Not a Veteran,2024-02-05
+35823925,REDACTED,19802,Staff,Exempt,Admin Dept 1,42282.98,Office & Administrative,Professional Nonfaculty,USA,USA,Female,1976-01-26,N,N,Black/African American,Not a Veteran,2024-01-01
+35890145,REDACTED,19075,Staff,Exempt,Admin Dept 5,77039.64,Research,No EEO-6 Reporting,USA,USA,Female,1990-05-07,N,N,Black/African American,Not a Veteran,2001-08-17
+36535126,REDACTED,18874,Staff,Exempt,Academic Dept 6,52119.34,Office & Administrative,Professional Nonfaculty,CHN,USA,Female,1970-07-31,N,N,Asian,Not a Veteran,2014-06-16
+36607113,REDACTED,15162,Faculty,Regular,Academic Dept 2,91950.81,Faculty,Faculty,USA,USA,Male,1974-12-03,N,N,Asian,Not a Veteran,2020-01-21
+36741324,REDACTED,19890,Faculty,Regular,Academic Dept 2,86934.47,Faculty,Faculty,USA,USA,Female,1976-06-10,N,N,Asian,Not a Veteran,2009-05-17
+37070282,REDACTED,17984,Staff,Exempt,Admin Dept 3,55510.5,Research,Professional Nonfaculty,USA,USA,Female,1979-09-05,N,N,Asian,Not a Veteran,2018-12-10
+37231304,REDACTED,21771,Staff,Exempt,Admin Dept 5,43731.04,Student Affairs & Services,Professional Nonfaculty,ITA,USA,Female,1969-10-19,N,N,Asian,Not a Veteran,2016-09-12
+37439931,REDACTED,18039,Faculty,Research,Academic Dept 2,88825.58,Faculty,Faculty,USA,USA,Female,1985-06-05,N,N,Asian,Not a Veteran,2012-01-19
+87401719,REDACTED,20662,Staff,Non-Exempt,Academic Dept 5,48813.88,Professional Management,Professional Nonfaculty,USA,USA,Male,1993-01-29,N,N,Asian,Not a Veteran,1999-06-24
+37924880,REDACTED,12983,Staff,Non-exempt,Academic Dept 2,73747.72,Information Technology,No EEO-6 Reporting,CAN,CAN,Female,1958-07-27,N,N,Hispanic/Latino,Not a Veteran,2022-12-01
+37962145,REDACTED,16490,Faculty,Regular,Academic Dept 2,70547.57,Faculty,Faculty,USA,USA,Male,1966-03-08,N,N,Asian,Not a Veteran,2023-03-06
+38048699,REDACTED,21963,Staff,Exempt,Academic Dept 4,43996.95,Research,No EEO-6 Reporting,USA,USA,Male,1961-11-25,N,N,Asian,Not a Veteran,2022-05-09
+38158840,REDACTED,15118,Staff,Exempt,Academic Dept 2,23130.39,Police & Safety,Professional Nonfaculty,USA,USA,Female,1962-06-16,N,N,Asian,Not a Veteran,2023-04-17
+38185863,REDACTED,15475,Faculty,Regular,Academic Dept 2,58540.15,Faculty,Faculty,USA,USA,Female,1990-12-02,N,N,Asian,Not a Veteran,2022-10-31
+38373278,REDACTED,13146,Staff,Non-exempt,Admin Dept 2,51101.26,Professional Management,No EEO-6 Reporting,USA,USA,Female,1989-09-23,Y,N,Asian,Not a Veteran,2017-10-02
+47198293,REDACTED,21694,Staff,Non-Exempt,Academic Dept 6,49563.14,Research,Professional Nonfaculty,USA,USA,Female,1981-08-13,N,N,White,Not a Veteran,2022-07-05
+38718063,REDACTED,13865,Staff,Exempt,Academic Dept 2,76340.98,Research,Postdoctoral,USA,USA,Male,1969-08-13,N,N,Asian,Not a Veteran,2023-08-28
+38769686,REDACTED,17936,Faculty,Regular,Academic Dept 2,65393.1,Faculty,Faculty,USA,USA,Female,1992-11-03,N,N,Asian,Not a Veteran,2014-07-10
+38780500,REDACTED,18401,Staff,Exempt,Academic Dept 5,62447.41,Information Technology,No EEO-6 Reporting,USA,USA,Female,1990-02-12,N,N,Asian,Not a Veteran,2019-02-18
+38937296,REDACTED,13338,Staff,Exempt,Admin Dept 5,40392.23,Research,No EEO-6 Reporting,USA,USA,Female,1977-10-26,N,N,Asian,Not a Veteran,2015-06-23
+39160744,REDACTED,15022,Faculty,Regular,Academic Dept 1,40862.97,Faculty,Faculty,USA,USA,Female,1997-05-19,N,N,Asian,Not a Veteran,2022-09-01
+39251658,REDACTED,13346,Staff,Non-exempt,Academic Dept 1,85602.53,Research,Postdoctoral,CHN,USA,Female,1964-08-16,N,N,American Indian/Alaska Native,Not a Veteran,2024-07-15
+39517185,REDACTED,17576,Staff,Exempt,Admin Dept 2,55839.18,Research,No EEO-6 Reporting,USA,USA,Female,1986-08-10,N,N,Asian,Not a Veteran,2007-10-14
+39538333,REDACTED,22057,Staff,Exempt,Admin Dept 5,37663.9,Office & Administrative,Professional Nonfaculty,USA,USA,Male,1963-05-10,N,N,Asian,Not a Veteran,2022-06-13
+39567463,REDACTED,13986,Staff,Exempt,Academic Dept 2,93388.48,Research,Professional Nonfaculty,USA,USA,Female,1990-05-08,N,N,American Indian/Alaska Native,Not a Veteran,2021-02-01
+39855390,REDACTED,17921,Staff,Exempt,Admin Dept 3,47691.43,Facilities,Service Maintenance Workers,SLV,USA,Female,1975-04-04,N,N,Asian,Not a Veteran,2022-11-01
+52941327,REDACTED,18376,Staff,Non-Exempt,Academic Dept 4,50671.95,Research,Faculty,IRN,USA,Female,1964-11-21,Y,N,White,Not a Veteran,2013-08-01
+40245511,REDACTED,17806,Faculty,Regular,Academic Dept 2,62882.48,Faculty,Faculty,USA,USA,Male,1979-09-17,N,N,White,Not a Veteran,2002-02-12
+32096616,REDACTED,17866,Staff,Non-Exempt,Admin Dept 5,50783.68,Research,Faculty,IND,IND,Female,1993-10-28,Y,N,Black/African American,Not a Veteran,2011-06-06
+40510164,REDACTED,17950,Staff,Exempt,Academic Dept 2,34137.77,Facilities,Skilled Crafts,USA,USA,Female,1982-03-02,N,N,White,Not a Veteran,2017-08-01
+40761691,REDACTED,20230,Faculty,Regular,Admin Dept 5,71335.86,Faculty,Faculty,USA,USA,Female,1956-10-08,Y,N,White,Not a Veteran,2022-02-07
+41305637,REDACTED,20922,Faculty,Regular,Admin Dept 6,40165.09,Faculty,Faculty,MEX,USA,Female,1986-06-07,N,N,White,Not a Veteran,2024-02-20
+41394940,REDACTED,14117,Staff,Non-exempt,Academic Dept 2,69948.05,Professional Management,Professional Nonfaculty,USA,USA,Male,1980-12-02,N,N,Black/African American,Not a Veteran,2023-08-21
+41506860,REDACTED,20443,Staff,Exempt,Academic Dept 1,57568.12,Office & Administrative,Professional Nonfaculty,USA,USA,Female,1985-03-07,Y,N,White,Not a Veteran,2012-03-12
+41579840,REDACTED,15328,Staff,Exempt,Academic Dept 6,35557.6,Research,No EEO-6 Reporting,IND,IND,Female,1987-10-05,N,N,White,Not a Veteran,2022-12-12
+41784606,REDACTED,15142,Staff,Non-exempt,Academic Dept 1,41412.11,Professional Management,Executive/Admin/Managerial,SLE,USA,Female,1972-05-12,N,N,White,Not a Veteran,2023-03-06
+41844511,REDACTED,12931,Staff,Non-exempt,Academic Dept 2,65093.36,Office & Administrative,Secretarial/Clerical,USA,USA,Female,1971-01-18,N,N,Asian,Not a Veteran,2024-03-11
+41995816,REDACTED,16129,Staff,Exempt,Academic Dept 2,38505.58,Professional Management,Professional Nonfaculty,USA,USA,Male,1972-03-16,N,N,White,Not a Veteran,2022-08-01
+42133499,REDACTED,17237,Staff,Exempt,Admin Dept 2,57253.72,Office & Administrative,No EEO-6 Reporting,USA,USA,Female,1990-08-30,N,N,White,Not a Veteran,2017-10-09
+42688084,REDACTED,18140,Faculty,Regular,Academic Dept 2,19403.04,Faculty,Faculty,USA,USA,Male,1981-12-10,N,N,White,Not a Veteran,2006-01-01
+42768844,REDACTED,20890,Staff,Exempt,Admin Dept 3,60416.0,Facilities,Skilled Crafts,USA,USA,Female,1999-12-07,N,N,Black/African American,Not a Veteran,2020-09-01
+42957124,REDACTED,15205,Staff,Exempt,Academic Dept 2,61410.87,Office & Administrative,Executive/Admin/Managerial,USA,USA,Female,1989-05-05,Y,N,White,Not a Veteran,2020-02-22
+42989000,REDACTED,14585,Faculty,Regular,Admin Dept 3,67857.38,Faculty,Faculty,USA,USA,Female,1991-11-18,N,N,White,Not a Veteran,2022-08-09
+43188890,REDACTED,19934,Staff,Non-exempt Union,Admin Dept 1,51830.8,Information Technology,Professional Nonfaculty,USA,USA,Male,1991-03-13,N,N,White,Not a Veteran,2017-07-31
+19868444,REDACTED,17732,Staff,Non-Exempt,Academic Dept 3,52093.71,Research,Faculty,FRA,USA,Female,1974-08-03,N,N,White,Not a Veteran,2017-05-01
+43689201,REDACTED,12557,Faculty,Regular,Admin Dept 1,90981.46,Faculty,Faculty,USA,USA,Male,1980-05-08,N,N,Black/African American,Not a Veteran,2018-10-08
+43694901,REDACTED,19567,Staff,Exempt,Academic Dept 2,56890.0,Research,Professional Nonfaculty,USA,USA,Male,1955-06-09,N,N,Asian,Not a Veteran,2020-11-16
+31860186,REDACTED,22275,Staff,Non-Exempt,Academic Dept 5,52600.39,Office & Administrative,Executive/Admin/Managerial,IND,IND,Female,1968-07-03,N,N,White,Not a Veteran,2003-06-16
+44364743,REDACTED,13949,Faculty,Regular,Academic Dept 2,64551.07,Faculty,Faculty,USA,USA,Male,1988-06-18,N,N,White,Not a Veteran,2022-04-04
+44429233,REDACTED,13505,Staff,Exempt,Academic Dept 4,81951.71,Accounting & Finance,No EEO-6 Reporting,USA,USA,Female,1989-09-10,Y,N,White,Not a Veteran,2023-08-14
+44464039,REDACTED,20005,Staff,Exempt,Admin Dept 5,60852.59,Professional Management,Professional Nonfaculty,USA,USA,Male,1999-03-06,N,N,White,Not a Veteran,2022-02-21
+44901448,REDACTED,18680,Staff,Exempt,Academic Dept 1,24990.51,Research,Postdoctoral,SVK,USA,Female,1979-05-22,N,N,Hispanic/Latino,Not a Veteran,2022-08-08
+45003565,REDACTED,16378,Faculty,Regular,Admin Dept 5,90078.8,Faculty,Faculty,USA,USA,Female,1991-05-07,Y,N,Asian,Not a Veteran,2019-03-18
+45159570,REDACTED,15176,Faculty,Regular,Academic Dept 6,64058.97,Faculty,Faculty,USA,USA,Female,1994-04-01,N,N,White,Not a Veteran,2021-11-22
+45361344,REDACTED,18489,Staff,Exempt,Academic Dept 2,32679.16,Accounting & Finance,Secretarial/Clerical,USA,USA,Male,1994-07-07,,,White,Not a Veteran,2015-04-29
+45500778,REDACTED,19984,Staff,Exempt,Admin Dept 5,50271.44,Student Affairs & Services,Executive/Admin/Managerial,USA,USA,Female,1969-10-05,N,N,Asian,Not a Veteran,2022-04-25
+45648359,REDACTED,17109,Staff,Exempt,Admin Dept 3,63265.61,Office & Administrative,Professional Nonfaculty,ISR,ISR,Male,1984-06-19,N,N,Black/African American,Not a Veteran,2023-01-09
+45845614,REDACTED,15485,Staff,Exempt,Admin Dept 2,62964.45,Office & Administrative,Executive/Admin/Managerial,USA,USA,Female,1991-09-17,N,N,White,Not a Veteran,2018-09-11
+46008012,REDACTED,16533,Staff,Exempt,Admin Dept 1,42937.79,Accounting & Finance,Executive/Admin/Managerial,CHN,CHN,Female,1985-05-15,N,N,White,Not a Veteran,2016-04-04
+46216638,REDACTED,16172,Staff,Exempt,Academic Dept 2,19128.9,Student Affairs & Services,No EEO-6 Reporting,GBR,USA,Female,1985-07-29,N,N,Black/African American,Not a Veteran,2023-03-20
+46275304,REDACTED,20680,Staff,Exempt,Admin Dept 3,66052.68,Student Affairs & Services,Executive/Admin/Managerial,USA,USA,Female,1971-05-02,Y,N,White,Not a Veteran,2023-04-17
+46283912,REDACTED,20281,Staff,Exempt,Admin Dept 3,49595.7,Professional Management,Professional Nonfaculty,IRN,IRN,Male,1991-05-20,N,N,White,Not a Veteran,2010-04-12
+46385781,REDACTED,16368,Staff,Non-exempt,Academic Dept 2,86615.44,Information Technology,No EEO-6 Reporting,USA,USA,Female,1974-05-10,N,N,Asian,Not a Veteran,2018-07-30
+24848046,REDACTED,10032,Staff,Exempt,Academic Dept 2,53937.53,Professional Management,Executive/Admin/Managerial,USA,USA,Male,1974-06-14,N,N,Asian,Not a Veteran,1997-02-02
+46709396,REDACTED,14506,Staff,Exempt,Academic Dept 5,60878.3,Research,No EEO-6 Reporting,IRN,IRN,Female,1966-08-11,N,N,Asian,Not a Veteran,2021-07-12
+46773641,REDACTED,20545,Faculty,Regular,Academic Dept 5,52273.5,Faculty,Faculty,USA,USA,Female,1960-08-27,N,N,White,Not a Veteran,2023-09-01
+46838862,REDACTED,19056,Staff,Exempt,Admin Dept 5,25705.35,Office & Administrative,Professional Nonfaculty,USA,USA,Male,1968-12-02,Y,N,Black/African American,Not a Veteran,2023-01-03
+47393848,REDACTED,20217,Staff,Non-exempt Union,Admin Dept 5,36340.09,Information Technology,Professional Nonfaculty,USA,USA,Male,1975-01-20,N,N,White,Not a Veteran,2023-09-19
+47461826,REDACTED,17939,Staff,Research,Academic Dept 2,61037.64,Research,No EEO-6 Reporting,USA,USA,Female,1989-01-10,N,N,White,Not a Veteran,2013-01-01
+47600119,REDACTED,17814,Staff,Exempt,Admin Dept 5,80052.72,Information Technology,Professional Nonfaculty,USA,USA,Male,1966-09-23,N,N,White,Not a Veteran,2007-09-01
+47721273,REDACTED,13365,Staff,Non-exempt,Academic Dept 2,112298.39,Professional Management,No EEO-6 Reporting,USA,USA,Female,1951-07-04,N,N,Hispanic/Latino,Not a Veteran,2021-04-19
+48224369,REDACTED,16085,Faculty,Regular,Academic Dept 4,71930.13,Faculty,Faculty,USA,USA,Female,1988-09-09,N,N,White,Not a Veteran,2021-09-13
+48602360,REDACTED,13088,Staff,Non-exempt,Academic Dept 6,30802.9,Information Technology,No EEO-6 Reporting,USA,USA,Female,1983-07-17,N,N,White,Not a Veteran,2023-06-05
+45840230,REDACTED,20663,Staff,Exempt,Academic Dept 4,54953.39,Information Technology,No EEO-6 Reporting,USA,USA,Female,1959-09-02,Y,N,White,Not a Veteran,2013-05-01
+10684620,REDACTED,17287,Staff,Exempt,Admin Dept 1,55160.07,Research,Faculty,CHN,CHN,Male,1984-11-06,N,N,Black/African American,Not a Veteran,2023-07-10
+49162608,REDACTED,21022,Staff,Exempt,Admin Dept 3,70456.55,Office & Administrative,Professional Nonfaculty,JAM,USA,Male,1966-08-03,N,N,Hispanic/Latino,Not a Veteran,2024-04-15
+49248626,REDACTED,21790,Staff,Exempt,Academic Dept 2,27922.98,Research,No EEO-6 Reporting,USA,USA,Female,1988-09-18,Y,N,White,Not a Veteran,2022-01-31
+97646916,REDACTED,10810,Staff,Exempt,Academic Dept 2,55291.42,Research,No EEO-6 Reporting,USA,USA,Female,1975-02-20,,,White,Not a Veteran,2023-08-24
+60884798,REDACTED,21991,Staff,Exempt,Academic Dept 4,55344.47,Healthcare,Professional Nonfaculty,USA,USA,Male,1991-05-26,N,N,American Indian/Alaska Native,Not a Veteran,2005-07-01
+49845513,REDACTED,15602,Staff,Exempt,Academic Dept 2,88513.07,Accounting & Finance,Secretarial/Clerical,USA,USA,Male,1986-01-24,N,N,White,Not a Veteran,2019-09-06
+50131044,REDACTED,15891,Staff,Exempt,Admin Dept 5,19817.87,Accounting & Finance,No EEO-6 Reporting,VNM,USA,Female,1995-07-29,N,N,Black/African American,Not a Veteran,2019-04-22
+53756698,REDACTED,10434,Staff,Exempt,Academic Dept 2,55521.23,Research,Faculty,CHN,USA,Male,1987-07-31,Y,N,Black/African American,Not a Veteran,2021-09-01
+65973305,REDACTED,17505,Staff,Exempt,Academic Dept 2,55533.29,Facilities,No EEO-6 Reporting,USA,USA,Male,1977-11-24,N,N,Asian,Not a Veteran,2020-09-01
+50991602,REDACTED,14233,Staff,Exempt,Admin Dept 2,47365.33,Research,Postdoctoral,USA,USA,Undeclared,1966-04-08,Y,N,Asian,Not a Veteran,2023-08-28
+51384795,REDACTED,10201,Faculty,Regular,Academic Dept 2,94783.89,Faculty,Faculty,USA,USA,Female,1987-08-28,,,White,Not a Veteran,2021-09-01
+20578485,REDACTED,20419,Staff,Exempt,Academic Dept 4,56485.1,Office & Administrative,Secretarial/Clerical,IND,USA,Male,1985-12-25,N,N,Asian,Not a Veteran,2012-09-01
+51803063,REDACTED,17202,Staff,Exempt,Academic Dept 6,76150.2,Professional Management,No EEO-6 Reporting,USA,USA,Female,1982-12-04,Y,N,White,Not a Veteran,2021-11-29
+51820197,REDACTED,18607,Staff,Exempt,Academic Dept 2,53917.74,Professional Management,No EEO-6 Reporting,BRA,USA,Female,1996-10-10,N,N,Asian,Not a Veteran,2020-12-14
+51866543,REDACTED,15563,Faculty,Regular,Admin Dept 5,57303.49,Faculty,Faculty,USA,USA,Female,1999-05-20,N,N,American Indian/Alaska Native,Not a Veteran,2020-01-21
+51959037,REDACTED,17519,Staff,Exempt,Academic Dept 2,52040.0,Police & Safety,Executive/Admin/Managerial,USA,USA,Male,1967-01-24,N,N,White,Not a Veteran,2022-11-14
+16781789,REDACTED,16227,Staff,Exempt,Academic Dept 1,56848.94,Research,Postdoctoral,USA,USA,Male,1980-06-21,Y,N,White,Not a Veteran,2021-04-01
+52079702,REDACTED,18566,Staff,Exempt,Academic Dept 1,50178.38,Office & Administrative,No EEO-6 Reporting,USA,USA,Female,1973-05-17,N,N,Black/African American,Not a Veteran,2020-09-08
+52440830,REDACTED,14038,Staff,Exempt,Academic Dept 2,37663.33,Research,No EEO-6 Reporting,USA,USA,Female,1973-09-26,N,N,Hispanic/Latino,Not a Veteran,2020-03-16
+13373132,REDACTED,10470,Staff,Exempt,Academic Dept 4,57422.19,Facilities,Service Maintenance Workers,USA,USA,Female,1970-08-29,,,White,Not a Veteran,2021-09-01
+52678285,REDACTED,18313,Staff,Exempt,Academic Dept 2,79144.73,Research,Postdoctoral,USA,USA,Female,1975-03-15,,,White,Not a Veteran,2014-07-14
+12961810,REDACTED,10228,Staff,Exempt,Academic Dept 2,57893.35,Research,Faculty,USA,USA,Male,1967-07-23,N,N,White,Not a Veteran,2023-09-01
+53329478,REDACTED,13588,Staff,Exempt,Admin Dept 5,62775.25,Information Technology,Professional Nonfaculty,IND,USA,Male,1994-11-11,N,N,Black/African American,Not a Veteran,2022-08-29
+53385213,REDACTED,15648,Staff,Non-exempt,Academic Dept 1,77441.68,Office & Administrative,Professional Nonfaculty,USA,USA,Female,1992-04-29,N,N,Black/African American,Not a Veteran,1999-08-31
+53841398,REDACTED,17301,Faculty,Regular,Admin Dept 1,34474.79,Faculty,Faculty,MEX,USA,Male,1989-10-13,N,N,Black/African American,Not a Veteran,2024-01-01
+53898201,REDACTED,19698,Staff,Exempt,Academic Dept 6,59171.05,Faculty,Professional Nonfaculty,USA,USA,Male,1996-08-09,N,N,Black/African American,Not a Veteran,2017-03-01
+54190148,REDACTED,15099,Staff,Exempt,Academic Dept 1,59193.3,Office & Administrative,No EEO-6 Reporting,USA,USA,Female,1995-09-30,N,N,Black/African American,Not a Veteran,2020-03-23
+54266612,REDACTED,19803,Faculty,Regular,Admin Dept 2,37367.17,Faculty,Faculty,USA,USA,Male,1988-08-04,,,Black/African American,Not a Veteran,2015-05-06
+54334030,REDACTED,19557,Staff,Exempt,Academic Dept 2,43117.98,Research,Technical/Paraprofessional,USA,USA,Female,1965-02-18,N,N,Black/African American,Not a Veteran,1998-11-02
+54348458,REDACTED,20391,Staff,Non-exempt Union,Admin Dept 3,73174.37,Professional Management,No EEO-6 Reporting,USA,USA,Male,1968-07-23,N,N,Black/African American,Not a Veteran,2014-03-17
+54422393,REDACTED,19030,Staff,Non-exempt,Admin Dept 5,59457.56,Research,Technical/Paraprofessional,USA,USA,Female,1980-09-29,Y,N,Black/African American,Not a Veteran,2001-10-29
+54424268,REDACTED,15834,Staff,Exempt,Admin Dept 5,70471.72,Office & Administrative,Secretarial/Clerical,USA,USA,Female,1975-05-10,N,N,Asian,Not a Veteran,2022-05-16
+54585684,REDACTED,17347,Faculty,Regular,Academic Dept 2,31980.8,Faculty,Faculty,AUS,USA,Female,1974-02-24,N,N,Hispanic/Latino,Not a Veteran,2019-05-13
+54746555,REDACTED,22033,Faculty,Regular,Academic Dept 4,38767.47,Faculty,Faculty,USA,USA,Female,1989-06-14,,,Asian,Not a Veteran,2023-02-01
+54917512,REDACTED,14900,Staff,Research,Academic Dept 5,66511.88,Research,Postdoctoral,USA,USA,Male,1981-07-02,N,N,Asian,Not a Veteran,2022-04-01
+54938904,REDACTED,14612,Staff,Exempt,Academic Dept 2,39572.34,Information Technology,Professional Nonfaculty,USA,USA,Female,1981-08-10,N,N,Hispanic/Latino,Not a Veteran,2022-07-18
+19604943,REDACTED,18129,Staff,Exempt,Academic Dept 2,58862.27,Research,Postdoctoral,USA,USA,Female,1993-08-28,Y,N,Hispanic/Latino,Not a Veteran,2019-09-01
+98633774,REDACTED,22022,Staff,Exempt,Academic Dept 1,58915.07,Professional Management,Professional Nonfaculty,IND,USA,Male,1980-12-24,N,N,White,Not a Veteran,2015-08-01
+55250434,REDACTED,17008,Staff,Exempt,Admin Dept 6,67448.05,Research,No EEO-6 Reporting,USA,USA,Male,1995-08-06,Y,N,Black/African American,Not a Veteran,2023-05-22
+55352943,REDACTED,13954,Staff,Non-exempt Union,Admin Dept 3,118758.7,Office & Administrative,No EEO-6 Reporting,USA,USA,Male,1962-04-30,N,N,Hispanic/Latino,Not a Veteran,2012-06-11
+47580714,REDACTED,21210,Staff,Exempt,Academic Dept 2,59087.99,Research,Professional Nonfaculty,USA,USA,Male,1982-10-27,Y,,White,Not a Veteran,2023-09-01
+55619915,REDACTED,22488,Staff,Exempt,Admin Dept 2,35424.47,Professional Management,No EEO-6 Reporting,USA,USA,Female,1995-08-21,Y,N,Black/African American,Not a Veteran,2022-08-22
+55656684,REDACTED,12051,Staff,Non-exempt,Academic Dept 2,41894.21,Information Technology,No EEO-6 Reporting,RUS,USA,Female,1979-03-28,N,N,Black/African American,Not a Veteran,2023-07-19
+55698781,REDACTED,14767,Staff,Non-exempt,Admin Dept 5,57471.14,Healthcare,Technical/Paraprofessional,USA,USA,Male,1992-10-25,N,N,Hispanic/Latino,Not a Veteran,2024-05-01
+55890240,REDACTED,14592,Staff,Exempt,Academic Dept 2,35930.66,Athletics,Professional Nonfaculty,USA,USA,Female,1997-06-03,N,N,Black/African American,Not a Veteran,2022-05-16
+55937477,REDACTED,17946,Staff,Exempt,Academic Dept 2,64457.23,Office & Administrative,Professional Nonfaculty,USA,USA,Male,1991-06-28,N,N,Black/African American,Not a Veteran,2017-10-02
+55978014,REDACTED,12972,Staff,Non-exempt,Admin Dept 5,51411.43,Professional Management,No EEO-6 Reporting,USA,USA,Male,1985-08-23,N,N,Asian,Not a Veteran,2024-01-29
+56051797,REDACTED,16434,Faculty,Regular,Academic Dept 2,90199.02,Faculty,Faculty,KOR,USA,Male,1998-12-05,Y,N,Black/African American,Not a Veteran,2019-12-19
+56197194,REDACTED,15059,Staff,Exempt,Academic Dept 2,34434.49,Office & Administrative,Professional Nonfaculty,USA,USA,Female,1990-10-28,N,N,Asian,Not a Veteran,2023-08-21
+55073415,REDACTED,18590,Staff,Exempt,Academic Dept 2,59465.07,Research,Faculty,USA,USA,Male,1981-04-08,N,N,Black/African American,Not a Veteran,2019-10-31
+56709613,REDACTED,15282,Staff,Exempt,Admin Dept 5,52161.97,Fine Arts & Entertainment,Executive/Admin/Managerial,CHN,CHN,Female,1969-06-18,N,N,Asian,Not a Veteran,2022-10-10
+56889756,REDACTED,20440,Faculty,Regular,Admin Dept 2,54100.53,Faculty,Faculty,CHN,USA,Female,1988-08-12,,,Black/African American,Not a Veteran,2016-07-11
+57178289,REDACTED,13653,Staff,Non-exempt,Academic Dept 2,78834.83,Research,Professional Nonfaculty,IND,IND,Female,1994-09-27,N,N,Black/African American,Not a Veteran,2021-01-05
+57519510,REDACTED,19174,Staff,Research,Academic Dept 4,52913.43,Research,Technical/Paraprofessional,USA,USA,Female,1999-09-23,,,Hispanic/Latino,Not a Veteran,2015-07-13
+57570023,REDACTED,20548,Staff,Exempt,Admin Dept 5,69687.19,Research,Postdoctoral,ROU,USA,Male,1987-06-11,N,N,Hispanic/Latino,Not a Veteran,2016-11-30
+57812401,REDACTED,17970,Staff,Exempt,Admin Dept 3,78713.73,Research,No EEO-6 Reporting,USA,USA,Male,1969-12-22,Y,N,Hispanic/Latino,Not a Veteran,2024-02-05
+57886620,REDACTED,15952,Staff,Exempt,Academic Dept 2,77727.0,Office & Administrative,Professional Nonfaculty,USA,USA,Female,1974-10-23,N,N,Hispanic/Latino,Not a Veteran,2022-03-21
+57987832,REDACTED,21260,Staff,Exempt,Admin Dept 4,8503.17,Research,Postdoctoral,USA,USA,Female,1989-12-28,N,N,Hispanic/Latino,Not a Veteran,2017-06-27
+58118413,REDACTED,12958,Faculty,Regular,Academic Dept 2,74269.75,Faculty,Faculty,CHN,CHN,Female,1984-12-07,Y,N,Asian,Not a Veteran,2024-01-01
+58159438,REDACTED,16354,Faculty,Regular,Academic Dept 2,46288.55,Faculty,Faculty,GRC,USA,Male,1995-10-21,N,N,Hispanic/Latino,Not a Veteran,2007-01-29
+58228203,REDACTED,19027,Faculty,Regular,Academic Dept 2,61473.17,Faculty,Faculty,USA,USA,Male,1990-04-20,N,N,Hispanic/Latino,Not a Veteran,2018-06-11
+58955294,REDACTED,14245,Staff,Exempt,Academic Dept 2,26883.23,Research,Postdoctoral,USA,USA,Female,1984-09-21,N,N,Hispanic/Latino,Not a Veteran,2022-01-10
+58970839,REDACTED,16684,Faculty,Regular,Academic Dept 5,69126.1,Faculty,Faculty,USA,USA,Undeclared,1990-03-29,Y,,Asian,Not a Veteran,2019-09-01
+19029210,REDACTED,10279,Staff,Exempt,Academic Dept 4,61113.52,Student Affairs & Services,Executive/Admin/Managerial,USA,USA,Female,1980-07-24,,,Asian,Not a Veteran,2022-09-01
+83219816,REDACTED,22351,Staff,Exempt,Academic Dept 1,61311.16,Office & Administrative,Professional Nonfaculty,USA,USA,Female,1979-08-04,,,White,Not a Veteran,2019-09-01
+59688340,REDACTED,16845,Faculty,Regular,Academic Dept 2,32647.1,Faculty,Faculty,ISR,USA,Female,1969-03-27,N,N,White,Not a Veteran,2017-01-17
+60149024,REDACTED,17622,Staff,Exempt,Academic Dept 1,68949.22,Accounting & Finance,No EEO-6 Reporting,DEU,USA,Female,1971-06-06,N,N,Asian,Not a Veteran,2016-03-07
+60176601,REDACTED,17957,Staff,Exempt,Academic Dept 2,61842.43,Research,No EEO-6 Reporting,USA,USA,Male,1992-10-13,N,N,White,Not a Veteran,2020-07-27
+60317762,REDACTED,14171,Staff,Non-exempt,Academic Dept 2,65522.93,Information Technology,Professional Nonfaculty,USA,USA,Female,1972-05-14,Y,N,Asian,Not a Veteran,2024-01-16
+60346298,REDACTED,15740,Faculty,Regular,Academic Dept 2,56981.2,Faculty,Faculty,EGY,USA,Male,1986-04-16,N,N,American Indian/Alaska Native,Not a Veteran,2023-09-01
+56460579,REDACTED,14362,Staff,Exempt,Academic Dept 2,62064.95,Information Technology,No EEO-6 Reporting,USA,USA,Female,1978-11-04,Y,N,Black/African American,Not a Veteran,2023-09-01
+51653381,REDACTED,19022,Staff,Exempt,Academic Dept 2,62127.65,Professional Management,No EEO-6 Reporting,USA,USA,Female,1978-07-31,,,White,Not a Veteran,2021-08-01
+61232548,REDACTED,15182,Staff,Exempt,Academic Dept 2,43405.08,Research,Technical/Paraprofessional,USA,USA,Male,1978-05-09,N,N,American Indian/Alaska Native,Not a Veteran,2023-07-31
+25130216,REDACTED,18428,Staff,Exempt,Academic Dept 2,62519.65,Research,Professional Nonfaculty,USA,USA,Female,1988-09-08,N,N,Hispanic/Latino,Not a Veteran,2015-09-14
+61981862,REDACTED,15913,Staff,Exempt,Admin Dept 6,44339.89,Research,Professional Nonfaculty,USA,USA,Male,1979-03-15,N,N,White,Not a Veteran,2016-06-01
+62150717,REDACTED,10069,Faculty,Regular,Academic Dept 6,111565.37,Faculty,Faculty,USA,USA,Male,1994-06-13,,,White,Not a Veteran,2001-08-12
+42350734,REDACTED,11168,Staff,Exempt,Academic Dept 5,63055.07,Research,No EEO-6 Reporting,CHN,USA,Female,1993-12-17,N,N,Asian,Not a Veteran,2019-01-23
+93343988,REDACTED,15671,Staff,Exempt,Academic Dept 2,63101.42,Research,Faculty,IND,USA,Male,1971-02-28,N,N,Black/African American,Not a Veteran,2020-03-23
+62827467,REDACTED,20432,Staff,Exempt,Admin Dept 3,67882.72,Accounting & Finance,Professional Nonfaculty,USA,USA,Female,1969-08-28,Y,N,White,Not a Veteran,1999-09-01
+62922781,REDACTED,13292,Staff,Non-exempt,Academic Dept 2,106157.57,Police & Safety,Service Maintenance Workers,USA,USA,Male,1992-09-03,N,N,White,Not a Veteran,2017-08-25
+63127625,REDACTED,17696,Faculty,Regular,Academic Dept 2,67719.23,Faculty,Faculty,USA,USA,Male,1985-12-11,N,N,White,Not a Veteran,2022-12-08
+63414438,REDACTED,16677,Faculty,Regular,Academic Dept 3,51738.15,Faculty,Faculty,USA,USA,Female,1996-09-27,,,White,Not a Veteran,2015-09-14
+63428991,REDACTED,14395,Staff,Exempt,Admin Dept 2,80473.01,Information Technology,No EEO-6 Reporting,USA,USA,Female,1987-12-09,N,N,White,Not a Veteran,2023-02-27
+63494862,REDACTED,14205,Staff,Non-exempt,Academic Dept 2,51551.11,Professional Management,No EEO-6 Reporting,ARG,ARG,Female,1983-05-24,N,N,White,Not a Veteran,2022-04-11
+63814930,REDACTED,13476,Faculty,Regular,Academic Dept 1,52731.84,Faculty,Faculty,NLD,USA,Female,1990-07-09,Y,N,Asian,Not a Veteran,2019-06-03
+61820124,REDACTED,12301,Staff,Exempt,Academic Dept 6,64120.22,Student Affairs & Services,No EEO-6 Reporting,KOR,KOR,Female,1966-11-15,N,N,Hispanic/Latino,Not a Veteran,2011-06-01
+64512141,REDACTED,21931,Faculty,Regular,Admin Dept 2,45622.72,Faculty,Faculty,USA,USA,Male,1967-08-09,N,N,White,Not a Veteran,2016-01-19
+99205843,REDACTED,18718,Staff,Exempt,Academic Dept 2,64695.09,Library,Technical/Paraprofessional,USA,USA,Male,1975-06-02,N,N,White,Not a Veteran,2017-09-01
+65043469,REDACTED,13800,Staff,Non-exempt,Academic Dept 4,57512.52,Research,Postdoctoral,USA,USA,Female,1975-02-26,N,N,White,Not a Veteran,2019-08-20
+65160180,REDACTED,14013,Staff,Non-exempt,Admin Dept 3,54355.31,Office & Administrative,Professional Nonfaculty,USA,USA,Male,1966-10-20,N,N,White,Not a Veteran,2022-09-12
+42444045,REDACTED,18709,Staff,Exempt,Academic Dept 2,64937.16,Office & Administrative,Professional Nonfaculty,USA,USA,Female,1975-08-26,N,N,White,Not a Veteran,2022-09-01
+65471964,REDACTED,17543,Staff,Exempt,Academic Dept 4,46334.59,Research,Professional Nonfaculty,CHN,USA,Female,1994-08-19,N,N,Black/African American,Not a Veteran,2022-08-22
+76708996,REDACTED,16210,Staff,Exempt,Academic Dept 2,65093.69,Office & Administrative,Professional Nonfaculty,TUR,TUR,Female,1991-03-04,N,N,White,Not a Veteran,1997-01-01
+65569183,REDACTED,18398,Staff,Exempt,Admin Dept 3,65592.34,Research,Technical/Paraprofessional,USA,USA,Male,1973-01-21,N,N,White,Not a Veteran,2021-10-25
+12041902,REDACTED,21873,Staff,Exempt,Academic Dept 2,65298.12,Research,Faculty,USA,USA,Male,1991-07-23,Y,N,White,Not a Veteran,1986-09-01
+66389747,REDACTED,15613,Staff,Exempt,Academic Dept 2,69163.09,Research,No EEO-6 Reporting,USA,USA,Female,1984-09-06,N,N,White,Not a Veteran,2023-01-01
+66487461,REDACTED,21444,Staff,Research,Academic Dept 3,31122.22,Information Technology,No EEO-6 Reporting,USA,USA,Male,1972-05-09,Y,N,White,Not a Veteran,2015-11-23
+66856981,REDACTED,15326,Staff,Non-exempt,Admin Dept 5,86275.59,Information Technology,No EEO-6 Reporting,CHN,USA,Female,1993-06-09,N,N,White,Not a Veteran,2020-08-24
+67237808,REDACTED,17813,Faculty,Regular,Academic Dept 2,62133.4,Faculty,Faculty,USA,USA,Male,1963-05-24,N,N,White,Not a Veteran,2023-02-27
+67649078,REDACTED,17007,Faculty,Regular,Admin Dept 3,58339.06,Faculty,Faculty,USA,USA,Female,1989-11-18,N,N,White,Not a Veteran,2023-10-30
+67787034,REDACTED,15490,Staff,Exempt,Academic Dept 2,68751.01,Information Technology,No EEO-6 Reporting,USA,USA,Female,1998-08-06,N,N,White,Not a Veteran,2023-05-08
+68096258,REDACTED,22432,Staff,Exempt,Academic Dept 2,40969.45,Information Technology,Executive/Admin/Managerial,DEU,DEU,Female,1985-07-10,Y,N,Black/African American,Not a Veteran,2005-08-15
+68275173,REDACTED,18730,Staff,Exempt,Admin Dept 1,59905.4,Student Affairs & Services,Executive/Admin/Managerial,USA,USA,Female,2000-12-21,N,N,White,Not a Veteran,2023-08-30
+68318142,REDACTED,16764,Faculty,Regular,Academic Dept 6,43078.53,Faculty,Faculty,MEX,USA,Male,1993-07-27,N,N,Asian,Not a Veteran,2022-04-25
+89077491,REDACTED,20528,Staff,Exempt,Academic Dept 2,67133.3,Research,Faculty,USA,USA,Male,1993-03-24,N,N,American Indian/Alaska Native,Not a Veteran,2022-08-15
+68405230,REDACTED,13201,Staff,Non-exempt,Admin Dept 5,33293.81,Professional Management,No EEO-6 Reporting,USA,USA,Male,1997-03-13,N,N,White,Not a Veteran,2017-09-05
+68985668,REDACTED,17812,Staff,Exempt,Academic Dept 5,44455.02,Office & Administrative,Executive/Admin/Managerial,USA,USA,Female,1994-02-07,N,N,White,Not a Veteran,2015-10-26
+69110059,REDACTED,17154,Staff,Exempt,Admin Dept 2,67895.4,Research,No EEO-6 Reporting,CHN,USA,Female,1988-02-01,N,N,Hispanic/Latino,Not a Veteran,2019-11-01
+69459103,REDACTED,14372,Staff,Exempt,Academic Dept 1,88035.25,Research,Professional Nonfaculty,USA,USA,Female,1968-01-02,Y,N,White,Not a Veteran,2019-08-26
+69698743,REDACTED,22428,Staff,Exempt,Admin Dept 3,29200.24,Facilities,Skilled Crafts,USA,USA,Female,1990-01-20,N,N,White,Not a Veteran,2018-02-05
+69940610,REDACTED,22296,Faculty,Regular,Academic Dept 2,7956.28,Faculty,Faculty,USA,USA,Male,1966-08-22,N,N,Black/African American,Not a Veteran,2016-12-01
+70212078,REDACTED,16540,Staff,Exempt,Academic Dept 2,43009.55,Faculty,No EEO-6 Reporting,JPN,USA,Male,1984-09-10,,,Black/African American,Not a Veteran,2016-08-01
+70615772,REDACTED,18378,Staff,Exempt,Academic Dept 2,65158.97,Facilities,Executive/Admin/Managerial,USA,USA,Male,1988-04-26,N,N,White,Not a Veteran,2017-05-22
+70754945,REDACTED,10164,Faculty,Regular,Academic Dept 2,127521.86,Faculty,Faculty,CAN,USA,Male,1996-04-24,N,N,Asian,Not a Veteran,2018-04-16
+70811548,REDACTED,17341,Staff,Exempt,Admin Dept 2,48598.86,Professional Management,Professional Nonfaculty,USA,USA,Female,1990-08-25,N,N,White,Not a Veteran,2021-03-29
+71158225,REDACTED,20237,Staff,Exempt,Academic Dept 2,62470.03,Information Technology,Professional Nonfaculty,USA,USA,Female,1981-05-12,N,N,Asian,Not a Veteran,2023-06-05
+71171639,REDACTED,22104,Faculty,Regular,Academic Dept 2,38012.54,Faculty,Faculty,FRA,USA,Female,1989-04-03,N,N,Asian,Not a Veteran,2021-09-01
+71197123,REDACTED,16482,Staff,Exempt,Academic Dept 1,107996.82,Information Technology,No EEO-6 Reporting,USA,USA,Female,1961-09-16,N,N,White,Not a Veteran,2010-09-20
+71496105,REDACTED,17669,Staff,Exempt,Academic Dept 4,82431.03,Professional Management,Professional Nonfaculty,USA,USA,Female,1993-07-15,Y,N,White,Not a Veteran,2018-03-22
+71676728,REDACTED,16961,Staff,Exempt,Academic Dept 1,33670.44,Professional Management,No EEO-6 Reporting,USA,USA,Female,1997-04-30,N,N,White,Not a Veteran,2019-07-01
+72142545,REDACTED,20515,Staff,Exempt,Academic Dept 2,70568.73,Research,Postdoctoral,USA,USA,Male,1971-05-18,,,White,Not a Veteran,2017-06-01
+72024970,REDACTED,15302,Faculty,Regular,Admin Dept 3,72485.52,Faculty,Faculty,CAN,USA,Undeclared,1993-03-26,Y,N,White,Not a Veteran,2023-09-15
+72300008,REDACTED,20608,Staff,Exempt,Academic Dept 1,42282.39,"Develop, Alumni & Public Rel",Executive/Admin/Managerial,USA,USA,Female,1979-10-01,N,N,Asian,Not a Veteran,2011-09-26
+72536876,REDACTED,19773,Staff,Exempt,Academic Dept 2,48116.48,Professional Management,No EEO-6 Reporting,USA,USA,Female,1996-06-15,N,N,Asian,Not a Veteran,2019-09-23
+72542268,REDACTED,15645,Faculty,Regular,Academic Dept 2,67375.33,Faculty,Faculty,USA,USA,Female,1951-06-17,N,N,Black/African American,Not a Veteran,2018-05-14
+72837491,REDACTED,15916,Staff,Non-exempt,Academic Dept 2,93918.66,Office & Administrative,Professional Nonfaculty,USA,USA,Male,1993-04-07,N,N,Asian,Not a Veteran,2022-02-28
+72909921,REDACTED,19068,Staff,Exempt,Academic Dept 4,71861.99,Professional Management,No EEO-6 Reporting,USA,USA,Female,1986-03-10,Y,N,White,Not a Veteran,2023-08-07
+73186982,REDACTED,21532,Staff,Exempt,Academic Dept 2,31690.32,Office & Administrative,Professional Nonfaculty,USA,USA,Female,1988-09-28,N,N,Asian,Not a Veteran,2020-11-11
+73226051,REDACTED,16103,Staff,Research,Academic Dept 2,86402.29,Information Technology,Professional Nonfaculty,USA,USA,Male,1981-01-03,N,N,Asian,Not a Veteran,2022-09-15
+14018547,REDACTED,19782,Staff,Exempt,Academic Dept 1,71579.28,Research,Executive/Admin/Managerial,USA,USA,Male,1955-04-03,N,N,White,Not a Veteran,2008-12-01
+73753033,REDACTED,16788,Staff,Exempt,Admin Dept 2,74349.6,Research,Technical/Paraprofessional,USA,USA,Male,2001-03-31,N,N,White,Not a Veteran,2018-08-20
+32946595,REDACTED,20334,Staff,Exempt,Academic Dept 2,72493.08,Information Technology,Professional Nonfaculty,CHN,USA,Female,1999-04-11,N,N,White,Not a Veteran,1994-05-01
+74622490,REDACTED,18942,Faculty,Regular,Admin Dept 1,65632.67,Faculty,Faculty,USA,USA,Female,2000-08-17,N,N,Asian,Not a Veteran,2022-11-01
+74796386,REDACTED,17738,Staff,Exempt,Admin Dept 1,68797.14,Fine Arts & Entertainment,Executive/Admin/Managerial,USA,USA,Female,1967-08-22,Y,N,White,Not a Veteran,2008-09-01
+74820877,REDACTED,20841,Staff,Exempt,Admin Dept 5,41083.67,Research,Postdoctoral,CHN,USA,Female,1989-09-20,N,N,White,Not a Veteran,2017-01-01
+75519470,REDACTED,20191,Staff,Non-exempt Union,Admin Dept 2,45409.73,Information Technology,Professional Nonfaculty,USA,USA,Male,1990-08-15,N,N,White,Not a Veteran,2019-05-20
+53849726,REDACTED,10236,Staff,Exempt,Academic Dept 1,73999.01,Professional Management,No EEO-6 Reporting,USA,USA,Male,1998-09-26,N,N,Black/African American,Not a Veteran,2023-12-01
+76381181,REDACTED,15637,Staff,Exempt,Academic Dept 4,99562.2,Research,Postdoctoral,USA,USA,Female,1984-09-17,N,N,White,Not a Veteran,2000-09-14
+17574648,REDACTED,17630,Staff,Exempt,Academic Dept 2,74262.91,Office & Administrative,Professional Nonfaculty,USA,USA,Female,1973-05-01,N,N,Black/African American,Not a Veteran,2012-02-27
+76505256,REDACTED,16915,Staff,Exempt,Admin Dept 3,41329.72,Professional Management,No EEO-6 Reporting,USA,USA,Female,1987-05-19,N,N,White,Not a Veteran,2023-01-23
+76676992,REDACTED,19929,Faculty,Regular,Academic Dept 2,43483.35,Faculty,Faculty,USA,USA,Female,1991-01-21,N,N,White,Not a Veteran,2011-09-07
+76714115,REDACTED,17529,Staff,Exempt,Academic Dept 2,63046.28,Office & Administrative,Professional Nonfaculty,USA,USA,Male,1998-07-07,N,N,Asian,Not a Veteran,2024-03-11
+76716899,REDACTED,12906,Staff,Exempt,Academic Dept 2,95530.84,Office & Administrative,No EEO-6 Reporting,USA,USA,Male,1940-09-03,N,N,Asian,Not a Veteran,2023-04-11
+77042944,REDACTED,20813,Staff,Exempt,Admin Dept 5,50752.78,Professional Management,No EEO-6 Reporting,USA,USA,Female,1977-08-18,N,N,Hispanic/Latino,Not a Veteran,2023-02-15
+77056328,REDACTED,14102,Staff,Exempt,Academic Dept 6,80054.38,"Develop, Alumni & Public Rel",No EEO-6 Reporting,USA,USA,Male,1990-06-08,N,N,White,Not a Veteran,2022-09-30
+77097297,REDACTED,18349,Faculty,Regular,Academic Dept 2,66820.73,Faculty,Faculty,JPN,USA,Male,1988-06-19,Y,N,White,Not a Veteran,2021-06-14
+77241080,REDACTED,15072,Faculty,Regular,Academic Dept 1,22391.73,Faculty,Faculty,USA,USA,Female,1963-10-14,N,N,Hispanic/Latino,Not a Veteran,2023-07-17
+77413752,REDACTED,21611,Staff,Exempt,Admin Dept 5,64916.32,Research,No EEO-6 Reporting,USA,USA,Female,1962-08-29,N,N,White,Not a Veteran,2011-04-15
+77748599,REDACTED,20405,Faculty,Regular,Admin Dept 3,36675.5,Faculty,Faculty,USA,USA,Male,1988-07-01,Y,,White,Not a Veteran,2005-04-11
+77767850,REDACTED,14883,Staff,Exempt,Admin Dept 2,46818.71,Research,No EEO-6 Reporting,USA,USA,Female,1955-04-06,N,N,Hispanic/Latino,Not a Veteran,2023-03-27
+78105571,REDACTED,13499,Staff,Non-exempt,Academic Dept 3,70897.24,Library,Professional Nonfaculty,USA,USA,Female,1970-10-10,N,N,Hispanic/Latino,Not a Veteran,2022-10-24
+78270069,REDACTED,18644,Staff,Exempt,Academic Dept 2,59948.9,Research,No EEO-6 Reporting,USA,USA,Female,1965-04-15,N,N,White,Not a Veteran,2011-02-21
+78442281,REDACTED,18467,Faculty,Regular,Academic Dept 2,47702.49,Faculty,Faculty,GRD,USA,Female,1966-10-04,N,N,White,Not a Veteran,1991-09-23
+78530464,REDACTED,14343,Staff,Non-exempt,Academic Dept 2,68411.69,Office & Administrative,Professional Nonfaculty,USA,USA,Female,1987-08-19,N,N,Asian,Not a Veteran,2021-08-16
+78545033,REDACTED,16870,Staff,Exempt,Academic Dept 2,94871.55,Faculty,Professional Nonfaculty,USA,USA,Male,1965-06-21,N,N,Native Hawaiian/Oth Pac Island,Not a Veteran,2024-03-01
+78660502,REDACTED,13635,Staff,Non-exempt,Academic Dept 2,63265.21,Research,Postdoctoral,USA,USA,Male,1993-03-11,Y,N,White,Not a Veteran,2019-08-01
+79087451,REDACTED,12788,Faculty,Regular,Academic Dept 2,67179.38,Faculty,Faculty,USA,USA,Female,1985-08-08,,,White,Not a Veteran,2017-04-17
+79344454,REDACTED,21613,Staff,Exempt,Admin Dept 5,58007.49,Research,No EEO-6 Reporting,USA,USA,Female,1984-07-04,,,White,Not a Veteran,2016-09-06
+79499423,REDACTED,21559,Staff,Exempt,Academic Dept 2,37745.62,Facilities,Skilled Crafts,USA,USA,Male,2000-08-27,N,N,White,Not a Veteran,2020-05-25
+79514573,REDACTED,21729,Faculty,Regular,Academic Dept 1,46319.41,Faculty,Faculty,KOR,KOR,Female,1968-06-21,N,N,White,Not a Veteran,2019-07-15
+79657064,REDACTED,14806,Staff,Research,Academic Dept 4,33828.07,Research,No EEO-6 Reporting,USA,USA,Female,1966-12-07,N,N,Asian,Not a Veteran,2023-04-01
+79840088,REDACTED,19438,Staff,Exempt,Academic Dept 2,36098.45,Office & Administrative,Executive/Admin/Managerial,USA,USA,Female,1978-04-20,N,N,White,Not a Veteran,2022-10-24
+79959911,REDACTED,14373,Faculty,Regular,Academic Dept 5,85285.03,Faculty,Faculty,USA,USA,Female,1982-04-08,Y,N,White,Not a Veteran,2021-02-11
+80156667,REDACTED,13063,Staff,Non-exempt,Academic Dept 2,85616.41,Research,Postdoctoral,USA,USA,Female,1996-04-30,N,N,Asian,Not a Veteran,2021-11-08
+80437851,REDACTED,20238,Faculty,Regular,Academic Dept 1,52763.94,Faculty,Faculty,CAN,USA,Female,1968-06-29,Y,N,White,Not a Veteran,2023-12-11
+71013037,REDACTED,17124,Staff,Exempt,Academic Dept 1,77589.62,Professional Management,No EEO-6 Reporting,USA,USA,Female,1997-11-01,N,N,White,Not a Veteran,2018-10-01
+80765022,REDACTED,18388,Staff,Exempt,Academic Dept 2,27840.07,Accounting & Finance,Professional Nonfaculty,USA,USA,Female,1989-04-26,Y,N,White,Not a Veteran,2023-02-06
+80916957,REDACTED,18787,Staff,Exempt,Academic Dept 2,60414.87,Athletics,Professional Nonfaculty,USA,USA,Male,1981-07-30,N,N,Hispanic/Latino,Not a Veteran,1998-07-01
+81261887,REDACTED,13507,Staff,Exempt,Admin Dept 3,62497.16,Research,Professional Nonfaculty,USA,USA,Female,1973-02-13,N,N,White,Not a Veteran,2023-10-02
+81520940,REDACTED,12879,Faculty,Regular,Academic Dept 2,49290.25,Faculty,Faculty,USA,USA,Female,1994-05-27,N,N,Asian,Not a Veteran,2023-07-10
+81780542,REDACTED,13749,Faculty,Regular,Academic Dept 5,64929.8,Faculty,Faculty,JAM,USA,Female,1997-09-02,Y,N,Hispanic/Latino,Not a Veteran,2024-03-25
+82312204,REDACTED,20243,Staff,Exempt,Admin Dept 3,45534.49,Information Technology,Professional Nonfaculty,USA,USA,Male,1987-06-18,N,N,White,Not a Veteran,2023-12-20
+82509361,REDACTED,14966,Staff,Research,Academic Dept 2,104809.18,Research,Professional Nonfaculty,USA,USA,Female,1993-05-04,N,N,Asian,Not a Veteran,2024-05-27
+78354167,REDACTED,16049,Staff,Exempt,Admin Dept 2,81455.76,Research,Faculty,CHN,USA,Female,1977-09-02,N,N,White,Not a Veteran,1999-09-01
+83121129,REDACTED,13089,Staff,Non-exempt,Academic Dept 2,78122.85,Information Technology,Professional Nonfaculty,USA,USA,Female,1994-06-02,N,N,Hispanic/Latino,Not a Veteran,2023-05-22
+83730534,REDACTED,18105,Faculty,Regular,Academic Dept 6,59031.96,Faculty,Faculty,USA,USA,Female,1985-03-11,N,N,White,Not a Veteran,2019-08-01
+60380351,REDACTED,13670,Staff,Exempt,Admin Dept 5,83428.96,Research,Faculty,USA,USA,Female,1956-05-06,N,N,Asian,Not a Veteran,1987-05-04
+84539744,REDACTED,17457,Staff,Exempt,Academic Dept 1,34365.39,Professional Management,Professional Nonfaculty,USA,USA,Male,2001-08-22,N,N,Hispanic/Latino,Not a Veteran,2023-03-06
+31850501,REDACTED,19674,Staff,Exempt,Academic Dept 2,83954.24,Research,Postdoctoral,USA,USA,Female,1964-03-15,N,N,White,Not a Veteran,2022-07-20
+84786443,REDACTED,13784,Staff,Exempt,Academic Dept 2,94433.47,Student Affairs & Services,Executive/Admin/Managerial,USA,USA,Male,1963-03-29,N,N,Asian,Not a Veteran,2023-10-23
+85004208,REDACTED,15792,Staff,Exempt,Admin Dept 1,38561.19,Professional Management,No EEO-6 Reporting,USA,USA,Male,1977-07-15,N,N,Black/African American,Not a Veteran,2024-02-19
+85561810,REDACTED,19614,Staff,Exempt,Academic Dept 2,42156.93,Research,No EEO-6 Reporting,USA,USA,Male,1986-10-15,N,N,White,Not a Veteran,2013-07-22
+85835633,REDACTED,13117,Staff,Exempt,Admin Dept 5,117501.96,Professional Management,Executive/Admin/Managerial,CHN,CHN,Male,1966-12-05,N,N,White,Not a Veteran,2017-09-19
+86535687,REDACTED,17506,Staff,Exempt,Academic Dept 2,96096.51,Professional Management,Executive/Admin/Managerial,USA,USA,Female,1979-05-02,N,N,Asian,Not a Veteran,2020-07-01
+86569650,REDACTED,12848,Staff,Exempt,Admin Dept 5,38320.04,Professional Management,Professional Nonfaculty,USA,USA,Male,1990-01-10,N,N,Hispanic/Latino,Not a Veteran,2024-01-08
+86648543,REDACTED,13120,Staff,Exempt,Academic Dept 2,89027.22,Office & Administrative,No EEO-6 Reporting,USA,USA,Female,1974-12-25,N,N,American Indian/Alaska Native,Not a Veteran,2022-03-21
+86696561,REDACTED,21672,Faculty,Regular,Admin Dept 2,39103.19,Faculty,Faculty,USA,USA,Female,1982-07-30,N,N,Black/African American,Not a Veteran,2022-11-28
+86802360,REDACTED,19597,Faculty,Regular,Admin Dept 1,66222.13,Faculty,Faculty,USA,USA,Female,1978-09-16,N,N,Hispanic/Latino,Not a Veteran,2019-07-29
+86835099,REDACTED,15962,Faculty,Regular,Academic Dept 1,79370.0,Faculty,Faculty,USA,USA,Female,1990-07-05,N,N,White,Not a Veteran,2023-12-01
+86948104,REDACTED,12790,Staff,Exempt,Admin Dept 1,33639.46,Research,Postdoctoral,USA,USA,Male,1956-06-27,Y,N,White,Not a Veteran,2024-05-28
+86965206,REDACTED,21859,Staff,Exempt,Admin Dept 5,49927.17,Healthcare,Technical/Paraprofessional,IND,IND,Female,1970-01-28,N,N,White,Not a Veteran,2018-10-24
+87045277,REDACTED,13268,Staff,Non-exempt,Academic Dept 2,101638.22,Research,Postdoctoral,USA,USA,Female,1984-07-25,N,N,White,Not a Veteran,2021-10-04
+87050307,REDACTED,20029,Staff,Exempt,Academic Dept 3,69715.32,Police & Safety,No EEO-6 Reporting,CAN,USA,Male,1986-03-11,N,N,White,Not a Veteran,2017-01-09
+87117593,REDACTED,13387,Staff,Non-exempt,Academic Dept 5,101152.73,Office & Administrative,Professional Nonfaculty,USA,USA,Male,1983-09-13,N,N,Asian,Not a Veteran,2021-08-23
+87148778,REDACTED,15747,Faculty,Regular,Admin Dept 5,47600.97,Faculty,Faculty,USA,USA,Female,1984-06-03,Y,N,Black/African American,Not a Veteran,2021-02-15
+87614293,REDACTED,15398,Staff,Exempt,Admin Dept 6,58792.52,Professional Management,No EEO-6 Reporting,USA,USA,Female,1984-07-10,N,N,White,Not a Veteran,2022-05-09
+88496249,REDACTED,13967,Staff,Exempt,Admin Dept 2,96610.35,Research,Postdoctoral,USA,USA,Female,1998-02-19,N,N,White,Not a Veteran,2023-04-01
+88885370,REDACTED,13121,Staff,Non-exempt,Academic Dept 2,40028.49,Student Affairs & Services,Executive/Admin/Managerial,USA,USA,Female,1987-07-05,N,N,White,Not a Veteran,2019-11-18
+97410167,REDACTED,12805,Staff,Exempt,Academic Dept 2,91273.09,Information Technology,No EEO-6 Reporting,USA,USA,Male,1996-06-15,Y,N,White,Not a Veteran,2014-11-10
+56972863,REDACTED,10508,Staff,Exempt,Academic Dept 1,92276.08,Research,No EEO-6 Reporting,USA,USA,Male,1955-02-06,N,N,Black/African American,Not a Veteran,1991-07-01
+89535481,REDACTED,15983,Staff,Exempt,Admin Dept 1,70239.39,Office & Administrative,Professional Nonfaculty,USA,USA,Female,1965-02-05,N,N,White,Not a Veteran,2024-01-16
+89588777,REDACTED,14527,Faculty,Regular,Academic Dept 1,60770.98,Faculty,Faculty,USA,USA,Female,1968-07-18,N,N,White,Not a Veteran,2023-01-23
+89718686,REDACTED,17345,Staff,Exempt,Academic Dept 2,53430.27,Professional Management,No EEO-6 Reporting,USA,USA,Female,1975-04-02,N,N,White,Not a Veteran,2023-11-13
+90152905,REDACTED,14342,Staff,Non-exempt,Academic Dept 2,99495.29,Research,Professional Nonfaculty,USA,USA,Female,1962-06-18,N,N,Black/African American,Not a Veteran,2019-10-21
+78438439,REDACTED,10136,Staff,Exempt,Academic Dept 1,94341.85,Office & Administrative,Secretarial/Clerical,USA,USA,Female,1991-08-20,N,N,Hispanic/Latino,Not a Veteran,2014-06-23
+40872475,REDACTED,13078,Staff,Exempt,Academic Dept 1,95537.81,Research,Faculty,USA,USA,Female,1974-11-16,N,N,Black/African American,Not a Veteran,2022-04-11
+90903214,REDACTED,12864,Staff,Exempt,Academic Dept 2,69155.92,Professional Management,No EEO-6 Reporting,USA,USA,Female,1971-06-14,N,N,Black/African American,Not a Veteran,2023-06-20
+91302576,REDACTED,16045,Staff,Exempt,Admin Dept 2,26746.85,Research,Postdoctoral,USA,USA,Female,1991-08-23,,,White,Not a Veteran,2016-01-05
+91307555,REDACTED,15255,Staff,Non-exempt,Admin Dept 6,53879.44,Office & Administrative,No EEO-6 Reporting,USA,USA,Female,1999-09-13,N,N,Black/African American,Not a Veteran,2016-08-01
+25473587,REDACTED,10488,Staff,Exempt,Academic Dept 2,96773.4,Research,Postdoctoral,USA,USA,Male,1982-10-07,N,N,White,Not a Veteran,2024-07-01
+91333848,REDACTED,14422,Staff,Exempt,Academic Dept 6,76731.09,Research,No EEO-6 Reporting,USA,USA,Male,1996-05-20,N,N,White,Not a Veteran,2022-01-10
+91653350,REDACTED,18764,Staff,Exempt,Academic Dept 2,16386.71,Faculty,Executive/Admin/Managerial,USA,USA,Male,1993-12-26,,,Black/African American,Not a Veteran,2016-07-11
+91687608,REDACTED,12867,Staff,Exempt,Academic Dept 1,36582.9,Healthcare,Technical/Paraprofessional,USA,USA,Male,1971-01-19,N,N,Asian,Not a Veteran,2023-07-07
+52585961,REDACTED,17429,Staff,Exempt,Academic Dept 2,97981.26,Facilities,No EEO-6 Reporting,KOR,KOR,Female,1969-03-01,N,N,Asian,Not a Veteran,2023-01-01
+92202482,REDACTED,12989,Faculty,Regular,Academic Dept 2,54189.96,Faculty,Faculty,USA,USA,Female,1978-08-31,Y,N,White,Not a Veteran,2013-07-01
+92439194,REDACTED,18625,Staff,Exempt,Academic Dept 1,64262.11,Research,No EEO-6 Reporting,IND,USA,Male,1995-03-05,N,N,Asian,Not a Veteran,2016-09-25
+92521830,REDACTED,15588,Staff,Exempt,Academic Dept 5,49578.01,Healthcare,No EEO-6 Reporting,USA,USA,Female,1991-12-10,Y,N,White,Not a Veteran,2015-09-02
+86910700,REDACTED,19346,Staff,Exempt,Academic Dept 2,99374.79,Office & Administrative,Executive/Admin/Managerial,USA,USA,Female,1977-09-23,Y,N,Hispanic/Latino,Not a Veteran,2023-01-01
+92714243,REDACTED,19737,Staff,Non-exempt Union,Admin Dept 2,69348.61,Research,Postdoctoral,TWN,USA,Male,1968-08-01,N,N,White,Not a Veteran,2022-03-07
+92896191,REDACTED,15222,Staff,Exempt,Academic Dept 6,75494.6,Office & Administrative,No EEO-6 Reporting,USA,USA,Male,1991-05-20,Y,N,White,Not a Veteran,2018-07-15
+92920635,REDACTED,14416,Staff,Research,Academic Dept 2,91715.6,Research,Postdoctoral,USA,USA,Female,1962-11-12,N,N,Black/African American,Not a Veteran,2019-10-21
+92930204,REDACTED,20017,Staff,Non-exempt Union,Admin Dept 4,42924.4,Office & Administrative,Professional Nonfaculty,USA,USA,Female,1971-09-30,N,N,White,Not a Veteran,2001-10-08
+92975062,REDACTED,16205,Staff,Exempt,Academic Dept 4,78320.84,Research,Postdoctoral,GBR,USA,Male,1990-07-16,N,N,Black/African American,Not a Veteran,2022-09-26
+88362865,REDACTED,10565,Staff,Exempt,Academic Dept 2,100897.91,Accounting & Finance,Professional Nonfaculty,USA,USA,Female,1994-11-01,N,N,Asian,Not a Veteran,2022-09-01
+93211189,REDACTED,20396,Faculty,Regular,Admin Dept 5,55385.51,Faculty,Faculty,USA,USA,Male,1980-01-13,N,N,White,Not a Veteran,2022-06-06
+80551791,REDACTED,10196,Staff,Exempt,Academic Dept 2,102341.99,Research,No EEO-6 Reporting,USA,USA,Male,1964-10-12,N,N,White,Not a Veteran,2021-09-13
+93713727,REDACTED,17233,Staff,Exempt,Academic Dept 2,74258.06,Office & Administrative,Professional Nonfaculty,IND,USA,Female,1991-03-30,N,N,White,Not a Veteran,2019-08-19
+11357741,REDACTED,13075,Staff,Exempt,Academic Dept 2,102511.55,Research,Faculty,USA,USA,Female,1953-03-09,N,N,White,Not a Veteran,2024-04-14
+93839618,REDACTED,14130,Faculty,Regular,Academic Dept 4,53429.91,Faculty,Faculty,USA,USA,Female,1989-03-13,,,White,Not a Veteran,2015-09-28
+94049673,REDACTED,14598,Faculty,Regular,Admin Dept 3,63989.28,Faculty,Faculty,USA,USA,Female,1997-11-25,N,N,White,Not a Veteran,2017-11-08
+94078215,REDACTED,15284,Staff,Exempt,Academic Dept 2,85229.01,Office & Administrative,Executive/Admin/Managerial,USA,USA,Female,1995-09-19,N,N,White,Not a Veteran,2022-01-10
+94123485,REDACTED,17286,Staff,Exempt,Admin Dept 2,62238.42,Research,Professional Nonfaculty,USA,USA,Male,1970-08-09,N,N,White,Not a Veteran,2023-05-01
+11955071,REDACTED,10838,Staff,Exempt,Academic Dept 2,106156.88,Research,No EEO-6 Reporting,USA,USA,Female,1983-04-23,,,White,Not a Veteran,2010-07-01
+94853692,REDACTED,17185,Faculty,Regular,Academic Dept 2,28887.92,Faculty,Faculty,USA,USA,Male,1995-11-03,,,White,Not a Veteran,2023-09-01
+95081557,REDACTED,18978,Staff,Exempt,Academic Dept 2,65749.72,Professional Management,Executive/Admin/Managerial,USA,USA,Female,1983-07-23,,,White,Not a Veteran,2016-03-28
+95310371,REDACTED,15676,Staff,Exempt,Admin Dept 5,56189.8,Accounting & Finance,Secretarial/Clerical,USA,USA,Undeclared,1987-04-29,Y,N,White,Not a Veteran,2011-09-20
+95343078,REDACTED,16066,Staff,Exempt,Academic Dept 5,41148.03,Information Technology,Professional Nonfaculty,USA,USA,Male,2001-07-03,N,N,Asian,Not a Veteran,2019-08-05
+95446589,REDACTED,17788,Staff,Exempt,Academic Dept 2,89902.79,Police & Safety,Service Maintenance Workers,USA,USA,Female,1979-05-29,N,N,White,Not a Veteran,2023-08-21
+96079670,REDACTED,20061,Staff,Exempt,Academic Dept 1,50903.95,Research,Technical/Paraprofessional,USA,USA,Male,1971-06-24,N,N,White,Not a Veteran,2001-12-17
+96115785,REDACTED,13503,Staff,Exempt,Academic Dept 4,62666.58,Facilities,Skilled Crafts,USA,USA,Female,1988-11-20,N,N,White,Not a Veteran,2023-06-01
+38466361,REDACTED,10440,Staff,Exempt,Academic Dept 2,116496.63,Research,Faculty,USA,USA,Female,1991-04-05,N,N,Hispanic/Latino,Not a Veteran,2023-07-01
+97059459,REDACTED,12812,Faculty,Regular,Academic Dept 2,107877.28,Faculty,Faculty,USA,USA,Female,2000-10-17,N,N,Hispanic/Latino,Not a Veteran,2023-11-27
+97151127,REDACTED,13021,Staff,Non-exempt,Academic Dept 2,73410.32,Office & Administrative,Executive/Admin/Managerial,USA,USA,Female,1991-08-23,N,N,White,Not a Veteran,2022-08-29
+97170598,REDACTED,13042,Faculty,Regular,Academic Dept 1,90888.19,Faculty,Faculty,USA,USA,Female,1995-01-09,Y,N,White,Not a Veteran,2021-07-15
+97902581,REDACTED,16666,Staff,Exempt,Academic Dept 2,67595.77,Professional Management,No EEO-6 Reporting,CHN,USA,Male,1952-10-24,N,N,White,Not a Veteran,2002-06-02
+97941756,REDACTED,16686,Faculty,Regular,Academic Dept 2,63568.3,Faculty,Faculty,USA,USA,Female,1970-12-28,N,N,White,Not a Veteran,2022-10-24
+97955412,REDACTED,19040,Faculty,Regular,Admin Dept 2,48567.82,Faculty,Faculty,ITA,USA,Female,1966-10-22,,,Asian,Not a Veteran,2002-01-07
+98074135,REDACTED,14887,Faculty,Regular,Academic Dept 2,88299.65,Faculty,Faculty,USA,USA,Female,1980-03-14,Y,N,Black/African American,Not a Veteran,2018-09-12
+98175335,REDACTED,15737,Staff,Research,Academic Dept 2,57289.3,Research,Postdoctoral,USA,USA,Female,1991-09-02,N,N,Asian,Not a Veteran,2013-09-01
+98338154,REDACTED,19483,Faculty,Regular,Admin Dept 3,41241.34,Faculty,Faculty,USA,USA,Female,1962-06-28,Y,N,White,Not a Veteran,2001-12-10
+98778907,REDACTED,12944,Staff,Non-exempt,Academic Dept 4,96803.01,Professional Management,No EEO-6 Reporting,JPN,USA,Male,1971-03-08,N,N,Hispanic/Latino,Not a Veteran,2024-01-22
+98935900,REDACTED,15031,Staff,Exempt,Academic Dept 2,27121.75,Professional Management,No EEO-6 Reporting,CHN,CHN,Female,1973-02-13,N,N,White,Not a Veteran,2022-09-30
+98945671,REDACTED,20175,Staff,Non-exempt Union,Admin Dept 5,66090.06,Office & Administrative,No EEO-6 Reporting,USA,USA,Female,1992-10-06,N,N,White,Not a Veteran,2017-05-15
+98962007,REDACTED,17411,Faculty,Regular,Admin Dept 5,66797.37,Faculty,Faculty,USA,USA,Male,1993-06-17,N,N,Asian,Not a Veteran,2024-06-17
+84909531,REDACTED,10433,Staff,Exempt,Academic Dept 1,133000.69,Research,Postdoctoral,USA,USA,Female,1996-05-22,,,White,Not a Veteran,2020-07-01
+16904367,REDACTED,10179,Staff,Exempt,Academic Dept 6,135725.79,Research,Postdoctoral,USA,USA,Female,1982-10-29,,,White,Not a Veteran,2019-07-15
+99407387,REDACTED,18205,Staff,Exempt,Academic Dept 4,63660.21,Research,No EEO-6 Reporting,USA,USA,Female,1959-07-19,N,N,White,Not a Veteran,2024-05-01
+99484657,REDACTED,16306,Staff,Exempt,Academic Dept 6,104894.6,Accounting & Finance,No EEO-6 Reporting,USA,USA,Female,1978-10-07,N,N,White,Not a Veteran,2019-09-23
+53557011,REDACTED,10267,Staff,Exempt,Academic Dept 4,141620.77,Office & Administrative,Professional Nonfaculty,CHN,USA,Female,1987-09-21,,,Asian,Not a Veteran,2020-05-01
+99953675,REDACTED,14001,Staff,Research,Academic Dept 2,102897.73,Research,No EEO-6 Reporting,CHN,USA,Female,1979-06-01,,,Asian,Not a Veteran,2023-11-06
+99979062,REDACTED,13404,Staff,Research,Academic Dept 5,14176.2,Office & Administrative,Secretarial/Clerical,USA,USA,Male,1991-12-10,N,N,Asian,Not a Veteran,2022-06-01
+12814477,REDACTED,17350,Staff,Exempt,Academic Dept 2,79669.75,Professional Management,No EEO-6 Reporting,USA,USA,Female,1983-04-16,,,White,Not a Vietnam-Era Veteran,2004-07-01
+14227458,REDACTED,16226,Staff,Non-Exempt,Academic Dept 1,7265.73,Professional Management,No EEO-6 Reporting,USA,USA,Male,1985-12-16,,,Asian,Not indicated,2009-06-01
+10277772,REDACTED,16275,Faculty,Regular,Academic Dept 1,93630.61,Faculty,Faculty,USA,USA,Male,1971-05-25,,,Asian,Not indicated,2021-05-01
+10350765,REDACTED,18757,Faculty,Research,Academic Dept 1,93491.22,Faculty,Faculty,USA,USA,Female,1975-09-05,,,White,Not indicated,2003-07-07
+19565750,REDACTED,10496,Staff,Non-Exempt,Academic Dept 4,10821.56,Professional Management,Professional Nonfaculty,USA,USA,Male,2000-04-14,,,White,Not indicated,1990-11-01
+84117644,REDACTED,19678,Staff,Non-Exempt,Academic Dept 2,12976.84,Professional Management,Professional Nonfaculty,USA,USA,Female,1999-05-19,,,Asian,Not indicated,2023-09-01
+10915160,REDACTED,22566,Staff,Exempt,Admin Dept 5,32883.45,Office & Administrative,Professional Nonfaculty,USA,USA,Female,1988-02-27,N,N,White,Not indicated,2013-01-28
+90550724,REDACTED,11188,Staff,Non-Exempt,Academic Dept 2,15384.65,Facilities,Secretarial/Clerical,USA,USA,Female,1993-07-11,,,White,Not indicated,2000-12-17
+25345592,REDACTED,18797,Staff,Non-Exempt,Academic Dept 2,15492.95,Research,Postdoctoral,USA,USA,Male,1995-07-30,,,White,Not indicated,2007-01-01
+67199846,REDACTED,10777,Staff,Non-Exempt,Academic Dept 2,15859.17,Research,Faculty,USA,USA,Female,1992-01-17,,,White,Not indicated,2002-10-01
+11176447,REDACTED,16453,Staff,Exempt,Academic Dept 5,67833.31,Information Technology,No EEO-6 Reporting,CHN,CHN,Female,1989-05-18,Y,N,White,Not indicated,2022-12-05
+67514975,REDACTED,22193,Staff,Non-Exempt,Academic Dept 2,16642.09,Research,Professional Nonfaculty,USA,USA,Male,1971-12-13,,,White,Not indicated,2006-06-01
+24460542,REDACTED,22484,Staff,Non-Exempt,Academic Dept 4,16938.7,Research,Postdoctoral,USA,USA,Female,1987-09-21,,,Hispanic/Latino,Not indicated,1994-09-01
+64997228,REDACTED,22150,Staff,Non-Exempt,Academic Dept 1,17153.26,Office & Administrative,Professional Nonfaculty,USA,USA,Male,1993-04-09,,,White,Not indicated,2005-09-01
+50866623,REDACTED,22371,Staff,Non-Exempt,Academic Dept 2,18355.76,Office & Administrative,Professional Nonfaculty,USA,USA,Female,1966-09-16,,,White,Not indicated,2007-02-19
+11855326,REDACTED,20141,Staff,Non-exempt Union,Admin Dept 4,61833.06,Athletics,No EEO-6 Reporting,USA,USA,Male,1965-06-14,Y,,Black/African American,Not indicated,2005-05-02
+53425002,REDACTED,17156,Staff,Non-Exempt,Academic Dept 6,18991.89,Student Affairs & Services,Executive/Admin/Managerial,USA,USA,Male,1962-11-29,,,Black/African American,Not indicated,1982-07-01
+12302419,REDACTED,21505,Faculty,Regular,Academic Dept 2,36245.62,Faculty,Faculty,CHN,USA,Female,1971-10-06,,,Hispanic/Latino,Not indicated,2010-08-02
+12564588,REDACTED,14862,Staff,Research,Academic Dept 5,68040.01,Research,No EEO-6 Reporting,ITA,ITA,Female,1997-11-10,,,Asian,Not indicated,2024-01-08
+12665385,REDACTED,20560,Staff,Exempt,Academic Dept 6,71154.82,Accounting & Finance,No EEO-6 Reporting,FRA,FRA,Female,1947-11-24,,,Black/African American,Not indicated,2013-07-22
+12669673,REDACTED,18527,Staff,Non-exempt Union,Admin Dept 5,59222.15,Office & Administrative,Professional Nonfaculty,USA,USA,Female,1994-06-18,,,White,Not indicated,1991-10-02
+12833074,REDACTED,17566,Faculty,Regular,Academic Dept 6,47309.89,Faculty,Faculty,GBR,USA,Female,1981-06-15,,,White,Not indicated,2006-09-01
+12924478,REDACTED,15688,Staff,Non-exempt,Academic Dept 2,48198.6,Research,Professional Nonfaculty,USA,USA,Male,1994-11-04,,,White,Not indicated,2010-09-07
+27573664,REDACTED,21369,Staff,Non-Exempt,Academic Dept 3,23643.13,"Develop, Alumni & Public Rel",Professional Nonfaculty,USA,USA,Male,1987-11-05,,,White,Not indicated,1973-09-01
+79140952,REDACTED,21154,Staff,Non-Exempt,Academic Dept 2,24337.86,Professional Management,No EEO-6 Reporting,USA,USA,Male,1974-07-07,,,White,Not indicated,1999-02-01
+13228152,REDACTED,12897,Faculty,Regular,Academic Dept 4,77278.1,Faculty,Faculty,LKA,USA,Male,1968-01-29,Y,,Asian,Not indicated,2022-08-01
+13485876,REDACTED,18511,Faculty,Regular,Academic Dept 2,62016.01,Faculty,Faculty,USA,USA,Male,1987-04-04,,,White,Not indicated,2010-07-11
+13550788,REDACTED,13300,Staff,Non-exempt,Academic Dept 2,31197.86,Professional Management,Professional Nonfaculty,USA,USA,Female,1978-01-31,,,,Not indicated,2017-03-27
+13581596,REDACTED,20584,Staff,Non-exempt Union,Admin Dept 3,60094.32,Research,Technical/Paraprofessional,USA,USA,Male,1994-09-21,,,White,Not indicated,1989-02-14
+13826305,REDACTED,19562,Faculty,Research,Academic Dept 2,66750.64,Faculty,Faculty,USA,USA,Female,1990-06-17,,,White,Not indicated,2000-02-15
+13842360,REDACTED,13443,Staff,Non-exempt,Admin Dept 3,36325.1,Research,Postdoctoral,USA,USA,Female,1991-01-26,N,N,Black/African American,Not indicated,1994-10-03
+14029885,REDACTED,17870,Staff,Exempt,Academic Dept 4,95758.94,Accounting & Finance,Executive/Admin/Managerial,USA,USA,Female,1991-01-19,,,White,Not indicated,2009-11-03
+24121007,REDACTED,22366,Staff,Non-Exempt,Academic Dept 1,27159.16,Research,Faculty,CAN,USA,Male,1981-03-22,Y,,White,Not indicated,1996-01-01
+89227166,REDACTED,21947,Staff,Non-Exempt,Academic Dept 2,27286.25,Information Technology,Professional Nonfaculty,USA,USA,Male,1990-07-11,,,White,Not indicated,2012-02-01
+14339942,REDACTED,14273,Faculty,Regular,Academic Dept 2,47672.28,Faculty,Faculty,USA,USA,Male,1991-10-15,,,Asian,Not indicated,2020-01-01
+14741279,REDACTED,21452,Faculty,Regular,Academic Dept 2,49949.4,Faculty,Faculty,USA,USA,Female,1976-06-06,,,White,Not indicated,2021-04-01
+14747642,REDACTED,14706,Staff,Research,Academic Dept 1,50298.83,Professional Management,No EEO-6 Reporting,USA,USA,Female,1989-03-10,,,White,Not indicated,2024-07-01
+53946682,REDACTED,21616,Staff,Non-Exempt,Academic Dept 6,28514.57,Professional Management,Executive/Admin/Managerial,USA,USA,Male,1990-08-10,,,Black/African American,Not indicated,2011-09-01
+42591862,REDACTED,16599,Staff,Non-Exempt,Academic Dept 1,28755.17,Research,Postdoctoral,USA,USA,Female,1984-12-25,,,White,Not indicated,2023-09-05
+14959737,REDACTED,16566,Faculty,Regular,Academic Dept 2,83707.88,Faculty,Faculty,USA,USA,Male,1983-04-24,Y,,White,Not indicated,2022-07-01
+15419996,REDACTED,17538,Faculty,Regular,Academic Dept 4,43645.59,Faculty,No EEO-6 Reporting,USA,USA,Female,1995-12-21,,,American Indian/Alaska Native,Not indicated,2000-09-01
+15519300,REDACTED,16195,Faculty,Regular,Academic Dept 2,68532.91,Faculty,Faculty,USA,USA,Female,1981-09-10,Y,,White,Not indicated,2007-07-09
+15593110,REDACTED,12823,Staff,Research,Academic Dept 6,24072.34,Office & Administrative,Executive/Admin/Managerial,USA,USA,Female,1967-10-04,,,White,Not indicated,2015-07-14
+15669823,REDACTED,14461,Faculty,Regular,Academic Dept 3,108024.69,Faculty,Faculty,USA,USA,Male,1973-03-22,,,Asian,Not indicated,2024-01-08
+15669881,REDACTED,16528,Faculty,Regular,Academic Dept 4,78541.58,Faculty,Faculty,USA,USA,Female,1989-09-22,,,White,Not indicated,2021-03-01
+34551478,REDACTED,15873,Staff,Non-Exempt,Academic Dept 2,30163.34,Research,Postdoctoral,USA,USA,Female,1963-09-01,,,White,Not indicated,2023-08-01
+15914317,REDACTED,20547,Faculty,Regular,Academic Dept 1,63555.96,Faculty,Faculty,USA,USA,Female,1992-08-03,,,White,Not indicated,2020-07-01
+15973004,REDACTED,17149,Staff,Research,Academic Dept 2,57680.18,Professional Management,No EEO-6 Reporting,CHN,USA,Male,1978-08-29,,,White,Not indicated,2013-07-15
+90448322,REDACTED,20297,Staff,Non-Exempt,Academic Dept 1,30609.29,Office & Administrative,No EEO-6 Reporting,USA,USA,Female,1996-03-18,,,White,Not indicated,2005-09-01
+64015655,REDACTED,21235,Staff,Non-Exempt,Academic Dept 2,30766.7,Office & Administrative,Professional Nonfaculty,USA,USA,Male,1980-10-01,,,Hispanic/Latino,Not indicated,2002-09-01
+33577492,REDACTED,20906,Staff,Non-Exempt,Academic Dept 2,30775.32,Police & Safety,Service Maintenance Workers,USA,USA,Male,1991-05-03,,,White,Not indicated,1992-09-01
+16236958,REDACTED,16215,Staff,Exempt,Admin Dept 3,33082.55,Research,Postdoctoral,USA,USA,Male,1996-10-14,,,White,Not indicated,2011-11-08
+24735996,REDACTED,16168,Staff,Non-Exempt,Academic Dept 5,31861.25,Information Technology,Professional Nonfaculty,USA,USA,Male,1989-04-16,Y,,White,Not indicated,1988-11-01
+16773421,REDACTED,17888,Staff,Exempt,Admin Dept 1,80777.79,Research,Postdoctoral,IRN,USA,Female,1999-12-30,,,White,Not indicated,2016-03-28
+16797273,REDACTED,16926,Staff,Exempt,Academic Dept 6,55581.09,Professional Management,No EEO-6 Reporting,USA,USA,Female,1995-09-07,,,White,Not indicated,2000-10-08
+16851674,REDACTED,10254,Faculty,Regular,Academic Dept 2,56442.85,Faculty,Faculty,JPN,JPN,Female,2001-04-04,,,Hispanic/Latino,Not indicated,2003-07-01
+52454570,REDACTED,22059,Staff,Non-Exempt,Academic Dept 2,32245.36,Research,Professional Nonfaculty,USA,USA,Female,1969-07-11,,,White,Not indicated,1996-10-14
+20221663,REDACTED,21945,Staff,Non-Exempt,Academic Dept 2,32257.99,Office & Administrative,Professional Nonfaculty,USA,USA,Female,1991-01-29,,,White,Not indicated,2005-06-01
+17044374,REDACTED,14868,Faculty,Regular,Admin Dept 3,52321.79,Faculty,Faculty,USA,USA,Female,1963-02-01,,,White,Not indicated,1984-08-20
+52251349,REDACTED,21122,Staff,Non-Exempt,Academic Dept 1,32900.79,Research,Faculty,USA,USA,Male,1988-03-18,,,White,Not indicated,2011-02-14
+17135685,REDACTED,18130,Staff,Exempt,Academic Dept 2,63876.13,Office & Administrative,Professional Nonfaculty,USA,USA,Male,1992-04-24,,,Asian,Not indicated,2008-06-01
+12681703,REDACTED,22050,Staff,Non-Exempt,Academic Dept 2,32910.85,Professional Management,Executive/Admin/Managerial,CHN,USA,Male,1983-03-15,,,White,Not indicated,2023-05-08
+17287387,REDACTED,18360,Staff,Exempt,Academic Dept 1,52407.71,Research,Postdoctoral,USA,USA,Female,1971-07-24,Y,,White,Not indicated,2013-11-04
+33727486,REDACTED,22359,Staff,Non-Exempt,Academic Dept 6,33266.67,Office & Administrative,Professional Nonfaculty,USA,USA,Male,1952-07-26,,,White,Not indicated,2017-01-03
+17423332,REDACTED,19616,Faculty,Regular,Academic Dept 2,45237.3,Faculty,Faculty,USA,USA,Female,1969-04-21,,,White,Not indicated,2012-10-22
+75802748,REDACTED,10738,Staff,Non-Exempt,Academic Dept 4,33666.52,Professional Management,Executive/Admin/Managerial,USA,USA,Male,2000-09-06,,,White,Not indicated,2008-07-01
+82664652,REDACTED,18414,Staff,Non-Exempt,Academic Dept 2,33847.74,Research,Faculty,USA,USA,Female,1967-10-27,,,White,Not indicated,2014-09-22
+17544009,REDACTED,19794,Staff,Research,Academic Dept 4,55089.33,Office & Administrative,Secretarial/Clerical,NZL,USA,Female,1991-08-10,,,White,Not indicated,2006-12-11
+71016080,REDACTED,10076,Staff,Non-Exempt,Academic Dept 2,34131.09,Professional Management,Professional Nonfaculty,CHN,USA,Female,1955-03-31,,,White,Not indicated,2004-08-01
+17719404,REDACTED,21849,Staff,Exempt,Admin Dept 4,60057.89,Research,Professional Nonfaculty,CAN,USA,Male,1986-01-16,,,Asian,Not indicated,1999-01-18
+17764912,REDACTED,17492,Staff,Exempt,Admin Dept 3,28098.43,Research,No EEO-6 Reporting,UGA,USA,Male,1990-04-17,,,White,Not indicated,2001-11-01
+17884715,REDACTED,16243,Faculty,Regular,Academic Dept 3,88522.04,Faculty,Faculty,USA,USA,Female,1995-06-01,,,White,Not indicated,2018-12-01
+17925663,REDACTED,21485,Staff,Research,Academic Dept 4,37829.88,Research,Postdoctoral,USA,USA,Female,1992-12-11,,,Asian,Not indicated,2014-02-01
+18026320,REDACTED,20483,Faculty,Regular,Academic Dept 6,49428.9,Faculty,Faculty,JAM,USA,Female,1961-06-28,,,White,Not indicated,2022-09-01
+16419380,REDACTED,21458,Staff,Non-Exempt,Academic Dept 2,35058.54,Athletics,Professional Nonfaculty,USA,USA,Female,1987-02-10,,,Black/African American,Not indicated,2000-09-01
+29005430,REDACTED,10106,Staff,Non-Exempt,Academic Dept 5,35290.12,Professional Management,No EEO-6 Reporting,USA,USA,Male,1958-03-25,Y,,White,Not indicated,2008-07-07
+48535760,REDACTED,10021,Staff,Non-Exempt,Academic Dept 2,35346.6,Research,Professional Nonfaculty,USA,USA,Female,1962-06-13,Y,,White,Not indicated,1995-08-01
+18192490,REDACTED,12901,Staff,Research,Academic Dept 2,23605.4,Professional Management,No EEO-6 Reporting,USA,USA,Female,1987-03-21,,,Asian,Not indicated,2022-08-01
+95120963,REDACTED,21742,Staff,Non-Exempt,Academic Dept 2,35424.38,Facilities,Skilled Crafts,USA,USA,Male,1979-07-27,,,White,Not indicated,2011-09-01
+18405912,REDACTED,18256,Staff,Research,Academic Dept 4,48539.06,Research,Professional Nonfaculty,USA,USA,Female,1984-01-03,Y,,Asian,Not indicated,2023-01-16
+18469926,REDACTED,14921,Staff,Research,Academic Dept 2,39124.35,Information Technology,No EEO-6 Reporting,USA,USA,Male,1976-01-01,Y,,Asian,Not indicated,2022-10-01
+62378982,REDACTED,14995,Staff,Non-Exempt,Academic Dept 4,36416.51,Research,Faculty,USA,USA,Male,2001-09-18,,,White,Not indicated,2001-10-01
+34132461,REDACTED,21762,Staff,Non-Exempt,Academic Dept 2,36680.39,Facilities,Service Maintenance Workers,USA,USA,Male,1990-03-19,,,White,Not indicated,2015-08-01
+18758805,REDACTED,17464,Faculty,Regular,Academic Dept 2,71438.37,Faculty,Faculty,USA,USA,Female,1979-10-20,,,White,Not indicated,2016-09-07
+18758979,REDACTED,19382,Faculty,Regular,Academic Dept 2,72890.95,Faculty,Faculty,USA,USA,Female,1962-06-07,,,White,Not indicated,2014-10-20
+33860560,REDACTED,14650,Staff,Non-Exempt,Academic Dept 2,36945.85,Research,Faculty,USA,USA,Male,1966-06-18,,,White,Not indicated,2023-10-01
+19405041,REDACTED,10837,Faculty,Regular,Academic Dept 2,124614.24,Faculty,Faculty,USA,USA,Female,1976-01-09,,,White,Not indicated,2014-07-01
+19854743,REDACTED,14801,Faculty,Regular,Academic Dept 1,93044.3,Faculty,Faculty,CHN,USA,Male,2002-05-03,Y,,Asian,Not indicated,2023-03-01
+32022544,REDACTED,15149,Staff,Non-Exempt,Academic Dept 2,38193.5,Research,Postdoctoral,ISR,USA,Male,1980-11-21,,,Not Applicable,Not indicated,2006-09-01
+27550075,REDACTED,22129,Staff,Non-Exempt,Academic Dept 1,38202.3,Student Affairs & Services,Executive/Admin/Managerial,DEU,USA,Female,2000-06-18,Y,N,Hispanic/Latino,Not indicated,2011-05-01
+20035456,REDACTED,15704,Staff,Research,Academic Dept 2,58167.19,Research,Postdoctoral,USA,USA,Male,1979-12-31,Y,,White,Not indicated,2016-06-01
+20132921,REDACTED,14172,Faculty,Regular,Academic Dept 6,59741.93,Faculty,Faculty,USA,USA,Male,1978-11-07,,,Hispanic/Latino,Not indicated,2024-06-01
+20180853,REDACTED,14666,Faculty,Regular,Academic Dept 2,86945.48,Faculty,Faculty,USA,USA,Male,1984-09-04,,,White,Not indicated,2023-11-01
+87537824,REDACTED,21752,Staff,Non-Exempt,Academic Dept 2,38962.87,Research,Technical/Paraprofessional,NPL,USA,Female,1986-04-24,,,White,Not indicated,2014-09-01
+17292206,REDACTED,10156,Staff,Non-Exempt,Academic Dept 2,39464.92,Research,Postdoctoral,USA,USA,Male,1990-09-10,,,Asian,Not indicated,2017-07-01
+21701444,REDACTED,14106,Staff,Research,Academic Dept 2,49222.58,Professional Management,Professional Nonfaculty,USA,USA,Female,1962-01-07,,,White,Not indicated,2020-01-01
+59316760,REDACTED,17905,Staff,Non-Exempt,Academic Dept 1,39665.74,Research,No EEO-6 Reporting,USA,USA,Male,1977-04-01,,,Hispanic/Latino,Not indicated,2010-09-01
+85589510,REDACTED,11191,Staff,Non-Exempt,Academic Dept 6,39693.88,Office & Administrative,Professional Nonfaculty,USA,USA,Female,1979-11-24,,,Asian,Not indicated,2016-09-01
+92477662,REDACTED,10371,Staff,Non-Exempt,Academic Dept 1,39782.23,Research,Professional Nonfaculty,IRN,USA,Female,1982-08-22,,,Hispanic/Latino,Not indicated,2024-07-01
+22214914,REDACTED,13573,Faculty,Regular,Academic Dept 3,45862.95,Faculty,Faculty,ITA,USA,Female,1972-02-19,,,Asian,Not indicated,2008-01-15
+12318284,REDACTED,11100,Staff,Non-Exempt,Academic Dept 5,39965.47,Professional Management,Professional Nonfaculty,USA,USA,Male,1987-07-09,,,White,Not indicated,2000-11-01
+18003077,REDACTED,21268,Staff,Non-Exempt,Academic Dept 2,40106.9,Research,No EEO-6 Reporting,USA,USA,Male,1976-11-13,Y,,Asian,Not indicated,2007-09-01
+22925163,REDACTED,14684,Faculty,Regular,Academic Dept 2,76577.07,Faculty,Faculty,BGD,USA,Male,1963-05-31,,,White,Not indicated,2024-01-31
+23049456,REDACTED,13492,Staff,Exempt,Academic Dept 2,33686.57,Accounting & Finance,Secretarial/Clerical,IDN,USA,Male,1968-04-01,Y,N,Black/African American,Not indicated,2020-08-02
+23148901,REDACTED,17551,Staff,Exempt,Academic Dept 1,86758.57,Office & Administrative,Professional Nonfaculty,USA,USA,Female,1998-09-30,,,Not Applicable,Not indicated,2012-03-01
+94133024,REDACTED,22018,Staff,Non-Exempt,Academic Dept 2,40166.94,Research,No EEO-6 Reporting,USA,USA,Female,1964-11-08,,,White,Not indicated,2003-09-01
+23197665,REDACTED,21302,Staff,Exempt,Admin Dept 5,33932.11,Information Technology,Professional Nonfaculty,IND,USA,Male,1961-06-01,,,White,Not indicated,2007-09-04
+46857276,REDACTED,20514,Staff,Non-Exempt,Academic Dept 4,40192.61,Office & Administrative,Secretarial/Clerical,USA,USA,Female,1974-08-27,,,White,Not indicated,2018-08-01
+24043810,REDACTED,19349,Faculty,Regular,Academic Dept 2,39806.1,Faculty,Faculty,IND,USA,Female,1999-04-18,N,N,White,Not indicated,1999-05-01
+81296906,REDACTED,16689,Staff,Non-Exempt,Academic Dept 1,41138.9,Office & Administrative,Secretarial/Clerical,USA,USA,Male,1959-04-25,,,Asian,Not indicated,2021-11-01
+24444525,REDACTED,19026,Faculty,Regular,Academic Dept 1,58030.54,Faculty,Faculty,USA,USA,Male,1975-02-24,Y,N,White,Not indicated,1993-09-01
+24475819,REDACTED,21858,Faculty,Regular,Admin Dept 5,41123.88,Faculty,Faculty,DEU,USA,Male,1982-12-12,N,N,White,Not indicated,1992-01-16
+24714642,REDACTED,10183,Faculty,Regular,Academic Dept 6,35317.27,Faculty,Faculty,USA,USA,Male,1989-12-17,Y,,White,Not indicated,2020-08-01
+24734882,REDACTED,14894,Staff,Research,Academic Dept 5,57472.97,Professional Management,Professional Nonfaculty,USA,USA,Female,1997-08-01,Y,,White,Not indicated,2019-11-18
+24923725,REDACTED,13259,Staff,Research,Academic Dept 1,71888.59,Research,Postdoctoral,USA,USA,Male,1943-10-08,,,Asian,Not indicated,2022-12-01
+25046018,REDACTED,20934,Faculty,Regular,Academic Dept 2,64202.14,Faculty,Faculty,USA,USA,Male,1968-02-26,,,Not Applicable,Not indicated,2018-02-01
+25189479,REDACTED,15177,Faculty,Regular,Academic Dept 6,62022.83,Faculty,Faculty,USA,USA,Male,1968-03-09,,,White,Not indicated,2017-12-01
+58139222,REDACTED,17911,Staff,Non-Exempt,Academic Dept 4,41694.54,Accounting & Finance,Professional Nonfaculty,USA,USA,Male,1989-11-02,,,Hispanic/Latino,Not indicated,2005-12-19
+25784296,REDACTED,18845,Faculty,Regular,Academic Dept 5,31168.96,Faculty,Faculty,USA,USA,Female,1965-08-03,,,Asian,Not indicated,2018-01-01
+25976206,REDACTED,22080,Staff,Exempt,Academic Dept 5,37558.62,Facilities,Professional Nonfaculty,USA,USA,Female,1997-06-21,,,White,Not indicated,2012-10-31
+26124628,REDACTED,13926,Faculty,Regular,Academic Dept 5,29000.04,Faculty,Faculty,USA,USA,Female,1984-07-26,,,Asian,Not indicated,2024-02-26
+26262725,REDACTED,20928,Faculty,Regular,Admin Dept 5,69150.03,Faculty,Faculty,USA,USA,Male,1979-12-07,,,White,Not indicated,2005-03-02
+26606852,REDACTED,13996,Staff,Research,Academic Dept 1,50385.73,Research,Professional Nonfaculty,USA,USA,Female,1970-06-09,,,Asian,Not indicated,2022-11-17
+37687484,REDACTED,19814,Staff,Non-Exempt,Academic Dept 2,42540.23,Research,Professional Nonfaculty,USA,USA,Female,1985-09-13,,,Asian,Not indicated,1992-09-01
+26895440,REDACTED,13853,Staff,Research,Academic Dept 2,62524.17,Office & Administrative,Professional Nonfaculty,USA,USA,Female,1988-02-07,N,N,Asian,Not indicated,2023-01-01
+11487449,REDACTED,20533,Staff,Non-Exempt,Academic Dept 2,42565.31,Research,Technical/Paraprofessional,USA,USA,Male,1990-06-09,,,Hispanic/Latino,Not indicated,2018-09-10
+27020801,REDACTED,20807,Staff,Exempt,Academic Dept 4,47363.3,Professional Management,Executive/Admin/Managerial,KEN,USA,Male,1985-09-21,,,White,Not indicated,2016-03-24
+27039945,REDACTED,19633,Faculty,Regular,Academic Dept 2,43214.84,Faculty,Faculty,KOR,USA,Male,1978-06-18,,,White,Not indicated,2010-01-10
+27310089,REDACTED,14771,Staff,Research,Academic Dept 5,90634.35,Office & Administrative,Professional Nonfaculty,USA,USA,Female,1998-06-10,,,White,Not indicated,2010-06-21
+89406511,REDACTED,19853,Staff,Non-Exempt,Academic Dept 2,42818.08,Accounting & Finance,No EEO-6 Reporting,USA,USA,Male,1984-01-01,,,White,Not indicated,2013-09-01
+27388237,REDACTED,21674,Faculty,Regular,Academic Dept 1,49017.51,Faculty,Faculty,USA,USA,Male,1992-10-07,,,White,Not indicated,2007-08-13
+28062486,REDACTED,21134,Staff,Non-Exempt,Academic Dept 1,43053.27,Facilities,Executive/Admin/Managerial,USA,USA,Female,1993-01-14,,,White,Not indicated,2011-07-02
+27833738,REDACTED,19707,Faculty,Regular,Admin Dept 1,34340.35,Faculty,Faculty,USA,USA,Male,1994-05-18,,,Hispanic/Latino,Not indicated,2001-04-02
+28101271,REDACTED,20117,Staff,Exempt,Admin Dept 4,53136.73,"Develop, Alumni & Public Rel",No EEO-6 Reporting,USA,USA,Female,1996-08-09,Y,N,,Not indicated,2011-08-01
+96768252,REDACTED,19193,Staff,Non-Exempt,Academic Dept 2,43546.36,Research,Secretarial/Clerical,POL,USA,Male,1986-11-26,,,White,Not indicated,2019-07-15
+28535145,REDACTED,14143,Staff,Non-exempt,Academic Dept 1,88958.84,Office & Administrative,Professional Nonfaculty,USA,USA,Female,1980-06-28,,,White,Not indicated,2005-11-28
+28710091,REDACTED,21514,Staff,Exempt,Admin Dept 3,40860.53,Research,No EEO-6 Reporting,USA,USA,Male,1964-12-23,,,Asian,Not indicated,2011-08-08
+68339602,REDACTED,21367,Staff,Non-Exempt,Academic Dept 6,44032.86,Professional Management,Professional Nonfaculty,USA,USA,Male,1964-03-20,,,White,Not indicated,2007-07-16
+56982696,REDACTED,21073,Staff,Non-Exempt,Academic Dept 5,44036.84,Office & Administrative,Professional Nonfaculty,USA,USA,Male,1950-03-01,,,Black/African American,Not indicated,1994-08-01
+29158616,REDACTED,22336,Staff,Exempt,Admin Dept 5,50754.65,Research,Professional Nonfaculty,USA,USA,Female,1987-02-05,N,N,Asian,Not indicated,2011-09-26
+29279226,REDACTED,19573,Staff,Exempt,Admin Dept 4,63808.24,Professional Management,No EEO-6 Reporting,USA,USA,Female,1988-01-08,,,White,Not indicated,2003-12-01
+60973929,REDACTED,21788,Staff,Non-Exempt,Academic Dept 2,44190.08,Research,No EEO-6 Reporting,IND,IND,Male,1993-07-04,Y,,Asian,Not indicated,2014-09-01
+51707707,REDACTED,19768,Staff,Non-Exempt,Academic Dept 1,44257.4,Office & Administrative,Professional Nonfaculty,USA,USA,Female,1979-03-21,,,White,Not indicated,2017-09-01
+29901857,REDACTED,21604,Staff,Exempt,Admin Dept 2,39945.03,Research,Technical/Paraprofessional,USA,USA,Male,1970-03-23,,,White,Not indicated,1999-12-13
+30328021,REDACTED,16346,Staff,Research,Academic Dept 2,99125.32,Professional Management,Professional Nonfaculty,USA,USA,Female,1995-04-16,N,N,Asian,Not indicated,2023-09-01
+30717276,REDACTED,12752,Faculty,Regular,Academic Dept 6,45637.55,Faculty,Faculty,USA,USA,Male,1995-02-28,,,White,Not indicated,1981-09-01
+30824781,REDACTED,15773,Staff,Non-exempt,Academic Dept 2,82104.11,Research,Technical/Paraprofessional,USA,USA,Female,1963-12-16,,,Black/African American,Not indicated,1999-03-25
+20741515,REDACTED,20850,Staff,Non-Exempt,Academic Dept 2,44669.06,Office & Administrative,Secretarial/Clerical,USA,USA,Female,1973-01-28,,,Asian,Not indicated,2004-10-01
+31811668,REDACTED,21932,Staff,Exempt,Admin Dept 1,37437.69,Research,No EEO-6 Reporting,USA,USA,Male,1986-07-21,,,White,Not indicated,2010-10-04
+68437130,REDACTED,20367,Staff,Non-Exempt,Academic Dept 2,45020.8,Research,Professional Nonfaculty,USA,USA,Male,1990-02-18,Y,,Asian,Not indicated,2009-06-01
+65558947,REDACTED,21006,Staff,Non-Exempt,Academic Dept 3,45060.11,Professional Management,No EEO-6 Reporting,CHN,USA,Female,1979-10-12,,,Hispanic/Latino,Not indicated,2008-07-01
+95581419,REDACTED,21637,Staff,Non-Exempt,Admin Dept 6,45094.09,Research,Faculty,IND,IND,Female,1975-03-08,,,White,Not indicated,2002-04-01
+43542729,REDACTED,21745,Staff,Non-Exempt,Academic Dept 4,45148.0,Office & Administrative,Secretarial/Clerical,USA,USA,Female,1990-07-26,,,White,Not indicated,1995-09-01
+32326264,REDACTED,15610,Staff,Non-exempt,Admin Dept 5,44588.14,Office & Administrative,Professional Nonfaculty,USA,USA,Female,1968-11-02,,,Black/African American,Not indicated,1995-07-10
+32848737,REDACTED,19149,Faculty,Regular,Admin Dept 5,64199.65,Faculty,Faculty,USA,USA,Female,1979-09-17,,,White,Not indicated,2001-06-04
+32869962,REDACTED,15674,Staff,Research,Academic Dept 2,50144.8,Research,Technical/Paraprofessional,USA,USA,Male,1987-04-06,,,Asian,Not indicated,2024-01-15
+33098198,REDACTED,21377,Staff,Research,Academic Dept 5,85715.54,Professional Management,No EEO-6 Reporting,USA,USA,Female,1988-08-11,,,White,Not indicated,2010-07-06
+63054944,REDACTED,15667,Staff,Non-Exempt,Academic Dept 2,45707.06,Research,Postdoctoral,CHN,USA,Female,1983-05-01,,,Asian,Not indicated,2009-06-10
+76352258,REDACTED,10335,Staff,Non-Exempt,Academic Dept 3,45811.29,Office & Administrative,Professional Nonfaculty,ITA,USA,Female,1953-06-22,,,White,Not indicated,2018-07-01
+76750119,REDACTED,18596,Staff,Non-Exempt,Academic Dept 2,45903.82,Professional Management,No EEO-6 Reporting,USA,USA,Female,1998-04-10,,,Black/African American,Not indicated,2017-09-01
+60931170,REDACTED,10263,Staff,Non-Exempt,Academic Dept 1,45994.56,Research,Professional Nonfaculty,USA,USA,Male,1996-05-28,Y,,American Indian/Alaska Native,Not indicated,2012-08-13
+34234543,REDACTED,15131,Staff,Exempt,Academic Dept 2,87215.39,Accounting & Finance,Professional Nonfaculty,USA,USA,Female,1987-09-19,,,Asian,Not indicated,2004-10-04
+34499827,REDACTED,13528,Staff,Research,Academic Dept 1,108386.15,Research,Technical/Paraprofessional,IND,USA,Female,1972-08-16,,,Asian,Not indicated,2018-09-01
+68831330,REDACTED,22145,Staff,Non-Exempt,Academic Dept 2,46971.35,Professional Management,Professional Nonfaculty,USA,USA,Male,1984-07-06,,,Asian,Not indicated,2011-07-01
+89055344,REDACTED,10454,Staff,Non-Exempt,Academic Dept 2,47030.23,Information Technology,No EEO-6 Reporting,USA,USA,Female,1994-02-17,,,White,Not indicated,2006-09-01
+35231284,REDACTED,17280,Staff,Exempt,Admin Dept 2,60027.03,Information Technology,Secretarial/Clerical,USA,USA,Male,1978-08-25,,,White,Not indicated,2004-11-29
+93822244,REDACTED,10654,Staff,Non-Exempt,Academic Dept 2,47290.86,Research,Professional Nonfaculty,USA,USA,Male,1993-08-04,,,White,Not indicated,1997-12-10
+66478249,REDACTED,20809,Staff,Non-Exempt,Admin Dept 5,47341.37,Research,Faculty,USA,USA,Male,1963-09-26,Y,,White,Not indicated,1988-01-11
+96443679,REDACTED,19447,Staff,Non-Exempt,Academic Dept 6,47411.55,Office & Administrative,Secretarial/Clerical,HRV,USA,Female,1979-06-20,,,White,Not indicated,2012-01-01
+13303393,REDACTED,21338,Staff,Non-Exempt,Academic Dept 2,47674.18,Research,Postdoctoral,USA,USA,Male,1978-11-17,,,Asian,Not indicated,2015-02-01
+96214381,REDACTED,20250,Staff,Non-Exempt,Academic Dept 2,47827.54,Professional Management,Professional Nonfaculty,USA,USA,Male,1999-07-20,,,White,Not indicated,2021-07-01
+37021896,REDACTED,16564,Staff,Exempt,Academic Dept 1,16305.48,Facilities,Skilled Crafts,SGP,SGP,Female,1984-10-05,,,Asian,Not indicated,2013-08-12
+93014198,REDACTED,10008,Staff,Non-Exempt,Academic Dept 2,48466.01,Research,Professional Nonfaculty,USA,USA,Female,1969-12-16,,,White,Not indicated,1996-08-01
+92321321,REDACTED,19583,Staff,Non-Exempt,Academic Dept 2,48668.83,Research,Postdoctoral,USA,USA,Female,1983-04-16,,,White,Not indicated,2000-09-01
+37828918,REDACTED,19141,Faculty,Regular,Academic Dept 4,75985.69,Faculty,Faculty,USA,USA,Female,1990-06-05,,,Asian,Not indicated,1991-02-11
+38001606,REDACTED,15251,Faculty,Regular,Academic Dept 2,45351.45,Faculty,Faculty,USA,USA,Female,1957-08-03,,,Asian,Not indicated,2003-12-12
+38068964,REDACTED,16465,Staff,Exempt,Admin Dept 1,50985.5,Healthcare,No EEO-6 Reporting,USA,USA,Female,1985-03-25,Y,,Black/African American,Not indicated,2000-04-03
+69021736,REDACTED,17654,Staff,Non-Exempt,Academic Dept 2,49204.66,Research,Postdoctoral,USA,USA,Female,1994-08-22,,,Asian,Not indicated,2014-09-01
+19239712,REDACTED,17186,Staff,Non-Exempt,Academic Dept 2,49257.65,Office & Administrative,No EEO-6 Reporting,USA,USA,Male,1982-09-15,,,American Indian/Alaska Native,Not indicated,2023-09-01
+38553805,REDACTED,14914,Staff,Research,Academic Dept 2,84152.23,Information Technology,Professional Nonfaculty,USA,USA,Male,1982-01-05,,,Hispanic/Latino,Not indicated,2022-04-01
+39013121,REDACTED,10027,Faculty,Regular,Academic Dept 2,96325.75,Faculty,Faculty,IND,USA,Male,1987-05-04,,,Asian,Not indicated,1995-07-01
+39034881,REDACTED,21508,Staff,Exempt,Academic Dept 5,49364.63,Library,Professional Nonfaculty,BRA,BRA,Female,1994-01-21,,,Asian,Not indicated,2014-08-18
+39064048,REDACTED,15933,Staff,Research,Academic Dept 2,64967.38,Research,Postdoctoral,USA,USA,Female,1983-01-18,,,Asian,Not indicated,2009-09-08
+28976143,REDACTED,20580,Staff,Non-Exempt,Academic Dept 2,50010.16,Research,Faculty,USA,USA,Female,1981-04-25,,,White,Not indicated,2009-11-23
+39609286,REDACTED,16358,Staff,Research,Academic Dept 4,49495.53,Professional Management,No EEO-6 Reporting,USA,USA,Male,1985-09-23,,,Asian,Not indicated,2021-07-01
+15637969,REDACTED,18087,Staff,Non-Exempt,Academic Dept 2,50337.09,Office & Administrative,Professional Nonfaculty,USA,USA,Female,1980-10-02,,,White,Not indicated,2005-09-01
+39761791,REDACTED,22237,Faculty,Regular,Academic Dept 2,35238.49,Faculty,Faculty,USA,USA,Male,1995-08-11,,,Asian,Not indicated,1996-01-13
+92855455,REDACTED,18520,Staff,Non-Exempt,Academic Dept 5,50628.23,Research,Postdoctoral,YUG,USA,Female,1986-11-12,,,White,Not indicated,2021-01-01
+64174754,REDACTED,17878,Staff,Non-Exempt,Academic Dept 5,50718.2,Research,Postdoctoral,IND,USA,Undeclared,1991-03-10,,,Not Applicable,Not indicated,2023-09-01
+40659335,REDACTED,21882,Faculty,Regular,Academic Dept 1,48004.47,Faculty,Faculty,IND,USA,Male,1961-03-03,,,White,Not indicated,2020-01-01
+40767897,REDACTED,22027,Faculty,Regular,Admin Dept 5,32220.4,Faculty,Faculty,USA,USA,Male,1987-11-12,,,White,Not indicated,1998-08-17
+40874168,REDACTED,18012,Staff,Research,Academic Dept 3,70395.33,Facilities,Skilled Crafts,USA,USA,Male,1987-12-10,,,Asian,Not indicated,2021-10-01
+41118575,REDACTED,18981,Staff,Exempt,Admin Dept 3,47006.09,Research,No EEO-6 Reporting,USA,USA,Male,1987-05-11,,,Asian,Not indicated,2012-03-26
+41146989,REDACTED,17039,Faculty,Regular,Academic Dept 2,79744.74,Faculty,Faculty,JPN,JPN,Male,1982-09-29,,,Asian,Not indicated,2018-12-01
+93493836,REDACTED,20703,Staff,Non-Exempt,Academic Dept 2,51297.01,Research,No EEO-6 Reporting,USA,USA,Male,1986-02-03,,,Asian,Not indicated,2000-07-17
+41799855,REDACTED,19120,Faculty,Regular,Academic Dept 2,52568.12,Faculty,Faculty,USA,USA,Male,1986-06-14,,,Black/African American,Not indicated,2017-09-11
+42148266,REDACTED,14813,Staff,Research,Academic Dept 2,49094.96,Professional Management,Executive/Admin/Managerial,USA,USA,Male,1997-02-07,,,Asian,Not indicated,2023-06-01
+42927946,REDACTED,13675,Faculty,Regular,Admin Dept 5,48937.08,Faculty,Faculty,USA,USA,Male,1986-10-05,Y,N,Hispanic/Latino,Not indicated,2009-10-12
+43140925,REDACTED,12492,Staff,Research,Academic Dept 6,113617.51,Professional Management,No EEO-6 Reporting,USA,USA,Male,1985-01-20,Y,,Asian,Not indicated,2022-03-01
+43483099,REDACTED,13918,Staff,Research,Academic Dept 2,86823.1,Professional Management,No EEO-6 Reporting,USA,USA,Male,1963-09-12,,,White,Not indicated,2023-11-13
+87939380,REDACTED,19394,Staff,Non-Exempt,Academic Dept 5,52182.83,Professional Management,Professional Nonfaculty,USA,USA,Male,1988-12-13,,,White,Not indicated,1971-09-01
+44451468,REDACTED,13963,Staff,Non-exempt,Academic Dept 1,52023.51,Office & Administrative,Professional Nonfaculty,USA,USA,Female,1960-08-31,,,Native Hawaiian/Oth Pac Island,Not indicated,2000-05-22
+42962770,REDACTED,11675,Staff,Non-Exempt,Academic Dept 6,52859.5,Healthcare,Professional Nonfaculty,USA,USA,Female,1976-10-04,,,White,Not indicated,2009-07-01
+44470088,REDACTED,20482,Faculty,Regular,Academic Dept 2,38101.46,Faculty,Faculty,USA,USA,Female,1994-02-02,,,Black/African American,Not indicated,2018-03-01
+44909671,REDACTED,21906,Faculty,Regular,Academic Dept 2,48478.15,Faculty,Faculty,USA,USA,Female,1994-08-24,Y,,White,Not indicated,1978-09-01
+29168081,REDACTED,18923,Staff,Exempt,Academic Dept 2,52988.96,Research,Postdoctoral,USA,USA,Male,1989-02-09,,,Asian,Not indicated,2023-11-01
+44927909,REDACTED,19849,Staff,Research,Academic Dept 6,76231.47,Facilities,Service Maintenance Workers,USA,USA,Female,1991-10-09,,,White,Not indicated,2015-10-01
+45160053,REDACTED,17995,Staff,Research,Academic Dept 2,60239.22,Professional Management,Professional Nonfaculty,USA,USA,Male,1960-11-07,,,Hispanic/Latino,Not indicated,2021-11-01
+11523608,REDACTED,16352,Staff,Exempt,Academic Dept 2,53139.17,Research,Faculty,USA,USA,Male,1987-06-11,,,White,Not indicated,2010-06-30
+45341451,REDACTED,21411,Staff,Exempt,Academic Dept 2,34571.81,Information Technology,No EEO-6 Reporting,AUT,CAN,Male,1971-10-18,,,White,Not indicated,2012-03-12
+45860577,REDACTED,13515,Staff,Research,Academic Dept 2,74710.85,Professional Management,No EEO-6 Reporting,USA,USA,Male,1987-11-05,,,Asian,Not indicated,2023-09-01
+45934189,REDACTED,17653,Faculty,Regular,Academic Dept 1,58962.79,Faculty,Faculty,USA,USA,Male,2002-01-06,,,Asian,Not indicated,2005-02-01
+46656435,REDACTED,17501,Staff,Exempt,Academic Dept 6,85111.15,Faculty,Executive/Admin/Managerial,USA,USA,Female,1967-02-09,,,Black/African American,Not indicated,2001-02-19
+92677735,REDACTED,19494,Staff,Exempt,Academic Dept 1,54260.41,Office & Administrative,Professional Nonfaculty,USA,USA,Male,1994-11-14,,,Asian,Not indicated,2001-06-04
+47173749,REDACTED,14688,Faculty,Regular,Academic Dept 1,58712.17,Faculty,Faculty,USA,USA,Male,1969-07-09,,,White,Not indicated,2024-05-01
+47483284,REDACTED,20402,Faculty,Regular,Academic Dept 3,71255.48,Faculty,Faculty,USA,USA,Male,1994-06-22,,,White,Not indicated,2012-09-04
+47570416,REDACTED,21005,Faculty,Regular,Academic Dept 3,40197.92,Faculty,Faculty,USA,USA,Female,1995-03-27,,,Hispanic/Latino,Not indicated,2006-09-01
+47584162,REDACTED,16048,Faculty,Regular,Admin Dept 1,35811.99,Faculty,Faculty,USA,USA,Male,1967-09-19,,,White,Not indicated,2014-09-08
+47853734,REDACTED,19229,Faculty,Research,Academic Dept 1,44831.98,Faculty,Faculty,USA,USA,Male,1944-11-22,,,White,Not indicated,1996-07-02
+47909903,REDACTED,21226,Faculty,Regular,Academic Dept 6,67551.83,Faculty,Faculty,USA,USA,Female,1984-06-06,,,Asian,Not indicated,2012-06-01
+75641552,REDACTED,20053,Staff,Exempt,Academic Dept 1,54517.53,Accounting & Finance,Professional Nonfaculty,USA,USA,Male,1996-03-21,,,White,Not indicated,1999-06-01
+48063439,REDACTED,20377,Faculty,Regular,Admin Dept 2,59607.34,Faculty,Faculty,USA,USA,Male,1957-07-22,,,White,Not indicated,2011-06-01
+48467198,REDACTED,16707,Staff,Exempt,Academic Dept 2,55706.21,Research,Postdoctoral,USA,USA,Female,1992-05-22,,,White,Not indicated,2014-02-24
+35674749,REDACTED,21046,Staff,Exempt,Academic Dept 2,54695.77,Facilities,Skilled Crafts,NPL,USA,Male,1986-03-10,,,White,Not indicated,2007-08-01
+61780616,REDACTED,20540,Staff,Exempt,Academic Dept 2,55181.56,Research,Professional Nonfaculty,USA,USA,Male,1975-12-09,Y,,Asian,Not indicated,2018-09-01
+49391588,REDACTED,20477,Staff,Research,Academic Dept 2,79775.4,Information Technology,Professional Nonfaculty,USA,USA,Female,1972-12-14,Y,,White,Not indicated,2010-03-01
+49601951,REDACTED,15331,Staff,Non-exempt Union,Admin Dept 5,91456.52,Information Technology,No EEO-6 Reporting,USA,USA,Male,1986-11-13,,,Black/African American,Not indicated,2001-04-08
+50371696,REDACTED,15023,Staff,Research,Academic Dept 1,30625.0,Accounting & Finance,No EEO-6 Reporting,USA,USA,Female,1982-10-05,Y,,White,Not indicated,2017-09-01
+50434933,REDACTED,14691,Faculty,Regular,Academic Dept 5,72899.96,Faculty,Faculty,USA,USA,Male,1992-07-14,,,Asian,Not indicated,2024-06-01
+91331632,REDACTED,20109,Staff,Exempt,Academic Dept 1,55960.71,Fine Arts & Entertainment,Professional Nonfaculty,USA,USA,Female,1966-09-02,,,Asian,Not indicated,2021-03-01
+50896272,REDACTED,19220,Faculty,Regular,Admin Dept 3,48866.62,Faculty,Faculty,USA,USA,Male,1975-12-21,Y,N,White,Not indicated,2017-06-12
+51718502,REDACTED,14414,Staff,Research,Academic Dept 5,43907.76,Professional Management,No EEO-6 Reporting,USA,USA,Male,1977-12-12,,,Asian,Not indicated,2019-09-01
+51789471,REDACTED,15731,Faculty,Regular,Academic Dept 4,99952.63,Faculty,Faculty,USA,USA,Male,1997-04-29,,,White,Not indicated,2023-02-01
+78638904,REDACTED,14507,Staff,Exempt,Academic Dept 2,56587.22,Office & Administrative,Secretarial/Clerical,USA,USA,Male,1970-03-14,,,White,Not indicated,1994-09-01
+23786808,REDACTED,13022,Staff,Exempt,Academic Dept 6,56719.78,Research,Professional Nonfaculty,USA,USA,Male,1968-08-21,,,White,Not indicated,2014-12-11
+52029790,REDACTED,15230,Staff,Research,Academic Dept 1,28364.13,Information Technology,Professional Nonfaculty,USA,USA,Male,1988-11-30,,,Asian,Not indicated,2020-04-21
+52122365,REDACTED,14723,Staff,Research,Academic Dept 1,68384.9,Research,Postdoctoral,USA,USA,Male,1983-08-21,Y,,Asian,Not indicated,2024-07-01
+14575266,REDACTED,10141,Staff,Exempt,Academic Dept 2,56886.28,Professional Management,No EEO-6 Reporting,JPN,USA,Male,1962-12-01,,,White,Not indicated,2015-05-01
+52163070,REDACTED,15247,Staff,Non-exempt,Admin Dept 1,41911.95,Student Affairs & Services,No EEO-6 Reporting,USA,USA,Male,1987-09-15,N,N,Black/African American,Not indicated,1999-09-27
+52289106,REDACTED,19851,Staff,Research,Academic Dept 2,43784.92,Research,Postdoctoral,USA,USA,Male,1973-03-03,Y,,Hispanic/Latino,Not indicated,2002-05-01
+39412590,REDACTED,20924,Staff,Exempt,Academic Dept 2,57566.83,Research,Technical/Paraprofessional,USA,USA,Female,1991-01-22,,,Asian,Not indicated,2004-09-20
+52780522,REDACTED,13737,Staff,Research,Academic Dept 2,56643.43,Facilities,No EEO-6 Reporting,USA,USA,Male,1996-12-09,,,Asian,Not indicated,2023-05-08
+50241577,REDACTED,20565,Staff,Exempt,Academic Dept 2,57585.32,Research,No EEO-6 Reporting,USA,USA,Male,1982-08-03,,,Not Applicable,Not indicated,2023-07-01
+65790218,REDACTED,22570,Staff,Exempt,Academic Dept 4,57693.59,Office & Administrative,Executive/Admin/Managerial,USA,USA,Female,1995-09-12,,,White,Not indicated,2008-11-15
+28836586,REDACTED,22126,Staff,Exempt,Academic Dept 6,57770.68,Research,No EEO-6 Reporting,USA,USA,Male,1959-06-06,,,White,Not indicated,2000-05-25
+21752742,REDACTED,10328,Staff,Exempt,Academic Dept 3,57920.75,Facilities,Skilled Crafts,IND,IND,Female,1979-09-28,,,Asian,Not indicated,2024-07-01
+53385373,REDACTED,15526,Staff,Research,Academic Dept 6,92507.42,Office & Administrative,Executive/Admin/Managerial,USA,USA,Female,1957-11-13,,,Hispanic/Latino,Not indicated,2024-07-01
+18638876,REDACTED,11790,Staff,Exempt,Academic Dept 1,58014.19,Research,Technical/Paraprofessional,USA,USA,Female,1990-06-04,,,White,Not indicated,2010-01-19
+53720895,REDACTED,14918,Staff,Research,Academic Dept 2,94080.12,Information Technology,Professional Nonfaculty,USA,USA,Male,1971-07-07,,,Asian,Not indicated,2022-07-28
+53771077,REDACTED,20970,Staff,Research,Academic Dept 2,51729.03,Research,Postdoctoral,USA,USA,Female,1981-04-14,N,N,Black/African American,Not indicated,2004-10-01
+54213701,REDACTED,10276,Faculty,Regular,Academic Dept 2,125801.39,Faculty,Faculty,CAN,USA,Male,1964-02-08,,,Hispanic/Latino,Not indicated,2008-06-23
+54274826,REDACTED,10309,Faculty,Regular,Academic Dept 2,56331.62,Faculty,Faculty,USA,USA,Male,1988-11-14,,,Asian,Not indicated,2018-09-01
+41168907,REDACTED,21074,Staff,Exempt,Academic Dept 2,58742.34,Information Technology,Professional Nonfaculty,USA,USA,Female,1982-02-08,,,White,Not indicated,2006-06-01
+54862513,REDACTED,19765,Staff,Exempt,Admin Dept 2,89237.78,Research,Postdoctoral,USA,USA,Female,1989-11-28,,,Black/African American,Not indicated,1990-08-27
+54958554,REDACTED,20812,Faculty,Regular,Academic Dept 2,46787.42,Faculty,Faculty,USA,USA,Female,1998-03-31,,,Black/African American,Not indicated,2010-07-12
+55487746,REDACTED,15188,Staff,Research,Academic Dept 1,60160.88,Office & Administrative,Professional Nonfaculty,KOR,USA,Male,1981-04-27,N,N,Hispanic/Latino,Not indicated,2024-05-20
+55552450,REDACTED,17563,Staff,Exempt,Academic Dept 6,38656.7,Research,Technical/Paraprofessional,USA,USA,Male,1996-12-18,,,Asian,Not indicated,2003-09-01
+94184509,REDACTED,21004,Staff,Exempt,Academic Dept 3,59162.87,Student Affairs & Services,Professional Nonfaculty,USA,USA,Male,1999-06-28,Y,,White,Not indicated,2002-09-01
+46978506,REDACTED,10676,Staff,Exempt,Academic Dept 1,59198.61,Research,Professional Nonfaculty,USA,USA,Female,1951-03-02,Y,,White,Not indicated,2008-08-03
+56259138,REDACTED,20133,Staff,Non-exempt Union,Admin Dept 5,39354.46,Office & Administrative,Professional Nonfaculty,USA,USA,Male,1989-11-09,,,Asian,Not indicated,1996-08-12
+99377074,REDACTED,10545,Staff,Exempt,Academic Dept 4,59531.11,Professional Management,No EEO-6 Reporting,USA,USA,Male,1981-05-20,Y,,White,Not indicated,2015-07-01
+56630451,REDACTED,21272,Faculty,Regular,Admin Dept 5,44672.98,Faculty,Faculty,USA,USA,Female,1997-11-23,,,Black/African American,Not indicated,2012-04-30
+96720310,REDACTED,22349,Staff,Exempt,Academic Dept 2,59697.99,Professional Management,No EEO-6 Reporting,USA,USA,Female,1994-04-07,,,White,Not indicated,2008-09-01
+57762134,REDACTED,15644,Staff,Exempt,Academic Dept 2,56009.51,Facilities,Skilled Crafts,JPN,USA,Female,1984-01-27,,,Hispanic/Latino,Not indicated,1999-10-04
+58059500,REDACTED,15250,Faculty,Regular,Academic Dept 2,57097.77,Faculty,Faculty,USA,USA,Female,1993-07-16,,,Hispanic/Latino,Not indicated,2013-04-02
+77701478,REDACTED,21426,Staff,Exempt,Academic Dept 2,60488.04,Research,Postdoctoral,USA,USA,Male,1975-05-23,,,White,Not indicated,2003-07-15
+97058711,REDACTED,18693,Staff,Exempt,Academic Dept 2,60729.65,Police & Safety,Executive/Admin/Managerial,USA,USA,Female,1990-11-01,,,White,Not indicated,2014-10-10
+58568517,REDACTED,16514,Staff,Research,Academic Dept 5,70838.13,Professional Management,No EEO-6 Reporting,USA,USA,Male,1995-02-05,,,Hispanic/Latino,Not indicated,2022-09-01
+58801193,REDACTED,19640,Staff,Exempt,Admin Dept 5,58045.11,Research,No EEO-6 Reporting,USA,USA,Female,1991-06-26,Y,N,Hispanic/Latino,Not indicated,2013-05-01
+94813647,REDACTED,20685,Staff,Exempt,Academic Dept 1,61212.34,Information Technology,Secretarial/Clerical,USA,USA,Female,1996-09-09,,,Asian,Not indicated,2016-04-01
+59978644,REDACTED,14660,Faculty,Regular,Academic Dept 1,70091.99,Faculty,Faculty,USA,USA,Female,1971-01-07,,,White,Not indicated,2023-12-01
+76216160,REDACTED,22553,Staff,Exempt,Academic Dept 4,61748.09,Information Technology,Professional Nonfaculty,CHN,CHN,Female,1956-12-22,,,Hispanic/Latino,Not indicated,2011-09-01
+32366671,REDACTED,19300,Staff,Exempt,Academic Dept 2,61865.12,Facilities,Skilled Crafts,USA,USA,Male,1969-02-21,,,Not Applicable,Not indicated,2002-09-01
+60505865,REDACTED,13995,Staff,Research,Academic Dept 2,74844.37,Office & Administrative,Secretarial/Clerical,USA,USA,Female,1961-05-02,,,Asian,Not indicated,2022-11-01
+60536905,REDACTED,18921,Faculty,Research,Academic Dept 1,61570.7,Faculty,Faculty,USA,USA,Male,1997-07-25,,,Asian,Not indicated,2019-12-01
+61133493,REDACTED,15728,Staff,Research,Academic Dept 2,72160.28,Research,Postdoctoral,CHN,CHN,Female,1991-05-16,,,Asian,Not indicated,2020-10-19
+61352546,REDACTED,22457,Faculty,Regular,Academic Dept 2,58442.67,Faculty,Faculty,USA,USA,Male,1999-04-12,,,American Indian/Alaska Native,Not indicated,1994-09-01
+61766084,REDACTED,16198,Staff,Research,Academic Dept 2,64733.93,Research,Professional Nonfaculty,ESP,ESP,Male,1977-08-01,,,White,Not indicated,2023-02-01
 41157222,REDACTED,21429,Staff,Exempt,Academic Dept 2,62727.12,Human Resources,Professional Nonfaculty,USA,USA,Female,1999-02-24,,,White,Not indicated,2015-04-01
+62921367,REDACTED,18345,Staff,Exempt,Academic Dept 2,62820.12,Student Affairs & Services,No EEO-6 Reporting,FRA,FRA,Female,1981-04-05,,,Hispanic/Latino,Not indicated,2011-01-01
+17074721,REDACTED,13718,Staff,Exempt,Academic Dept 1,62879.28,Research,Faculty,CHN,USA,Female,1998-02-06,,,Hispanic/Latino,Not indicated,2021-09-15
+62414087,REDACTED,16086,Staff,Non-exempt,Academic Dept 2,82866.24,Office & Administrative,Secretarial/Clerical,TUR,TUR,Female,1992-09-03,,,Hispanic/Latino,Not indicated,1997-08-01
+62428090,REDACTED,18212,Staff,Exempt,Academic Dept 3,51174.51,Research,Postdoctoral,USA,USA,Female,1972-09-19,N,N,White,Not indicated,2019-10-21
+62432209,REDACTED,16779,Faculty,Regular,Admin Dept 3,94514.64,Faculty,Faculty,USA,USA,Male,1942-12-24,Y,,Asian,Not indicated,2000-06-01
+62540224,REDACTED,14542,Faculty,Regular,Academic Dept 1,42918.98,Faculty,Faculty,VNM,VNM,Female,1988-11-03,,,Black/African American,Not indicated,1991-09-09
+56337353,REDACTED,21309,Staff,Exempt,Academic Dept 1,63124.64,Research,Faculty,IND,USA,Female,1989-04-16,,,Asian,Not indicated,2015-06-22
+95911122,REDACTED,20582,Staff,Exempt,Academic Dept 2,63344.38,Research,Professional Nonfaculty,USA,USA,Female,1969-01-06,,,White,Not indicated,1999-03-01
+19222729,REDACTED,14141,Staff,Exempt,Academic Dept 2,63378.34,Research,Professional Nonfaculty,IND,USA,Male,1976-06-10,,,White,Not indicated,2021-05-03
+62831099,REDACTED,16624,Staff,Exempt,Academic Dept 2,78771.1,Professional Management,No EEO-6 Reporting,THA,USA,Male,1956-06-01,,,White,Not indicated,2011-05-04
+62923008,REDACTED,19348,Faculty,Regular,Academic Dept 2,64730.96,Faculty,Faculty,USA,USA,Female,1978-01-28,,,Hispanic/Latino,Not indicated,2009-01-05
+63150828,REDACTED,20868,Staff,Exempt,Academic Dept 6,66780.91,Information Technology,No EEO-6 Reporting,CHN,USA,Male,1974-10-21,N,N,American Indian/Alaska Native,Not indicated,2013-08-26
+63156608,REDACTED,12559,Staff,Research,Academic Dept 2,41874.91,Accounting & Finance,Secretarial/Clerical,KOR,USA,Male,1976-05-09,,,Asian,Not indicated,2022-08-01
+63247589,REDACTED,22210,Faculty,Regular,Academic Dept 3,24054.33,Faculty,Faculty,USA,USA,Male,1959-10-15,,,White,Not indicated,1996-01-01
+63428904,REDACTED,18885,Staff,Exempt,Academic Dept 1,38969.87,Professional Management,Professional Nonfaculty,USA,USA,Female,1960-07-02,,,White,Not indicated,2013-02-07
+63642216,REDACTED,14994,Staff,Research,Academic Dept 1,44366.85,Research,No EEO-6 Reporting,USA,USA,Female,1984-05-20,,,White,Not indicated,2024-04-01
+63653159,REDACTED,20290,Staff,Exempt,Admin Dept 5,67385.06,Research,No EEO-6 Reporting,ITA,ITA,Male,1967-05-09,,,White,Not indicated,2011-02-14
+64054085,REDACTED,14281,Faculty,Regular,Academic Dept 2,100759.63,Faculty,Faculty,USA,USA,Female,1994-06-10,Y,,White,Not indicated,2020-03-01
+64584239,REDACTED,19779,Staff,Exempt,Academic Dept 4,66095.01,Research,Postdoctoral,USA,USA,Female,1989-08-01,Y,,Black/African American,Not indicated,1996-04-08
+64705669,REDACTED,14272,Staff,Non-exempt,Academic Dept 2,66643.36,Student Affairs & Services,Professional Nonfaculty,IND,USA,Female,1984-08-22,,,White,Not indicated,1997-12-08
+64911821,REDACTED,18538,Faculty,Regular,Academic Dept 2,74274.84,Faculty,Faculty,USA,USA,Female,1949-03-06,,,White,Not indicated,2018-05-01
+64953083,REDACTED,16718,Staff,Research,Academic Dept 2,77674.84,Research,No EEO-6 Reporting,USA,USA,Female,1969-09-20,Y,,Black/African American,Not indicated,2004-09-20
+65320417,REDACTED,13082,Faculty,Research,Academic Dept 2,63372.09,Faculty,Faculty,USA,USA,Female,1976-01-06,,,White,Not indicated,1998-09-01
+10755362,REDACTED,21917,Staff,Exempt,Academic Dept 2,65166.66,Research,Professional Nonfaculty,USA,USA,Female,2000-02-06,,,White,Not indicated,2010-07-01
+65711299,REDACTED,16436,Faculty,Regular,Academic Dept 1,75145.95,Faculty,Faculty,USA,USA,Male,1982-09-29,,,Asian,Not indicated,2018-09-24
+66776333,REDACTED,17146,Staff,Research,Academic Dept 6,81163.23,Information Technology,Professional Nonfaculty,USA,USA,Male,1964-08-02,,,Asian,Not indicated,1999-03-01
+26047750,REDACTED,10375,Staff,Exempt,Academic Dept 2,66047.53,Professional Management,No EEO-6 Reporting,USA,USA,Female,1990-06-07,,,White,Not indicated,1996-07-01
+34305431,REDACTED,20484,Staff,Exempt,Academic Dept 5,66132.21,Research,Postdoctoral,KOR,KOR,Female,1982-11-03,,,White,Not indicated,2022-10-17
+67331978,REDACTED,17833,Staff,Exempt,Academic Dept 2,40819.02,Office & Administrative,Secretarial/Clerical,USA,USA,Female,1972-11-22,,,White,Not indicated,2014-06-16
+67485162,REDACTED,21720,Faculty,Regular,Academic Dept 2,12549.92,Faculty,Faculty,USA,USA,Male,1981-01-02,,,White,Not indicated,1983-03-07
+37514478,REDACTED,21149,Staff,Exempt,Academic Dept 2,66280.29,Information Technology,Professional Nonfaculty,USA,USA,Male,1983-06-02,,,Asian,Not indicated,2023-07-01
+26281046,REDACTED,11034,Staff,Exempt,Academic Dept 2,66535.13,Information Technology,No EEO-6 Reporting,USA,USA,Female,1958-06-22,,,Asian,Not indicated,2024-07-01
+38160922,REDACTED,21153,Staff,Exempt,Academic Dept 1,66759.38,Information Technology,Professional Nonfaculty,USA,USA,Male,1997-04-01,,,Asian,Not indicated,2013-01-02
+67996058,REDACTED,13993,Staff,Research,Academic Dept 4,61259.15,Facilities,Skilled Crafts,USA,USA,Male,1985-11-02,,,White,Not indicated,2022-10-01
+53862651,REDACTED,16700,Staff,Exempt,Academic Dept 2,67064.56,Research,Postdoctoral,JPN,USA,Female,1976-02-19,,,Asian,Not indicated,2010-04-26
+69053305,REDACTED,21522,Faculty,Regular,Academic Dept 2,41857.06,Faculty,Faculty,USA,USA,Male,1998-12-14,,,White,Not indicated,2019-09-01
+69153417,REDACTED,16859,Staff,Non-exempt,Academic Dept 1,74130.5,Office & Administrative,No EEO-6 Reporting,USA,USA,Female,1969-03-31,,,Asian,Not indicated,2012-01-03
+69567371,REDACTED,14195,Staff,Research,Academic Dept 5,80977.46,Office & Administrative,Executive/Admin/Managerial,USA,USA,Female,1983-06-05,,,Asian,Not indicated,2022-06-01
+69785748,REDACTED,17204,Staff,Exempt,Academic Dept 2,50962.55,Office & Administrative,Secretarial/Clerical,USA,USA,Male,1993-10-06,,,White,Not indicated,2017-02-01
+69792589,REDACTED,17047,Staff,Research,Academic Dept 6,75563.25,Research,Professional Nonfaculty,CHN,USA,Male,1953-06-27,,,Asian,Not indicated,2021-06-01
+69845556,REDACTED,14957,Staff,Exempt,Academic Dept 2,45087.27,Healthcare,Technical/Paraprofessional,USA,USA,Female,1998-07-08,Y,N,White,Not indicated,2017-12-19
+69857519,REDACTED,14738,Faculty,Regular,Admin Dept 1,78670.94,Faculty,Faculty,USA,USA,Male,1979-06-11,N,N,White,Not indicated,1989-03-06
+69866267,REDACTED,17480,Staff,Exempt,Admin Dept 6,75149.28,Research,No EEO-6 Reporting,USA,USA,Female,1958-07-24,Y,,Hispanic/Latino,Not indicated,2008-07-14
 31136337,REDACTED,20466,Staff,Exempt,Academic Dept 2,68832.32,Human Resources,Executive/Admin/Managerial,USA,USA,Male,1976-07-05,Y,,Hispanic/Latino,Not indicated,2007-09-01
+70353867,REDACTED,14781,Staff,Research,Academic Dept 2,71685.87,Accounting & Finance,Secretarial/Clerical,CHN,CHN,Female,1976-04-25,,,Asian,Not indicated,2022-10-01
+70453213,REDACTED,21724,Faculty,Regular,Admin Dept 2,51870.0,Faculty,Faculty,USA,USA,Male,1976-05-18,Y,,White,Not indicated,2004-03-01
+90151213,REDACTED,17333,Staff,Exempt,Academic Dept 2,69445.93,Professional Management,No EEO-6 Reporting,USA,USA,Female,1980-06-22,,,White,Not indicated,2023-06-01
+81347836,REDACTED,14518,Staff,Exempt,Academic Dept 2,69951.51,Information Technology,Professional Nonfaculty,USA,USA,Female,1982-05-26,,,White,Not indicated,2017-09-01
+71641210,REDACTED,22510,Staff,Exempt,Academic Dept 1,70128.85,Office & Administrative,No EEO-6 Reporting,PHL,USA,Female,1965-07-08,Y,,White,Not indicated,2005-06-01
+66058299,REDACTED,18894,Staff,Exempt,Academic Dept 1,70318.13,Research,Professional Nonfaculty,USA,USA,Female,1970-03-01,,,White,Not indicated,2020-07-01
+71526062,REDACTED,19989,Faculty,Regular,Academic Dept 2,58982.81,Faculty,Faculty,USA,USA,Female,1963-01-20,Y,,Hispanic/Latino,Not indicated,2013-09-01
+71706562,REDACTED,20140,Faculty,Regular,Admin Dept 2,54010.48,Faculty,Faculty,USA,USA,Male,1962-10-03,,,White,Not indicated,2005-03-07
+71763961,REDACTED,19268,Staff,Exempt,Academic Dept 4,59294.58,Facilities,Executive/Admin/Managerial,USA,USA,Male,1971-02-28,,,Hispanic/Latino,Not indicated,2010-12-28
+71847576,REDACTED,16082,Staff,Research,Academic Dept 5,56039.31,Office & Administrative,Secretarial/Clerical,USA,USA,Male,1990-01-18,Y,,White,Not indicated,2022-01-01
+71880652,REDACTED,17133,Staff,Research,Academic Dept 2,38365.03,Facilities,Skilled Crafts,USA,USA,Male,1963-04-09,,,Asian,Not indicated,2007-01-01
+72327725,REDACTED,17060,Faculty,Regular,Academic Dept 4,98465.9,Faculty,Faculty,USA,USA,Male,1990-04-18,,,Asian,Not indicated,2023-02-01
+72402509,REDACTED,22079,Staff,Exempt,Academic Dept 6,36671.33,Facilities,Skilled Crafts,POL,USA,Female,1994-01-28,Y,,White,Not indicated,2006-08-07
+72425773,REDACTED,21993,Staff,Exempt,Admin Dept 5,34875.6,Professional Management,No EEO-6 Reporting,USA,USA,Male,1969-03-25,,,Asian,Not indicated,1996-03-25
+72642466,REDACTED,22076,Faculty,Regular,Academic Dept 4,41487.26,Faculty,Faculty,USA,USA,Female,1985-12-05,Y,N,White,Not indicated,2007-11-19
+72952002,REDACTED,19612,Staff,Exempt,Academic Dept 6,36979.24,Office & Administrative,Executive/Admin/Managerial,USA,USA,Female,1977-07-14,,,Asian,Not indicated,2006-02-19
+73032744,REDACTED,19335,Staff,Exempt,Academic Dept 4,27381.61,Research,Professional Nonfaculty,USA,USA,Female,1988-07-06,,,Asian,Not indicated,2015-01-06
+73109323,REDACTED,16549,Staff,Research,Academic Dept 2,90474.9,Research,Postdoctoral,USA,USA,Male,1995-07-15,,,Asian,Not indicated,2018-11-01
+73663437,REDACTED,14687,Faculty,Regular,Academic Dept 4,93127.65,Faculty,Faculty,USA,USA,Female,1971-06-07,,,Asian,Not indicated,2024-06-03
+73883655,REDACTED,15138,Staff,Research,Academic Dept 2,103996.08,Information Technology,No EEO-6 Reporting,USA,USA,Male,1976-07-04,,,White,Not indicated,2018-10-01
+73890168,REDACTED,19684,Staff,Exempt,Academic Dept 4,47555.43,Office & Administrative,Executive/Admin/Managerial,USA,USA,Female,1996-04-26,Y,,White,Not indicated,2014-10-20
+85624254,REDACTED,16741,Staff,Exempt,Academic Dept 2,71938.37,Office & Administrative,Professional Nonfaculty,USA,USA,Male,1963-08-23,Y,N,Black/African American,Not indicated,2022-09-01
+74032244,REDACTED,21805,Faculty,Regular,Academic Dept 2,69820.13,Faculty,Faculty,USA,USA,Female,1969-12-27,,,White,Not indicated,2004-06-16
+74072352,REDACTED,12891,Staff,Research,Academic Dept 5,54725.19,Office & Administrative,No EEO-6 Reporting,USA,USA,Male,1975-06-09,Y,,Asian,Not indicated,2021-08-30
+74610667,REDACTED,14779,Staff,Research,Academic Dept 2,98136.0,Professional Management,Professional Nonfaculty,USA,USA,Male,1976-11-07,,,Asian,Not indicated,2022-10-01
+70751005,REDACTED,19935,Staff,Exempt,Academic Dept 2,72705.0,Office & Administrative,Professional Nonfaculty,USA,USA,Male,1982-06-16,,,White,Not indicated,2014-12-30
+74669037,REDACTED,13861,Staff,Research,Academic Dept 2,52644.78,Office & Administrative,Professional Nonfaculty,USA,USA,Female,1986-08-28,,,Asian,Not indicated,2022-11-10
+32175276,REDACTED,10381,Staff,Exempt,Academic Dept 1,72752.01,Research,No EEO-6 Reporting,USA,USA,Female,1980-06-22,,,White,Not indicated,2002-11-01
+27672683,REDACTED,20452,Staff,Exempt,Academic Dept 2,72783.08,Office & Administrative,Secretarial/Clerical,USA,USA,Female,1994-03-08,,,White,Not indicated,2016-06-01
+10637956,REDACTED,16179,Staff,Exempt,Academic Dept 2,72821.45,Research,No EEO-6 Reporting,USA,USA,Female,1974-08-06,Y,,White,Not indicated,2003-09-01
+74898350,REDACTED,19224,Staff,Exempt,Academic Dept 4,29899.66,Accounting & Finance,Professional Nonfaculty,USA,USA,Male,1965-10-22,,,White,Not indicated,2007-12-10
+75292595,REDACTED,16907,Faculty,Regular,Academic Dept 1,83658.55,Faculty,Faculty,USA,USA,Male,2002-03-03,,,Asian,Not indicated,2022-09-08
+75502722,REDACTED,18364,Staff,Exempt,Admin Dept 3,38594.79,Library,Secretarial/Clerical,USA,USA,Female,1969-11-30,,,Not Applicable,Not indicated,2008-03-13
+68141370,REDACTED,17818,Staff,Exempt,Academic Dept 6,73589.22,Research,Professional Nonfaculty,IND,IND,Male,1997-09-17,,,Asian,Not indicated,2004-08-24
+54730943,REDACTED,10234,Staff,Exempt,Academic Dept 2,73715.51,Facilities,Skilled Crafts,IND,IND,Female,1977-05-03,Y,,Asian,Not indicated,2024-02-01
+76208969,REDACTED,17585,Staff,Research,Academic Dept 4,65786.67,Research,Professional Nonfaculty,USA,USA,Female,1991-04-09,,,White,Not indicated,2024-07-01
+76280418,REDACTED,15724,Staff,Research,Academic Dept 2,50789.54,Office & Administrative,Secretarial/Clerical,CHN,USA,Male,1988-07-25,Y,,White,Not indicated,2019-07-01
+76338116,REDACTED,13982,Faculty,Regular,Academic Dept 2,91702.91,Faculty,Faculty,USA,USA,Female,1995-06-27,,,Hispanic/Latino,Not indicated,1999-08-16
 90941372,REDACTED,21384,Staff,Exempt,Academic Dept 1,74242.41,Human Resources,No EEO-6 Reporting,USA,USA,Female,1994-08-20,,,White,Not indicated,2008-06-15
+21941418,REDACTED,21548,Staff,Exempt,Academic Dept 2,74251.68,Research,Postdoctoral,CHN,USA,Male,1981-08-12,Y,,White,Not indicated,1992-09-01
+47257103,REDACTED,18782,Staff,Exempt,Academic Dept 4,74340.75,Research,Technical/Paraprofessional,USA,USA,Male,1987-01-17,,,Hispanic/Latino,Not indicated,2004-04-01
+76629135,REDACTED,13314,Faculty,Regular,Academic Dept 1,57035.01,Faculty,Faculty,USA,USA,Male,1994-12-07,,,Asian,Not indicated,2021-04-05
+76744970,REDACTED,21554,Faculty,Regular,Academic Dept 1,48561.26,Faculty,Faculty,USA,USA,Male,1990-05-25,,,Asian,Not indicated,2016-08-29
+32215126,REDACTED,19482,Staff,Exempt,Academic Dept 2,74632.96,Research,Postdoctoral,USA,USA,Female,1976-06-05,Y,,Hispanic/Latino,Not indicated,1999-09-12
+60797151,REDACTED,19682,Staff,Exempt,Academic Dept 2,74757.93,Professional Management,No EEO-6 Reporting,USA,USA,Female,1995-09-19,,,White,Not indicated,2022-08-01
+77014569,REDACTED,14877,Staff,Exempt,Academic Dept 2,94531.54,Office & Administrative,Secretarial/Clerical,USA,USA,Female,1972-12-30,Y,N,Black/African American,Not indicated,1987-11-02
+77038717,REDACTED,14634,Staff,Research,Academic Dept 6,62836.88,Information Technology,Professional Nonfaculty,USA,USA,Male,1999-10-14,,,Asian,Not indicated,2023-03-01
+94379004,REDACTED,10011,Staff,Exempt,Academic Dept 5,74780.19,Student Affairs & Services,Executive/Admin/Managerial,TUN,USA,Male,1989-05-27,,,White,Not indicated,1996-07-22
+77236398,REDACTED,15850,Faculty,Regular,Academic Dept 2,16076.64,Faculty,Faculty,USA,USA,Female,1955-10-26,,,Black/African American,Not indicated,2003-05-14
+78050959,REDACTED,20927,Staff,Non-exempt Union,Admin Dept 2,63235.85,Research,Postdoctoral,JPN,USA,Male,1997-01-31,,,White,Not indicated,1987-08-25
+88889542,REDACTED,21049,Staff,Exempt,Academic Dept 2,76124.07,Information Technology,Professional Nonfaculty,USA,USA,Male,1980-10-13,,,White,Not indicated,2019-03-22
+67985136,REDACTED,10148,Staff,Exempt,Academic Dept 2,76265.86,"Develop, Alumni & Public Rel",Professional Nonfaculty,USA,USA,Male,1984-07-30,,,White,Not indicated,2016-07-01
+74833631,REDACTED,10650,Staff,Exempt,Academic Dept 2,76401.56,Research,Postdoctoral,USA,USA,Male,1984-01-27,,,White,Not indicated,2001-08-01
+48230038,REDACTED,20706,Staff,Exempt,Academic Dept 2,76525.45,Office & Administrative,No EEO-6 Reporting,USA,USA,Male,1999-09-02,,,White,Not indicated,1988-09-01
+79629181,REDACTED,15345,Staff,Research,Academic Dept 1,107786.73,Research,Technical/Paraprofessional,PAK,USA,Female,1997-04-10,,,Asian,Not indicated,2021-06-01
+40316561,REDACTED,13711,Staff,Exempt,Academic Dept 2,77023.19,Research,Faculty,USA,USA,Female,1993-07-12,,,White,Not indicated,2009-08-31
+79786893,REDACTED,19473,Staff,Exempt,Admin Dept 5,64925.21,Professional Management,Professional Nonfaculty,USA,USA,Female,1982-10-08,,,Black/African American,Not indicated,1988-11-15
+80041955,REDACTED,15738,Staff,Research,Academic Dept 2,75541.97,Professional Management,No EEO-6 Reporting,CAN,USA,Male,1962-12-13,,,Asian,Not indicated,2020-03-23
+52260131,REDACTED,20859,Staff,Exempt,Academic Dept 6,77215.22,Research,Professional Nonfaculty,USA,USA,Male,1992-06-24,,,White,Not indicated,2006-09-01
+80161152,REDACTED,14968,Staff,Research,Academic Dept 6,104372.88,Research,No EEO-6 Reporting,USA,USA,Male,1979-12-22,,,Asian,Not indicated,2024-06-02
+97179005,REDACTED,10231,Staff,Exempt,Academic Dept 4,77386.94,Professional Management,No EEO-6 Reporting,USA,USA,Female,1979-10-23,,,Hispanic/Latino,Not indicated,2023-09-01
+80610840,REDACTED,21243,Faculty,Regular,Academic Dept 2,47769.55,Faculty,Faculty,USA,USA,Male,1990-05-23,,,White,Not indicated,2004-10-25
+80678778,REDACTED,22169,Faculty,Regular,Academic Dept 2,70438.71,Faculty,Faculty,USA,USA,Female,1992-11-03,,,White,Not indicated,2003-09-01
+91114583,REDACTED,11395,Staff,Exempt,Academic Dept 4,77942.99,Office & Administrative,Postdoctoral,USA,USA,Female,1992-01-05,,,White,Not indicated,2009-11-01
+80829456,REDACTED,19873,Staff,Exempt,Academic Dept 2,61848.6,Research,No EEO-6 Reporting,KOR,KOR,Female,1967-06-08,Y,,Asian,Not indicated,2011-07-18
+81129024,REDACTED,15566,Staff,Exempt,Academic Dept 5,59992.91,Professional Management,No EEO-6 Reporting,FRA,FRA,Female,1955-07-04,,,Black/African American,Not indicated,2011-09-26
+81412604,REDACTED,20000,Faculty,Regular,Admin Dept 5,61759.52,Faculty,Faculty,USA,USA,Female,1980-05-13,,,Black/African American,Not indicated,2000-06-05
+81542581,REDACTED,19566,Staff,Non-exempt,Admin Dept 5,72406.16,Facilities,Service Maintenance Workers,CHN,USA,Male,1978-06-04,,,White,Not indicated,1990-01-22
+57136678,REDACTED,16094,Staff,Exempt,Academic Dept 2,79289.11,Information Technology,Professional Nonfaculty,CAN,USA,Male,1973-08-09,Y,,Asian,Not indicated,2020-10-01
 81964479,REDACTED,15145,Staff,Non-exempt,Academic Dept 4,99754.96,Human Resources,Executive/Admin/Managerial,USA,USA,Female,1981-08-08,,,Asian,Not indicated,2012-05-15
+82447953,REDACTED,14728,Staff,Research,Academic Dept 2,97264.44,Office & Administrative,Professional Nonfaculty,USA,USA,Male,1972-11-07,,,Asian,Not indicated,2024-07-01
+82883080,REDACTED,13980,Faculty,Regular,Admin Dept 3,50568.34,Faculty,Faculty,USA,USA,Female,2002-09-17,,,White,Not indicated,2014-11-10
+82993952,REDACTED,21956,Staff,Exempt,Admin Dept 5,71395.22,Research,Technical/Paraprofessional,USA,USA,Male,1996-08-03,,,White,Not indicated,1995-09-09
+83008268,REDACTED,17981,Staff,Exempt,Admin Dept 4,46773.35,Research,Postdoctoral,USA,USA,Female,1960-10-12,,,White,Not indicated,2008-08-25
+83206717,REDACTED,13852,Staff,Research,Academic Dept 2,78865.2,Office & Administrative,Secretarial/Clerical,USA,USA,Female,1999-08-27,,,Asian,Not indicated,2023-09-01
+83641812,REDACTED,20621,Faculty,Regular,Academic Dept 1,48927.38,Faculty,Faculty,CHN,USA,Male,1978-05-22,,,Asian,Not indicated,2008-12-08
+42611963,REDACTED,13407,Staff,Exempt,Academic Dept 1,82426.16,Research,Faculty,USA,USA,Female,1968-06-29,Y,,Asian,Not indicated,2024-01-02
+83828008,REDACTED,18030,Staff,Exempt,Academic Dept 2,63111.49,Information Technology,Technical/Paraprofessional,USA,USA,Female,1989-04-03,,,Asian,Not indicated,2014-02-17
+84217388,REDACTED,22293,Faculty,Regular,Academic Dept 4,47431.84,Faculty,Faculty,USA,USA,Male,1990-01-21,,,White,Not indicated,2011-02-01
+84353711,REDACTED,15701,Faculty,Regular,Academic Dept 4,76195.24,Faculty,Faculty,USA,USA,Male,1968-03-14,,,Hispanic/Latino,Not indicated,2019-05-01
+84752529,REDACTED,15529,Staff,Research,Academic Dept 2,84728.37,Accounting & Finance,Secretarial/Clerical,USA,USA,Female,1976-03-26,,,American Indian/Alaska Native,Not indicated,2016-09-01
+17265685,REDACTED,18602,Staff,Exempt,Academic Dept 2,84287.56,Research,Faculty,USA,USA,Male,1969-08-31,,,Asian,Not indicated,2013-09-01
+85214259,REDACTED,15507,Staff,Research,Academic Dept 6,56746.32,Research,Postdoctoral,USA,USA,Male,1982-08-29,N,N,Asian,Not indicated,2019-09-01
+62556825,REDACTED,10026,Staff,Exempt,Academic Dept 1,84917.94,Facilities,Skilled Crafts,USA,USA,Male,1972-09-19,Y,,White,Not indicated,1987-07-01
+16775520,REDACTED,20083,Staff,Exempt,Academic Dept 6,85780.72,Office & Administrative,Secretarial/Clerical,USA,USA,Male,1980-12-28,N,N,Asian,Not indicated,2021-07-01
+85948991,REDACTED,14584,Staff,Exempt,Admin Dept 3,68511.08,Office & Administrative,No EEO-6 Reporting,USA,USA,Female,1988-04-04,Y,N,Asian,Not indicated,2017-04-17
+51417253,REDACTED,17449,Staff,Exempt,Academic Dept 2,87413.99,Information Technology,Professional Nonfaculty,USA,USA,Male,1999-12-15,,,White,Not indicated,2020-10-01
+86761338,REDACTED,19125,Faculty,Regular,Admin Dept 2,51891.11,Faculty,Faculty,USA,USA,Female,1947-03-17,Y,N,White,Not indicated,2007-05-21
+87154989,REDACTED,19908,Staff,Exempt,Academic Dept 6,41358.42,Information Technology,No EEO-6 Reporting,USA,USA,Male,1970-12-31,Y,N,White,Not indicated,2009-01-01
+87405601,REDACTED,13935,Faculty,Regular,Academic Dept 4,55039.81,Faculty,Faculty,USA,USA,Male,1991-05-22,,,Asian,Not indicated,2015-08-01
+58507595,REDACTED,10062,Staff,Exempt,Academic Dept 5,89243.48,Research,No EEO-6 Reporting,USA,USA,Female,1965-03-04,,,Asian,Not indicated,2000-06-20
+87808302,REDACTED,15736,Faculty,Regular,Academic Dept 2,41852.04,Faculty,Faculty,USA,USA,Female,1990-04-05,,,White,Not indicated,2019-12-01
 82757799,REDACTED,10946,Staff,Exempt,Academic Dept 2,90334.05,Human Resources,Professional Nonfaculty,USA,USA,Male,1975-12-14,,,Asian,Not indicated,2023-12-01
+88145799,REDACTED,18481,Faculty,Regular,Admin Dept 1,86673.33,Faculty,Faculty,CHN,USA,Female,1984-08-21,,,White,Not indicated,2010-07-11
+88192856,REDACTED,18945,Faculty,Regular,Admin Dept 5,42024.81,Faculty,Faculty,USA,USA,Male,1954-02-07,,,White,Not indicated,1996-04-08
+88464862,REDACTED,14672,Staff,Research,Academic Dept 2,61967.45,Research,No EEO-6 Reporting,USA,USA,Female,1966-01-27,,,White,Not indicated,2024-07-08
+88698637,REDACTED,18922,Staff,Research,Academic Dept 2,88947.48,Research,Professional Nonfaculty,USA,USA,Female,1968-01-03,,,Asian,Not indicated,2022-04-01
+89042302,REDACTED,10874,Faculty,Regular,Academic Dept 2,76122.62,Faculty,Faculty,IND,USA,Male,1965-05-05,,,White,Not indicated,2003-07-01
+89464199,REDACTED,17213,Staff,Exempt,Academic Dept 6,95994.24,Office & Administrative,Professional Nonfaculty,USA,USA,Male,1995-11-18,,,White,Not indicated,2009-01-05
+90863815,REDACTED,15158,Staff,Exempt,Academic Dept 2,92459.88,Research,Postdoctoral,IND,IND,Male,1964-07-20,Y,,White,Not indicated,2023-09-01
+17082047,REDACTED,16702,Staff,Exempt,Academic Dept 6,92683.7,Professional Management,Executive/Admin/Managerial,TUR,TUR,Male,2000-11-17,,,Asian,Not indicated,2013-07-01
+29755797,REDACTED,17724,Staff,Exempt,Academic Dept 2,94300.3,Office & Administrative,Professional Nonfaculty,USA,USA,Male,1990-08-01,,,White,Not indicated,2009-09-01
+90390307,REDACTED,18685,Faculty,Regular,Academic Dept 2,76420.89,Faculty,Faculty,USA,USA,Male,1985-07-30,,,Black/African American,Not indicated,2004-09-01
+90674908,REDACTED,19402,Faculty,Research,Academic Dept 2,25767.75,Faculty,Faculty,IND,USA,Male,1996-11-21,,,Asian,Not indicated,2011-06-06
+90805360,REDACTED,13942,Staff,Research,Academic Dept 4,49784.22,Research,No EEO-6 Reporting,CHN,USA,Female,1996-01-10,,,Asian,Not indicated,2024-03-15
+66067907,REDACTED,11307,Staff,Exempt,Academic Dept 2,95594.39,Information Technology,Professional Nonfaculty,CAN,USA,Female,1972-11-19,,,White,Not indicated,2015-08-01
+91071307,REDACTED,14623,Staff,Research,Academic Dept 1,63977.83,Office & Administrative,Secretarial/Clerical,TUR,USA,Male,1975-10-15,Y,,Asian,Not indicated,2022-06-20
+92234633,REDACTED,13565,Faculty,Regular,Academic Dept 2,100249.23,Faculty,Faculty,USA,USA,Female,1984-05-20,,,White,Not indicated,2011-11-21
+92245270,REDACTED,16577,Staff,Research,Academic Dept 2,40947.44,Research,Professional Nonfaculty,USA,USA,Female,1991-01-18,,,White,Not indicated,2022-07-01
+92398009,REDACTED,20526,Faculty,Regular,Academic Dept 2,43398.2,Faculty,Faculty,USA,USA,Female,1979-11-17,,,White,Not indicated,2006-09-25
+35480023,REDACTED,10109,Staff,Exempt,Academic Dept 1,101632.41,Information Technology,Professional Nonfaculty,USA,USA,Male,1991-11-20,,,White,Not indicated,2008-07-01
+93471837,REDACTED,18663,Faculty,Regular,Admin Dept 3,63853.74,Faculty,Faculty,USA,USA,Male,1978-10-17,,,Black/African American,Not indicated,2000-12-04
+93755163,REDACTED,18998,Staff,Exempt,Admin Dept 3,53038.38,Library,Secretarial/Clerical,USA,USA,Male,1991-09-30,,,White,Not indicated,2004-02-23
+93882463,REDACTED,19505,Faculty,Regular,Academic Dept 2,62652.12,Faculty,Faculty,USA,USA,Male,1985-12-20,,,White,Not indicated,2012-08-13
+14331819,REDACTED,10119,Staff,Exempt,Academic Dept 2,102580.51,Student Affairs & Services,Executive/Admin/Managerial,USA,USA,Male,1988-04-11,,,Asian,Not indicated,2010-07-12
+94112654,REDACTED,13781,Staff,Exempt,Admin Dept 5,54251.76,Information Technology,Professional Nonfaculty,USA,USA,Male,1942-09-01,Y,N,White,Not indicated,2022-01-06
+23968373,REDACTED,10732,Staff,Exempt,Academic Dept 2,106637.73,Healthcare,No EEO-6 Reporting,USA,USA,Female,1985-06-22,N,N,White,Not indicated,2009-08-01
+95549279,REDACTED,10114,Staff,Exempt,Academic Dept 2,107056.97,Information Technology,No EEO-6 Reporting,USA,USA,Female,1983-03-05,Y,,White,Not indicated,2009-09-14
+95387226,REDACTED,16691,Staff,Exempt,Academic Dept 2,55313.03,Accounting & Finance,Professional Nonfaculty,CHN,USA,Female,1990-10-25,,,Asian,Not indicated,2008-08-01
+30979623,REDACTED,10147,Staff,Exempt,Academic Dept 2,108840.1,Research,No EEO-6 Reporting,USA,USA,Female,1992-12-16,,,Black/African American,Not indicated,2015-10-19
+95769465,REDACTED,13847,Staff,Research,Academic Dept 2,93624.92,Research,Technical/Paraprofessional,USA,USA,Female,1978-03-20,,,Asian,Not indicated,2024-03-15
+96553945,REDACTED,10246,Staff,Exempt,Academic Dept 1,111270.52,Athletics,Professional Nonfaculty,IND,USA,Male,1992-02-07,N,N,Asian,Not indicated,2015-08-01
+95975342,REDACTED,14963,Staff,Research,Academic Dept 2,29126.49,Office & Administrative,Secretarial/Clerical,USA,USA,Female,1983-05-25,,,Asian,Not indicated,2021-07-19
+56362871,REDACTED,10090,Staff,Exempt,Academic Dept 5,111516.31,Office & Administrative,Secretarial/Clerical,USA,USA,Male,1979-10-21,Y,,Black/African American,Not indicated,2006-09-01
+96284040,REDACTED,22361,Faculty,Regular,Academic Dept 2,30203.22,Faculty,Faculty,USA,USA,Female,1984-09-02,,,Asian,Not indicated,2013-09-01
+96287323,REDACTED,21895,Staff,Exempt,Academic Dept 5,41492.7,Student Affairs & Services,Professional Nonfaculty,MEX,USA,Female,1969-09-25,,,White,Not indicated,2005-11-01
+96303162,REDACTED,14110,Staff,Research,Academic Dept 2,75504.32,Professional Management,No EEO-6 Reporting,USA,USA,Male,1987-04-04,,,Asian,Not indicated,2023-09-01
+21942953,REDACTED,10364,Staff,Exempt,Academic Dept 2,117286.85,Student Affairs & Services,Executive/Admin/Managerial,USA,USA,Female,1982-06-15,,,White,Not indicated,2024-07-01
+84187219,REDACTED,11209,Staff,Exempt,Academic Dept 2,120994.13,Office & Administrative,Professional Nonfaculty,USA,USA,Female,1992-12-08,Y,N,White,Not indicated,2014-07-01
+97378740,REDACTED,22352,Staff,Research,Academic Dept 6,74673.01,Research,Postdoctoral,NPL,NPL,Female,1966-09-20,N,N,White,Not indicated,2012-10-02
+80342879,REDACTED,10144,Staff,Exempt,Academic Dept 2,123726.32,Student Affairs & Services,Executive/Admin/Managerial,CHN,CHN,Female,1977-06-04,,,Asian,Not indicated,2015-09-01
+97989576,REDACTED,22264,Staff,Exempt,Academic Dept 2,46801.95,Research,No EEO-6 Reporting,IND,USA,Female,1993-01-14,,,White,Not indicated,2009-08-24
+64284063,REDACTED,10033,Staff,Exempt,Academic Dept 2,126014.29,Research,Faculty,USA,USA,Male,1964-04-13,,,Asian,Not indicated,1997-05-01
+98790104,REDACTED,18405,Staff,Exempt,Admin Dept 1,63639.72,Facilities,Service Maintenance Workers,IND,IND,Male,1982-10-24,,,Black/African American,Not indicated,2004-03-15
+30157277,REDACTED,10138,Staff,Exempt,Academic Dept 2,133619.33,Research,Executive/Admin/Managerial,TUR,USA,Female,1953-10-21,,,Asian,Not indicated,2015-02-01
+99449743,REDACTED,19652,Faculty,Regular,Academic Dept 5,64553.51,Faculty,Faculty,USA,USA,Female,1964-10-19,,,White,Not indicated,2010-11-08
+99580765,REDACTED,10087,Faculty,Regular,Academic Dept 5,85243.91,Faculty,Faculty,USA,USA,Male,1991-07-04,Y,,Asian,Not indicated,2005-09-01
+32969851,REDACTED,10285,Staff,Exempt,Academic Dept 6,141629.14,Accounting & Finance,Secretarial/Clerical,USA,USA,Female,1963-05-28,,,Asian,Not indicated,2022-08-01
