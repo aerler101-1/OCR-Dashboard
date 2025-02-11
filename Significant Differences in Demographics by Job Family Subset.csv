@@ -1,0 +1,68 @@
+Job Family,Demographic,Category,Employee Percentage (%),Applicant Percentage (%),Difference (%),Employee Count,Applicant Count
+Accounting & Finance,Disabled,Y,42.86,28.7,14.16,6,66
+Accounting & Finance,Disabled,N,57.14,71.3,-14.16,8,164
+Accounting & Finance,Mil Status,Not a Protected Veteran,10.0,1.49,8.51,3,6
+Accounting & Finance,Sex,Female,66.67,54.34,12.32,20,219
+Accounting & Finance,Sex,Male,30.0,44.91,-14.91,9,181
+Athletics,Disabled,Y,50.0,29.49,20.51,3,23
+Athletics,Disabled,N,50.0,70.51,-20.51,3,55
+Athletics,Mil Status,Not a Veteran,62.5,51.54,10.96,5,67
+Athletics,Mil Status,Not indicated,37.5,45.38,-7.88,3,59
+Athletics,Race/Ethnicity,Black/African American,37.5,9.23,28.27,3,12
+Athletics,Race/Ethnicity,White,25.0,53.85,-28.85,2,70
+Athletics,Sex,Male,50.0,40.77,9.23,4,53
+Athletics,Sex,Female,50.0,58.46,-8.46,4,76
+"Develop, Alumni & Public Rel",Disabled,N,80.0,70.75,9.25,8,75
+"Develop, Alumni & Public Rel",Disabled,Y,20.0,29.25,-9.25,2,31
+"Develop, Alumni & Public Rel",Mil Status,Not a Veteran,76.92,51.89,25.03,10,96
+"Develop, Alumni & Public Rel",Mil Status,Not indicated,23.08,45.41,-22.33,3,84
+"Develop, Alumni & Public Rel",Race/Ethnicity,Asian,33.33,21.98,11.36,4,40
+"Develop, Alumni & Public Rel",Race/Ethnicity,Black/African American,0.0,9.89,-9.89,0,18
+Facilities,Mil Status,Not indicated,58.33,45.47,12.86,21,251
+Facilities,Mil Status,Not a Veteran,38.89,51.81,-12.92,14,286
+Facilities,Sex,Male,50.0,42.03,7.97,18,232
+Fine Arts & Entertainment,Disabled,Y,50.0,21.88,28.12,1,7
+Fine Arts & Entertainment,Disabled,N,50.0,78.12,-28.12,1,25
+Fine Arts & Entertainment,Mil Status,Not a Veteran,66.67,53.57,13.1,2,30
+Fine Arts & Entertainment,Race/Ethnicity,Asian,66.67,32.14,34.52,2,18
+Fine Arts & Entertainment,Race/Ethnicity,Hispanic/Latino,0.0,8.93,-8.93,0,5
+Fine Arts & Entertainment,Race/Ethnicity,Black/African American,0.0,12.5,-12.5,0,7
+Fine Arts & Entertainment,Race/Ethnicity,White,33.33,46.43,-13.1,1,26
+Fine Arts & Entertainment,Sex,Female,100.0,58.93,41.07,3,33
+Fine Arts & Entertainment,Sex,Male,0.0,41.07,-41.07,0,23
+Healthcare,Mil Status,Not a Veteran,60.0,51.91,8.09,6,68
+Healthcare,Race/Ethnicity,White,60.0,45.04,14.96,6,59
+Healthcare,Race/Ethnicity,American Indian/Alaska Native,10.0,2.29,7.71,1,3
+Healthcare,Race/Ethnicity,Asian,10.0,27.48,-17.48,1,36
+Human Resources,Disab Vet,N,0.0,100.0,-100.0,0,39
+Human Resources,Disabled,Y,100.0,33.33,66.67,1,16
+Human Resources,Disabled,N,0.0,66.67,-66.67,0,32
+Human Resources,Mil Status,Not indicated,100.0,53.66,46.34,5,44
+Human Resources,Mil Status,Not a Veteran,0.0,41.46,-41.46,0,34
+Human Resources,Race/Ethnicity,Asian,40.0,18.29,21.71,2,15
+Human Resources,Race/Ethnicity,Hispanic/Latino,20.0,9.76,10.24,1,8
+Human Resources,Race/Ethnicity,White,40.0,48.78,-8.78,2,40
+Human Resources,Race/Ethnicity,Black/African American,0.0,18.29,-18.29,0,15
+Information Technology,Sex,Male,51.43,42.87,8.56,36,445
+Information Technology,Sex,Female,48.57,56.84,-8.27,34,590
+Library,Disabled,N,100.0,73.85,26.15,3,48
+Library,Disabled,Y,0.0,26.15,-26.15,0,17
+Library,Race/Ethnicity,Not Applicable,16.67,0.84,15.83,1,1
+Library,Race/Ethnicity,Black/African American,0.0,8.4,-8.4,0,10
+Library,Race/Ethnicity,Asian,16.67,29.41,-12.75,1,35
+Office & Administrative,Sex,Female,66.41,58.06,8.35,87,1178
+Police & Safety,Disabled,N,100.0,72.55,27.45,5,37
+Police & Safety,Disabled,Y,0.0,27.45,-27.45,0,14
+Police & Safety,Mil Status,Not a Veteran,71.43,48.94,22.49,5,46
+Police & Safety,Mil Status,Not indicated,28.57,48.94,-20.36,2,46
+Police & Safety,Race/Ethnicity,White,85.71,57.45,28.27,6,54
+Police & Safety,Race/Ethnicity,Black/African American,0.0,12.77,-12.77,0,12
+Police & Safety,Sex,Male,57.14,32.98,24.16,4,31
+Police & Safety,Sex,Female,42.86,67.02,-24.16,3,63
+Professional Management,Disabled,N,79.66,72.0,7.66,47,697
+Professional Management,Disabled,Y,20.34,28.0,-7.66,12,271
+Student Affairs & Services,Mil Status,Not a Veteran,60.71,49.12,11.6,17,195
+Student Affairs & Services,Mil Status,Not indicated,39.29,47.61,-8.32,11,189
+Student Affairs & Services,Race/Ethnicity,Black/African American,21.43,11.87,9.56,6,47
+Student Affairs & Services,Sex,Female,71.43,58.69,12.74,20,233
+Student Affairs & Services,Sex,Male,28.57,41.06,-12.49,8,163

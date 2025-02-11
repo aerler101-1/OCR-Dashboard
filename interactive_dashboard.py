@@ -3,11 +3,24 @@ import plotly.express as px
 import streamlit as st
 
 # Load the cleaned CSV files
-employee_csv_path = "Redacted_Employee_Data.csv"
+employee_full_csv_path = "Redacted_Employee_Data.csv"
+employee_subset_csv_path = "Redacted_Employee_Data_Subset.csv"
 applicant_csv_path = "Redacted_Applicant_Data.csv"
 
-employee_df = pd.read_csv(employee_csv_path)
+# Load datasets
+employee_full_df = pd.read_csv(employee_full_csv_path)
+employee_subset_df = pd.read_csv(employee_subset_csv_path)
 applicant_df = pd.read_csv(applicant_csv_path)
+
+# User selection for dataset
+st.sidebar.title("Dataset Selection")
+selected_dataset = st.sidebar.radio("Choose Employee Data:", ["Full Dataset", "Subset Dataset"])
+
+# Assign the selected dataset
+if selected_dataset == "Full Dataset":
+    employee_df = employee_full_df
+else:
+    employee_df = employee_subset_df
 
 # Define demographic columns
 demographic_columns = ["Sex", "Disabled", "Disab Vet", "Race/Ethnicity", "Mil Status"]
@@ -58,7 +71,7 @@ fig = px.bar(
     y="Percentage",
     color="Group",
     barmode="group",
-    title=f"{selected_demographic} Distribution for {selected_job_family}",
+    title=f"{selected_demographic} Distribution for {selected_job_family} ({selected_dataset})",
     labels={"Percentage": "Percentage (%)", "Category": selected_demographic},
     hover_data={"Percentage": ":.2f"}  # Display percentage with two decimal points
 )
