@@ -67,3 +67,8 @@ Contributions are welcome! If you’d like to suggest improvements or add featur
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+## Project Challenges
+
+- **Data Integration**: One of the core challenges was connecting the applicant and employee datasets. Since there was no shared identifier beyond a redacted ID, the analysis had to be carefully scoped to only include individuals present in both datasets.
+- **Filtered Analysis**: To ensure data integrity and meaningful comparisons, the dashboard restricts visualizations and statistical testing to only those IDs that overlapped between the two sources. This required meticulous data cleaning, filtering, and validation to maintain consistency and relevance across job family demographics.
