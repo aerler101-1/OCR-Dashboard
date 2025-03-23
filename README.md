@@ -1,6 +1,6 @@
 # OCR-Dashboard
 
-This project is an interactive dashboard designed to analyze demographic data from the **Office of Civil Rights (OCR)**. The dashboard helps visualize differences in demographics between applicants and employees across various job families, enabling organizations to identify disparities and inform equitable decision-making. A online version is available at https://ocr-dashboard.streamlit.app/
+This project is an interactive dashboard designed to analyze demographic data. The dashboard helps visualize differences in demographics between applicants and employees across various job families, enabling organizations to identify disparities and inform equitable decision-making. A online version is available at https://ocr-dashboard.streamlit.app/
 
 ## Table of Contents
 
